@@ -34,17 +34,42 @@ def find_names_in_file(file_path: str, names: List[str], context_length: int = 5
                 for match in pattern.finditer(line):
                     start = match.start()
                     end = match.end()
-                    
+
+                    # Define what characters bound the context
+                    boundary_chars = set(" \t\n<>.,;:!?()[]{}\"/")
+
                     # Get left context
-                    left_start = max(0, start - context_length)
-                    left_context = line[left_start:start]
+                    left_start_temp = max(0, start - context_length) # Add logic to detect xml tags in the context length and move left start to outside of it
+                    left_start = left_start_temp
+
+                    for i in range(left_start_temp - 1, -1, -1):
+                        ch = line[i]
+                        if ch in boundary_chars:
+                            # stop at boundary and start right after it
+                            left_start = i + 1
+                            break
+
+                        left_start = i  # extend one char left each time
+
+                    left_context = line[left_start:start].lstrip()
                     
                     # Get the matched name
                     matched_name = line[start:end]
                     
                     # Get right context
-                    right_end = min(len(line), end + context_length)
-                    right_context = line[end:right_end]
+                    right_end_temp = min(len(line), end + context_length)
+                    right_end = right_end_temp
+
+                    for i in range(right_end_temp, len(line)):
+                        ch = line[i]
+                        if ch in boundary_chars:
+                            # stop at boundary
+                            right_end = i
+                            break
+
+                        right_end = i  # extend one char right each time
+
+                    right_context = line[end:right_end].rstrip()
                     
                     # Clean up contexts (remove newlines for display)
                     left_clean = left_context.replace('\n', ' ').replace('\r', '')
@@ -85,10 +110,10 @@ def export_to_csv(results: List[dict], output_file: str):
 
 def main():
     # Input file
-    xml_file = '/mnt/user-data/uploads/holinshed_elizabeth_excerpt_analysis_s.xml'
+    xml_file = './holinshed_elizabeth_excerpt_analysis_s.xml'
     
     # Names to search for
-    names_to_find = ["Elizabeth"]
+    #names_to_find = ["Elizabeth"]
     
     # Context length (characters on each side)
     context_length = 5
@@ -111,7 +136,7 @@ def main():
         print(f"\n... and {len(results) - 10} more results")
     
     # Export to CSV
-    output_file = '/mnt/user-data/outputs/name_contexts.csv'
+    output_file = 'name_extraction/name_contexts.csv'
     export_to_csv(results, output_file)
     
     # Also create a summary by name
@@ -137,7 +162,7 @@ def main():
     multiple_names = ["Elizabeth", "England", "Ireland", "Essex", "Queene"]
     results_multiple = find_names_in_file(xml_file, multiple_names, context_length)
     
-    output_file_multiple = '/mnt/user-data/outputs/multiple_names_contexts.csv'
+    output_file_multiple = 'name_extraction/multiple_names_contexts.csv'
     export_to_csv(results_multiple, output_file_multiple)
     
     # Summary for multiple names

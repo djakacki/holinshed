@@ -1,464 +1,464 @@
 line_number,name,left_context,right_context,full_context
-9,England,s of ,", Sco","s of England, Sco"
-9,Ireland, and ,e , and Irelande 
-10,England,s of ,", fro","s of England, fro"
-54,England,s of ,", Sco","s of England, Sco"
-55,England,s of ,", fro","s of England, fro"
-55,Ireland,     ,e con,     Irelande con
-72,England,s of ,", ","s of England, "
-73,Ireland, and ,"e, wi"," and Irelande, wi"
-173,Elizabeth,"v n="""," I"" t","v n=""Elizabeth I"" t"
-175,Elizabeth,eene ,.</he,eene Elizabeth.</he
-175,Queene,head>, Eliz,head>Queene Eliz
-182,Elizabeth,eene ,.</no,eene Elizabeth.</no
-182,Queene,"gin"">", Eliz,"gin"">Queene Eliz"
-184,Queene,     , Mary,     Queene Mary
-189,Elizabeth,adie , sist,adie Elizabeth sist
-189,Queene,ayde , to ,ayde Queene to 
-190,England,e of ,"e, se","e of Englande, se"
-196,England,r of ,"e, wh","r of Englande, wh"
-200,Queene,adie , Mari,adie Queene Mari
-203,Elizabeth,adie ,", sec","adie Elizabeth, sec"
-205,Queene,late ,", of ","late Queene, of "
-209,Elizabeth,adie , Quee,adie Elizabeth Quee
-209,Queene,beth , of t,beth Queene of t
-210,Elizabeth,eene ,", lon","eene Elizabeth, lon"
-210,Elizabeth,eene , raig,eene Elizabeth raig
-210,Queene,saue , Eliz,saue Queene Eliz
-210,Queene, may , Eliz, may Queene Eliz
-215,Elizabeth,adie , proc,adie Elizabeth proc
-216,Queene,     ,.</no,     Queene.</no
-216,Queene,newe ,", by ","newe Queene, by "
-217,Elizabeth, <hi>, by t, <hi>Elizabeth by t
-217,England,e of ,", Fra","e of England, Fra"
-217,Queene, God , of E, God Queene of E
-218,Ireland,     ,"e, de","     Irelande, de"
-226,Elizabeth,e Q. , bega,e Q. Elizabeth bega
-227,England,     ,"e, to","     Englande, to"
-239,Queene,>The ,s rem,>The Queenes rem
-240,Queene, the ,s , the Queenes 
-274,Queene,     , Mary,     Queene Mary
-275,Queene,"gin"">", Mary,"gin"">Queene Mary"
-279,England,", of ", and ,", of England and "
-293,Queene, the , of F, the Queene of F
-296,Queene,     , Leon,     Queene Leon
-298,Queene,"ary, ", of H,"ary, Queene of H"
-299,Queene, the , of , the Queene of 
-303,Queene,"ary, ", of H,"ary, Queene of H"
-304,England,e of ,", in ","e of England, in "
-304,Queene,"ary, ", of E,"ary, Queene of E"
-310,Queene, the ,s Pro, the Queenes Pro
-317,Queene, the ,s mai, the Queenes mai
-336,Elizabeth,Lady , by t,Lady Elizabeth by t
-336,Queene, God , , God Queene 
-337,England,  of ,", Fra","  of England, Fra"
-337,Ireland, and ,", def"," and Ireland, def"
-352,Queene, The ,s Mai, The Queenes Mai
-376,Queene, the ,s Mai, the Queenes Mai
-378,Queene,heir ,", and","heir Queene, and"
-382,Queene,     ,s Mai,     Queenes Mai
-387,Queene,ayne ,", beh","ayne Queene, beh"
-413,Queene,re O ,", as ","re O Queene, as "
-414,Queene,ne O ,", as ","ne O Queene, as "
-422,Queene, the ,s mai, the Queenes mai
-424,Queene, the ,s Mai, the Queenes Mai
-478,Queene,     ,s hig,     Queenes hig
-486,Elizabeth,     , his ,     Elizabeth his 
-490,Elizabeth,eene ,", bei","eene Elizabeth, bei"
-490,Queene, was , Eliz, was Queene Eliz
-500,Queene,adye , Anne,adye Queene Anne
-501,Elizabeth,e Q. , that,e Q. Elizabeth that
-502,Queene, and ,", "," and Queene, "
-508,Elizabeth,stie ,", now","stie Elizabeth, now"
-508,Queene,     ,s mos,     Queenes mos
-512,Queene, the ,s Mai, the Queenes Mai
-520,Queene, the ,s Mai, the Queenes Mai
-522,Elizabeth,when ,", dau","when Elizabeth, dau"
-523,Queene, the ,"s, Ma"," the Queenes, Ma"
-524,Elizabeth, was ,", and"," was Elizabeth, and"
-525,Elizabeth,e as , ,e as Elizabeth 
-526,Elizabeth,ther ,",  mi","ther Elizabeth,  mi"
-528,Queene, the ,s Mai, the Queenes Mai
-529,Queene, the ,s Mai, the Queenes Mai
-533,Queene,     ,s Mai,     Queenes Mai
-537,Queene, and ,s abo, and Queenes abo
-552,Elizabeth,eene , his ,eene Elizabeth his 
-552,Queene, and , Eliz, and Queene Eliz
-557,Queene,>The , to Y,>The Queene to Y
-559,Elizabeth,eene , dost,eene Elizabeth dost
-559,Queene,thou , Eliz,thou Queene Eliz
-565,Queene,oble ,", tho","oble Queene, tho"
-574,Elizabeth,gina ,"a,</l","gina Elizabetha,</l"
-591,Elizabeth,aere , tui.,aere Elizabeth tui.
-614,Queene, the ,s Mai, the Queenes Mai
-619,Queene,     ,s Mai,     Queenes Mai
-622,Queene, the ,s Mai, the Queenes Mai
-638,Queene, the ,s , the Queenes 
-647,Queene, the , and , the Queene and 
-664,England,s of ,", ","s of England, "
-667,Queene, the ,s hig, the Queenes hig
-672,Queene, The ,s Mai, The Queenes Mai
-734,Queene, the ,s Mai, the Queenes Mai
-738,Queene,>The ,s Mai,>The Queenes Mai
-752,Queene, the ,s Mai, the Queenes Mai
-758,Elizabeth,eene ,.</q>,eene Elizabeth.</q>
-758,Queene,Lady , Eliz,Lady Queene Eliz
-762,Queene, the ,s hig, the Queenes hig
-774,Queene, the ,s Mai, the Queenes Mai
-780,Queene,"t, O ", of w,"t, O Queene of w"
-794,Queene, the ,s Mai, the Queenes Mai
-818,Queene, the ,s Mai, the Queenes Mai
-826,Queene, the ,s Mai, the Queenes Mai
-847,Queene,the  ,s hig,the  Queenes hig
-851,Queene, the ,s Mai, the Queenes Mai
-853,Queene,     ,s Mai,     Queenes Mai
-854,Queene, the ,s Mai, the Queenes Mai
-856,Queene, the ,s , the Queenes 
-857,Queene,ious ,", and","ious Queene, and"
-858,Queene, The ,s Mai, The Queenes Mai
-863,Queene, and ,", bee"," and Queene, bee"
-864,Queene,euer , was ,euer Queene was 
-891,Queene, the ,s hig, the Queenes hig
-901,Queene, the ,s Mai, the Queenes Mai
-927,Queene,rthy ,",</l>","rthy Queene,</l>"
-932,Queene,     ,s Mai,     Queenes Mai
-933,Queene, the ,. But, the Queene. But
-936,Queene, the ,s Mai, the Queenes Mai
-986,Queene, the ,s Mai, the Queenes Mai
-1043,Elizabeth,turi ,am Re,turi Elizabetham Re
-1087,Elizabeth,  <l>, Regn,  <l>Elizabeth Regn
-1103,Queene, the ,s Mai, the Queenes Mai
-1105,Queene, the ,s Mai, the Queenes Mai
-1106,Queene, the ,s Mai, the Queenes Mai
-1128,Queene,as a , ,as a Queene 
-1135,Queene, the ,s Mai, the Queenes Mai
-1153,Queene,thie ,", tho","thie Queene, tho"
-1178,Elizabeth,glis ,a tui,glis Elizabetha tui
-1187,Queene, the ,s mai, the Queenes mai
-1196,Queene,     ,s hig,     Queenes hig
-1203,Queene, the ,s mos, the Queenes mos
-1208,Queene, the ,s Mai, the Queenes Mai
-1269,Queene,on O ,", on ","on O Queene, on "
-1286,Queene, the ,s , the Queenes 
-1314,Queene,     , amon,     Queene amon
-1323,Queene,this ,", and","this Queene, and"
-1328,Queene,igne , endu,igne Queene endu
-1337,Queene,     ,",  At","     Queene,  At"
-1382,Queene, the ,s hig, the Queenes hig
-1385,Queene,us a , and ,us a Queene and 
-1393,Queene, the ,s mai, the Queenes mai
-1399,Queene,     ,s Mai,     Queenes Mai
-1414,Queene,od a ,", ","od a Queene, "
-1426,Queene, the ,s mos, the Queenes mos
-1474,Queene,full , of ,full Queene of 
-1475,Queene, The , taki, The Queene taki
-1478,Queene, the , of I, the Queene of I
-1480,Queene, the ,", and"," the Queene, and"
-1490,Queene, the ,s Mai, the Queenes Mai
-1495,Queene,s of , Mari,s of Queene Mari
-1502,Queene,hich , Mary,hich Queene Mary
-1506,Queene, the ,s Mai, the Queenes Mai
-1518,Queene,>The ,s Mai,>The Queenes Mai
+9,England,chronicles of ,", Scotlande","chronicles of England, Scotlande"
+9,Ireland,and ,e,and Irelande
+10,England,chronicles of ,", from","chronicles of England, from"
+54,England,chronicles of ,", Scotlande","chronicles of England, Scotlande"
+55,England,chronicles of ,", from","chronicles of England, from"
+55,Ireland,,e conteyning,Irelande conteyning
+72,England,chronicles of ,",","chronicles of England,"
+73,Ireland,and ,"e, with","and Irelande, with"
+173,Elizabeth,"div n="""," I"" type=","div n=""Elizabeth I"" type="
+175,Elizabeth,Queene ,.</head,Queene Elizabeth.</head
+175,Queene,head>, Elizabeth,head>Queene Elizabeth
+182,Elizabeth,Queene ,.</note,Queene Elizabeth.</note
+182,Queene,"margin"">", Elizabeth,"margin"">Queene Elizabeth"
+184,Queene,, Mary,Queene Mary
+189,Elizabeth,Ladie , sister,Ladie Elizabeth sister
+189,Queene,sayde , to,sayde Queene to
+190,England,Crowne of ,"e, sent","Crowne of Englande, sent"
+196,England,Chauncellor of ,"e, whose","Chauncellor of Englande, whose"
+200,Queene,Ladie , Marie,Ladie Queene Marie
+203,Elizabeth,Ladie ,", second","Ladie Elizabeth, second"
+205,Queene,late ,", of whose","late Queene, of whose"
+209,Elizabeth,Ladie , Queene,Ladie Elizabeth Queene
+209,Queene,Elizabeth , of thys,Elizabeth Queene of thys
+210,Elizabeth,Queene ,", long","Queene Elizabeth, long"
+210,Elizabeth,Queene , raigne,Queene Elizabeth raigne
+210,Queene,saue , Elizabeth,saue Queene Elizabeth
+210,Queene,long may , Elizabeth,long may Queene Elizabeth
+215,Elizabeth,Ladie , proclaymed,Ladie Elizabeth proclaymed
+216,Queene,,.</note,Queene.</note
+216,Queene,newe ,", by thys","newe Queene, by thys"
+217,Elizabeth,<hi>, by the,<hi>Elizabeth by the
+217,England,Queene of ,", Fraunce","Queene of England, Fraunce"
+217,Queene,of God , of England,of God Queene of England
+218,Ireland,,"e, defender","Irelande, defender"
+226,Elizabeth,Ladie Q. , began,Ladie Q. Elizabeth began
+227,England,,"e, to","Englande, to"
+239,Queene,>The ,s remouing,>The Queenes remouing
+240,Queene,the ,s,the Queenes
+274,Queene,, Mary,Queene Mary
+275,Queene,"margin"">", Mary,"margin"">Queene Mary"
+279,England,"armes, of ", and,"armes, of England and"
+293,Queene,of the , of Fraunce,of the Queene of Fraunce
+296,Queene,, Leonore,Queene Leonore
+298,Queene,"Mary, ", of Hu,"Mary, Queene of Hu"
+299,Queene,of the , of,of the Queene of
+303,Queene,"Mary, ", of Hungary,"Mary, Queene of Hungary"
+304,England,Queene of ,", in this","Queene of England, in this"
+304,Queene,"Mary, ", of England,"Mary, Queene of England"
+310,Queene,of the ,s Proclamation,of the Queenes Proclamation
+317,Queene,the ,s maiestie,the Queenes maiestie
+336,Elizabeth,Lady , by the,Lady Elizabeth by the
+336,Queene,of God ,,of God Queene
+337,England,of ,", Fraunce","of England, Fraunce"
+337,Ireland,Fraunce and ,", defendour","Fraunce and Ireland, defendour"
+352,Queene,The ,s Maiestie,The Queenes Maiestie
+376,Queene,therefore the ,s Maiestie,therefore the Queenes Maiestie
+378,Queene,their ,", and","their Queene, and"
+382,Queene,,s Maiestie,Queenes Maiestie
+387,Queene,souerayne ,", behold","souerayne Queene, behold"
+413,Queene,therefore O ,", as much","therefore O Queene, as much"
+414,Queene,agayne O ,", as much","agayne O Queene, as much"
+422,Queene,And the ,s maiestie,And the Queenes maiestie
+424,Queene,in the ,s Maiesties,in the Queenes Maiesties
+478,Queene,,s highnes,Queenes highnes
+486,Elizabeth,, his wife,Elizabeth his wife
+490,Elizabeth,Queene ,", being","Queene Elizabeth, being"
+490,Queene,which was , Elizabeth,which was Queene Elizabeth
+500,Queene,Ladye , Anne,Ladye Queene Anne
+501,Elizabeth,Ladye Q. , that,Ladye Q. Elizabeth that
+502,Queene,King and ,",","King and Queene,"
+508,Elizabeth,Maiestie ,", now","Maiestie Elizabeth, now"
+508,Queene,,s most,Queenes most
+512,Queene,the ,s Maiesties,the Queenes Maiesties
+520,Queene,vppon the ,s Maiesties,vppon the Queenes Maiesties
+522,Elizabeth,when ,", daughter","when Elizabeth, daughter"
+523,Queene,that the ,"s, Maiesties","that the Queenes, Maiesties"
+524,Elizabeth,name was ,", and","name was Elizabeth, and"
+525,Elizabeth,lyke as ,,lyke as Elizabeth
+526,Elizabeth,another ,",  mighte","another Elizabeth,  mighte"
+528,Queene,as the ,s Maiesties,as the Queenes Maiesties
+529,Queene,against the ,s Maiesties,against the Queenes Maiesties
+533,Queene,,s Maiestie,Queenes Maiestie
+537,Queene,Kings and ,s aboue,Kings and Queenes aboue
+552,Elizabeth,Queene , his mate,Queene Elizabeth his mate
+552,Queene,and , Elizabeth,and Queene Elizabeth
+557,Queene,l>The , to Yorke,l>The Queene to Yorke
+559,Elizabeth,Queene , dost,Queene Elizabeth dost
+559,Queene,thou , Elizabeth,thou Queene Elizabeth
+565,Queene,noble ,", thou","noble Queene, thou"
+574,Elizabeth,Regina ,"a,</l","Regina Elizabetha,</l"
+591,Elizabeth,haere , tui.,haere Elizabeth tui.
+614,Queene,the ,s Maiestie,the Queenes Maiestie
+619,Queene,,s Maiestie,Queenes Maiestie
+622,Queene,When the ,s Maiestie,When the Queenes Maiestie
+638,Queene,representing the ,s,representing the Queenes
+647,Queene,to the , and,to the Queene and
+664,England,armes of ,",","armes of England,"
+667,Queene,representing the ,s highnes,representing the Queenes highnes
+672,Queene,The ,s Maiestie,The Queenes Maiestie
+734,Queene,the ,s Maiestie,the Queenes Maiestie
+738,Queene,p>The ,s Maiestie,p>The Queenes Maiestie
+752,Queene,vnto the ,s Maiestie,vnto the Queenes Maiestie
+758,Elizabeth,Queene ,.</q>,Queene Elizabeth.</q>
+758,Queene,Lady , Elizabeth,Lady Queene Elizabeth
+762,Queene,that the ,s highnes,that the Queenes highnes
+774,Queene,the ,s Maiestie,the Queenes Maiestie
+780,Queene,"blest, O ", of worthy,"blest, O Queene of worthy"
+794,Queene,whome the ,s Maiestie,whome the Queenes Maiestie
+818,Queene,the ,s Maiestie,the Queenes Maiestie
+826,Queene,as the ,s Maiestie,as the Queenes Maiestie
+847,Queene,the  ,s highnesse,the  Queenes highnesse
+851,Queene,to the ,s Maiestie,to the Queenes Maiestie
+853,Queene,,s Maiestie,Queenes Maiestie
+854,Queene,vnto the ,s Maiestie,vnto the Queenes Maiestie
+856,Queene,towards the ,s,towards the Queenes
+857,Queene,gracious ,", and","gracious Queene, and"
+858,Queene,The ,s Maiestie,The Queenes Maiestie
+863,Queene,Lady and ,", bee","Lady and Queene, bee"
+864,Queene,euer , was to,euer Queene was to
+891,Queene,before the ,s highnes,before the Queenes highnes
+901,Queene,when the ,s Maiestie,when the Queenes Maiestie
+927,Queene,worthy ,",</l>","worthy Queene,</l>"
+932,Queene,,s Maiestie,Queenes Maiestie
+933,Queene,the ,. But,the Queene. But
+936,Queene,vnto the ,s Maiestie,vnto the Queenes Maiestie
+986,Queene,the ,s Maiestie,the Queenes Maiestie
+1043,Elizabeth,accepturi ,am Reginam,accepturi Elizabetham Reginam
+1087,Elizabeth,<l>, Regni,<l>Elizabeth Regni
+1103,Queene,Which the ,s Maiestie,Which the Queenes Maiestie
+1105,Queene,vnto the ,s Maiestie,vnto the Queenes Maiestie
+1106,Queene,when the ,s Maiestie,when the Queenes Maiestie
+1128,Queene,as a ,,as a Queene
+1135,Queene,When the ,s Maiestie,When the Queenes Maiestie
+1153,Queene,worthie ,", thou","worthie Queene, thou"
+1178,Elizabeth,Anglis ,a tuis,Anglis Elizabetha tuis
+1187,Queene,When the ,s maiesty,When the Queenes maiesty
+1196,Queene,,s highnesse,Queenes highnesse
+1203,Queene,of the ,s moste,of the Queenes moste
+1208,Queene,to the ,s Maiestie,to the Queenes Maiestie
+1269,Queene,on O ,", on whome","on O Queene, on whome"
+1286,Queene,gaue the ,s,gaue the Queenes
+1314,Queene,, amongst,Queene amongst
+1323,Queene,worthis ,", and","worthis Queene, and"
+1328,Queene,soueraigne , endure,soueraigne Queene endure
+1337,Queene,,",  At","Queene,  At"
+1382,Queene,Thus the ,s highnesse,Thus the Queenes highnesse
+1385,Queene,gracious a , and soueraigne,gracious a Queene and soueraigne
+1393,Queene,of the ,s maiesties,of the Queenes maiesties
+1399,Queene,,s Maiestie,Queenes Maiestie
+1414,Queene,good a ,",","good a Queene,"
+1426,Queene,noted the ,s most,noted the Queenes most
+1474,Queene,lawfull , of,lawfull Queene of
+1475,Queene,The , taking,The Queene taking
+1478,Queene,serueth the , of Ipocrasse,serueth the Queene of Ipocrasse
+1480,Queene,to the ,", and","to the Queene, and"
+1490,Queene,the ,s Maiestie,the Queenes Maiestie
+1495,Queene,dayes of , Marie,dayes of Queene Marie
+1502,Queene,which , Mary,which Queene Mary
+1506,Queene,that the ,s Maiestie,that the Queenes Maiestie
+1518,Queene,p>The ,s Maiestie,p>The Queenes Maiestie
 1522,Queene,>The ,s re.,>The Queenes re.
-1570,Queene,at a ,", hau","at a Queene, hau"
-1575,Queene,n in , Mari,n in Queene Mari
-1577,Elizabeth,eene ,", the","eene Elizabeth, the"
-1577,Queene,esse , Eliz,esse Queene Eliz
-1586,Queene, the ,s hou, the Queenes hou
-1596,Queene, the ,s own, the Queenes own
-1603,Queene, all , Mari, all Queene Mari
-1622,England,e of ,e bef,e of Englande bef
-1627,Queene, the ,s mai, the Queenes mai
-1628,Queene,>The ,s mos,>The Queenes mos
-1644,Queene, the ,s Mai, the Queenes Mai
-1648,Queene, the ,s Mai, the Queenes Mai
-1654,England,e of ,"e, if","e of Englande, if"
-1669,Queene, the ,s Mai, the Queenes Mai
-1679,Queene, the ,s Mai, the Queenes Mai
-1733,Queene, the ,s , the Queenes 
-1735,Queene, the ,s Mai, the Queenes Mai
-1787,Queene,     ,s Mai,     Queenes Mai
-1807,England,e of ,", the","e of England, the"
-1807,Queene, the , of E, the Queene of E
-1808,Queene,yde  ,", Doc","yde  Queene, Doc"
-1821,Queene, the ,s Mai, the Queenes Mai
-1823,England,e of ,", and","e of England, and"
-1823,Queene, the ,s Mai, the Queenes Mai
-1827,Queene, the ,s hig, the Queenes hig
-1833,England,e of ,.</p>,e of England.</p>
-1835,England,s of , and ,s of England and 
-1842,England,     ,", we ","     England, we "
-1846,Queene,     ,s Mai,     Queenes Mai
-1848,Queene, and , of S, and Queene of S
-1856,Queene,     ,s han,     Queenes han
-1862,Queene,late , Mari,late Queene Mari
-1864,England,d of ,"e, vn","d of Englande, vn"
-1867,Queene, the ,s hig, the Queenes hig
-1874,Queene,ster , Mary,ster Queene Mary
-1899,Queene, the ,s pre, the Queenes pre
-1904,Queene, the ,s Cou, the Queenes Cou
-1974,Queene, the ,s cha, the Queenes cha
-1975,Queene, the , , the Queene 
-1978,Queene, the , resi, the Queene resi
-1980,Queene,ayde ,",<not","ayde Queene,<not"
-1983,England,r of , for ,r of England for 
-1983,Queene, the ,s mas, the Queenes mas
-1984,England, of  ,e for, of  Englande for
-1984,Queene, the , of  , the Queene of  
-1990,England,  in ,e; co,  in Englande; co
-1991,Queene, the , of F, the Queene of F
-1992,Queene,sayd ,", as ","sayd Queene, as "
-2028,Queene,>The ,s Mai,>The Queenes Mai
-2030,Queene, the , of S, the Queene of S
-2034,Queene,>The ,s Mai,>The Queenes Mai
-2040,Queene, the ,s nau, the Queenes nau
+1570,Queene,that a ,", hauing","that a Queene, hauing"
+1575,Queene,persecution in , Maries,persecution in Queene Maries
+1577,Elizabeth,Queene ,", they","Queene Elizabeth, they"
+1577,Queene,Princesse , Elizabeth,Princesse Queene Elizabeth
+1586,Queene,of the ,s house,of the Queenes house
+1596,Queene,by the ,s owne,by the Queenes owne
+1603,Queene,seas all , Maries,seas all Queene Maries
+1622,England,Churche of ,e before,Churche of Englande before
+1627,Queene,to the ,s maiestie,to the Queenes maiestie
+1628,Queene,p>The ,s most,p>The Queenes most
+1644,Queene,at the ,s Maiesties,at the Queenes Maiesties
+1648,Queene,by the ,s Maiestie,by the Queenes Maiestie
+1654,England,Churche of ,"e, if","Churche of Englande, if"
+1669,Queene,by the ,s Maiesties,by the Queenes Maiesties
+1679,Queene,to the ,s Maiesties,to the Queenes Maiesties
+1733,Queene,of the ,s,of the Queenes
+1735,Queene,of the ,s Maiestie,of the Queenes Maiestie
+1787,Queene,,s Maiesties,Queenes Maiesties
+1807,England,Queene of ,", the","Queene of England, the"
+1807,Queene,For the , of England,For the Queene of England
+1808,Queene,sayde  ,", Doctor","sayde  Queene, Doctor"
+1821,Queene,betwixt the ,s Maiestie,betwixt the Queenes Maiestie
+1823,England,Maiestie of ,", and","Maiestie of England, and"
+1823,Queene,the ,s Maiestie,the Queenes Maiestie
+1827,Queene,to the ,s highnesse,to the Queenes highnesse
+1833,England,Realme of ,.</p>,Realme of England.</p>
+1835,England,Realmes of , and Scotland,Realmes of England and Scotland
+1842,England,,", we haue","England, we haue"
+1846,Queene,,s Maiestie,Queenes Maiestie
+1848,Queene,Dolphin and , of Scottes,Dolphin and Queene of Scottes
+1856,Queene,,s hand,Queenes hand
+1862,Queene,late , Maries,late Queene Maries
+1864,England,Steward of ,"e, vnder","Steward of Englande, vnder"
+1867,Queene,to the ,s highnes,to the Queenes highnes
+1874,Queene,sister , Mary,sister Queene Mary
+1899,Queene,before the ,s presence,before the Queenes presence
+1904,Queene,before the ,s Counsayle,before the Queenes Counsayle
+1974,Queene,at the ,s charges,at the Queenes charges
+1975,Queene,and the ,,and the Queene
+1978,Queene,And the , resisting,And the Queene resisting
+1980,Queene,sayde ,",<note","sayde Queene,<note"
+1983,England,master of , for ayde,master of England for ayde
+1983,Queene,to the ,s master,to the Queenes master
+1984,England,Queene of  ,e for,Queene of  Englande for
+1984,Queene,vnto the , of  Englande,vnto the Queene of  Englande
+1990,England,in ,e; considering,in Englande; considering
+1991,Queene,to the , of Fraunce,to the Queene of Fraunce
+1992,Queene,foresayd ,", as might","foresayd Queene, as might"
+2028,Queene,p>The ,s Maiestie,p>The Queenes Maiestie
+2030,Queene,how the , of Scottes,how the Queene of Scottes
+2034,Queene,>The ,s Maiestie,>The Queenes Maiestie
+2040,Queene,of the ,s nauie,of the Queenes nauie
 2145,England,into ,e for,into Englande for
-2169,Queene, the , rege, the Queene rege
-2173,Queene, the ,.</no, the Queene.</no
-2175,Queene,     , as t,     Queene as t
-2178,Queene, the ,", alt"," the Queene, alt"
-2180,Queene,sayd , ough,sayd Queene ough
-2191,Queene, the , Dowa, the Queene Dowa
+2169,Queene,the , regents,the Queene regents
+2173,Queene,with the ,.</note,with the Queene.</note
+2175,Queene,, as then,Queene as then
+2178,Queene,with the ,", although","with the Queene, although"
+2180,Queene,sayd , ought,sayd Queene ought
+2191,Queene,to the , Dowager,to the Queene Dowager
 2230,England,into ,.</p>,into England.</p>
-2232,Queene,/hi> , rege,/hi> Queene rege
-2237,Queene, the , Dowa, the Queene Dowa
-2351,Queene, the , Dowa, the Queene Dowa
-2373,Queene, the , Dowa, the Queene Dowa
-2673,Queene,>The , Dowa,>The Queene Dowa
-2673,Queene, the , Dowa, the Queene Dowa
-2676,Queene, the ,s Mai, the Queenes Mai
-2677,England,     ,", and","     England, and"
-2680,Queene,arie , of S,arie Queene of S
-2748,Elizabeth,"sse, ", by t,"sse, Elizabeth by t"
-2749,England,e of ,", Fra","e of England, Fra"
-2749,Ireland, and ,", def"," and Ireland, def"
-2749,Queene,     , of E,     Queene of E
-2751,Queene,     , of F,     Queene of F
-2801,Queene,     , of F,     Queene of F
-2802,England,s of ,"e, si","s of Englande, si"
-2803,England,e of ,", and","e of England, and"
-2803,Queene,     ,s Mai,     Queenes Mai
-2806,England,e of ,"e, hi","e of Englande, hi"
-2806,Queene, the ,s Mai, the Queenes Mai
-2816,England,     ,e int,     Englande int
-2821,Queene,     ,s Mai,     Queenes Mai
-2823,Queene, the ,s Mai, the Queenes Mai
-2838,Queene, the ,s Mai, the Queenes Mai
-2842,Queene,>The ,s Mai,>The Queenes Mai
-2844,England,e of ,"e, co","e of Englande, co"
-2869,England,", as ",e hat,", as Englande hat"
-2913,Queene, the ,s Mai, the Queenes Mai
-2921,England,e of ,e vnd,e of Englande vnd
-2927,Queene, the ,s hig, the Queenes hig
-2974,Queene, the ,s Mai, the Queenes Mai
-2982,England,e in ,e wer,e in Englande wer
-3002,Queene, The ,s Mai, The Queenes Mai
-3009,England,     ,"e, an","     Englande, an"
-3029,Queene, the ,s Mai, the Queenes Mai
-3058,Queene, the ,s Amb, the Queenes Amb
-3068,England,     ,e.</n,     Englande.</n
-3069,Queene, the ,s Mai, the Queenes Mai
-3070,England,     ,.</p>,     England.</p>
-3071,Queene, and , moth, and Queene moth
-3076,Queene, the ,s Mai, the Queenes Mai
-3084,England,e of ,"e, as","e of Englande, as"
-3097,Queene, the ,s Shi, the Queenes Shi
-3262,Essex,t of ,", arr","t of Essex, arr"
-3264,Essex,     ," me, ","     Essex me, "
-3275,Queene, the ,s Mai, the Queenes Mai
-3282,Queene, the ,s Shy, the Queenes Shy
+2232,Queene,/hi> , regent,/hi> Queene regent
+2237,Queene,the , Dowager,the Queene Dowager
+2351,Queene,with the , Dowager,with the Queene Dowager
+2373,Queene,with the , Dowager,with the Queene Dowager
+2673,Queene,>The , Dowager,>The Queene Dowager
+2673,Queene,day the , Dowager,day the Queene Dowager
+2676,Queene,to the ,s Maiestie,to the Queenes Maiestie
+2677,England,,", and","England, and"
+2680,Queene,Marie , of Scotland,Marie Queene of Scotland
+2748,Elizabeth,"princesse, ", by the,"princesse, Elizabeth by the"
+2749,England,Queene of ,", France","Queene of England, France"
+2749,Ireland,and ,", defender","and Ireland, defender"
+2749,Queene,, of England,Queene of England
+2751,Queene,, of Fraunce,Queene of Fraunce
+2801,Queene,, of Fraunce,Queene of Fraunce
+2802,England,armes of ,"e, sith","armes of Englande, sith"
+2803,England,Maiestie of ,", and","Maiestie of England, and"
+2803,Queene,,s Maiestie,Queenes Maiestie
+2806,England,Maiestie of ,"e, hir","Maiestie of Englande, hir"
+2806,Queene,of the ,s Maiestie,of the Queenes Maiestie
+2816,England,,e into,Englande into
+2821,Queene,,s Maiesties,Queenes Maiesties
+2823,Queene,For the ,s Maiestie,For the Queenes Maiestie
+2838,Queene,the ,s Maiestie,the Queenes Maiestie
+2842,Queene,p>The ,s Maiestie,p>The Queenes Maiestie
+2844,England,realme of ,"e, coyned","realme of Englande, coyned"
+2869,England,"weapons, as ",e hath,"weapons, as Englande hath"
+2913,Queene,the ,s Maiesty,the Queenes Maiesty
+2921,England,Clergie of ,e vnder,Clergie of Englande vnder
+2927,Queene,of the ,s highnesse,of the Queenes highnesse
+2974,Queene,the ,s Maiestie,the Queenes Maiestie
+2982,England,yeare in ,e were,yeare in Englande were
+3002,Queene,The ,s Maiestie,The Queenes Maiestie
+3009,England,,"e, and","Englande, and"
+3029,Queene,Whylest the ,s Maiestie,Whylest the Queenes Maiestie
+3058,Queene,from the ,s Ambassadors,from the Queenes Ambassadors
+3068,England,,e.</note,Englande.</note
+3069,Queene,as the ,s Maiestie,as the Queenes Maiestie
+3070,England,,.</p>,England.</p>
+3071,Queene,King and , mother,King and Queene mother
+3076,Queene,moued the ,s Maiestie,moued the Queenes Maiestie
+3084,England,Realme of ,"e, as","Realme of Englande, as"
+3097,Queene,in the ,s Shippe,in the Queenes Shippe
+3262,Essex,out of ,", arriue","out of Essex, arriue"
+3264,Essex,," me, vnder","Essex me, vnder"
+3275,Queene,in the ,s Maiesties,in the Queenes Maiesties
+3282,Queene,the ,s Shyppe,the Queenes Shyppe
 3295,England,into ,", but","into England, but"
-3357,Queene, the ,s Shi, the Queenes Shi
-3448,Queene,     ,s Mai,     Queenes Mai
-3556,Queene, the ,s shi, the Queenes shi
-3636,England,into ,", ","into England, "
-3649,Queene, the ,s Mai, the Queenes Mai
-3679,Queene, the ,s Mai, the Queenes Mai
-3864,England,into ,"e, wa","into Englande, wa"
-3879,England,t of ,"e, an","t of Englande, an"
-3899,Queene, the ,s Mai, the Queenes Mai
-3949,Queene, the ,s Mai, the Queenes Mai
-3985,England,into ,", he ","into England, he "
-4022,England,e of ,e had,e of Englande had
-4022,Queene,/hi> ,s Mai,/hi> Queenes Mai
-4200,England,e of ,e and,e of Englande and
-4200,Queene, the , of E, the Queene of E
-4222,Queene,     ,s mai,     Queenes mai
-4226,Queene, and , moth, and Queene moth
-4257,England,     ,"e, th","     Englande, th"
-4271,England,into ,"e, th","into Englande, th"
-4286,Essex,e in , a ma,e in Essex a ma
-4292,England,s of , notw,s of England notw
-4293,Queene, the ,s Mai, the Queenes Mai
-4330,Queene, the ,s Mai, the Queenes Mai
-4334,Queene, the ,s gra, the Queenes gra
-4349,Queene, the ,s Mai, the Queenes Mai
-4351,Queene,>The , a pr,>The Queene a pr
-4358,England,s of ,e his,s of Englande his
-4394,England,e in ,: esp,e in England: esp
-4397,Queene, the ,s Mai, the Queenes Mai
-4398,Queene,arie , of S,arie Queene of S
-4399,Queene, the ,s Mai, the Queenes Mai
-4403,England,s of ,: the,s of England: the
+3357,Queene,of the ,s Shippes,of the Queenes Shippes
+3448,Queene,,s Maiestie,Queenes Maiestie
+3556,Queene,of the ,s shippes,of the Queenes shippes
+3636,England,into ,",","into England,"
+3649,Queene,to the ,s Maiesties,to the Queenes Maiesties
+3679,Queene,of the ,s Maiesties,of the Queenes Maiesties
+3864,England,into ,"e, was","into Englande, was"
+3879,England,coast of ,"e, and","coast of Englande, and"
+3899,Queene,of the ,s Maiesties,of the Queenes Maiesties
+3949,Queene,serue the ,s Maiestie,serue the Queenes Maiestie
+3985,England,into ,", he shortly","into England, he shortly"
+4022,England,Maiestie of ,e had,Maiestie of Englande had
+4022,Queene,/hi> ,s Maiestie,/hi> Queenes Maiestie
+4200,England,Queene of ,e and,Queene of Englande and
+4200,Queene,to the , of Englande,to the Queene of Englande
+4222,Queene,,s maiestie,Queenes maiestie
+4226,Queene,King and , mother,King and Queene mother
+4257,England,,"e, there","Englande, there"
+4271,England,into ,"e, the","into Englande, the"
+4286,Essex,tyme in , a man,tyme in Essex a man
+4292,England,places of , notwithstanding,places of England notwithstanding
+4293,Queene,but the ,s Maiestie,but the Queenes Maiestie
+4330,Queene,betwixt the ,s Maiestie,betwixt the Queenes Maiestie
+4334,Queene,the ,s grace,the Queenes grace
+4349,Queene,the ,s Maiestie,the Queenes Maiestie
+4351,Queene,>The , a progresse,>The Queene a progresse
+4358,England,Kings of ,e his,Kings of Englande his
+4394,England,people in ,: especially,people in England: especially
+4397,Queene,of the ,s Maiestie,of the Queenes Maiestie
+4398,Queene,Marie , of Scotlande,Marie Queene of Scotlande
+4399,Queene,for the ,s Maiestie,for the Queenes Maiestie
+4403,England,adueturers of ,: they,adueturers of England: they
 4405,England,into ,.</p>,into England.</p>
-4422,Essex,     , fiue,     Essex fiue
-4437,Queene,     ,s Mai,     Queenes Mai
-4437,Queene, the ,s Mai, the Queenes Mai
-4440,Queene, the , gaue, the Queene gaue
-4452,England,r of ,", des","r of England, des"
-4470,England,into ,", by ","into England, by "
-4479,Queene, the ,s esp, the Queenes esp
-4480,Queene, the ,s , the Queenes 
-4492,Queene,     ,s hig,     Queenes hig
-4503,Queene, the ,s mai, the Queenes mai
-4504,Queene,>The ,s ,>The Queenes 
-4507,Queene, the ,s mai, the Queenes mai
-4512,Queene,     ,s hig,     Queenes hig
-4513,Queene, the ,s Cha, the Queenes Cha
-4517,Queene, the , at t, the Queene at t
-4520,England,     , may ,     England may 
-4536,Ireland,     ,e.</n,     Irelande.</n
-4538,Ireland,s of ,"e, an","s of Irelande, an"
-4551,Queene, and , of S, and Queene of S
-4555,England,e of , was ,e of England was 
-4555,Queene, the ,s Mai, the Queenes Mai
-4598,Queene, the ,s Mai, the Queenes Mai
-4599,Ireland,     ,"e, an","     Irelande, an"
-4605,Ireland,e of ,"e, he","e of Irelande, he"
-4627,Queene, the ,s Mai, the Queenes Mai
-4660,England,t of ,e by ,t of Englande by 
-4660,Queene, the ,s Mai, the Queenes Mai
+4422,Essex,, fiue,Essex fiue
+4437,Queene,,s Maiesties,Queenes Maiesties
+4437,Queene,the ,s Maiestie,the Queenes Maiestie
+4440,Queene,Christning the , gaue,Christning the Queene gaue
+4452,England,Gunner of ,", desirous","Gunner of England, desirous"
+4470,England,into ,", by the","into England, by the"
+4479,Queene,by the ,s especiall,by the Queenes especiall
+4480,Queene,of the ,s,of the Queenes
+4492,Queene,,s highnesse,Queenes highnesse
+4503,Queene,the ,s maiestie,the Queenes maiestie
+4504,Queene,>The ,s,>The Queenes
+4507,Queene,towardes the ,s maiestie,towardes the Queenes maiestie
+4512,Queene,,s highnesse,Queenes highnesse
+4513,Queene,of the ,s Chapel,of the Queenes Chapel
+4517,Queene,the , at the,the Queene at the
+4520,England,, may reioyce,England may reioyce
+4536,Ireland,,e.</note,Irelande.</note
+4538,Ireland,partes of ,"e, and","partes of Irelande, and"
+4551,Queene,King and , of Scottes,King and Queene of Scottes
+4555,England,Maiestie of , was the,Maiestie of England was the
+4555,Queene,and the ,s Maiestie,and the Queenes Maiestie
+4598,Queene,agaynst the ,s Maiestie,agaynst the Queenes Maiestie
+4599,Ireland,,"e, and","Irelande, and"
+4605,Ireland,deputie of ,"e, he","deputie of Irelande, he"
+4627,Queene,by the ,s Maiestie,by the Queenes Maiestie
+4660,England,out of ,e by maister,out of Englande by maister
+4660,Queene,vppon the ,s Maiesties,vppon the Queenes Maiesties
 4679,England,into , vnto,into England vnto
-4679,Queene, the ,s Mai, the Queenes Mai
-4686,Queene, the ,s Mai, the Queenes Mai
-4749,Queene, the ,s mai, the Queenes mai
-4785,Queene, the ,s Mai, the Queenes Mai
-4796,Queene, the ,s , the Queenes 
-4835,Queene, the ,s Mai, the Queenes Mai
-4841,Queene, the ,s Lie, the Queenes Lie
-4858,England,l of ,e ,l of Englande 
-4859,Queene, the ,s Mai, the Queenes Mai
-4916,Queene, the ,s , the Queenes 
-4948,Queene, the ,s mai, the Queenes mai
-4960,Queene, the ,s mai, the Queenes mai
-5001,England,into ,"e, an","into Englande, an"
-5037,England,     ,"e, th","     Englande, th"
-5055,England,     , the ,     England the 
-5073,England,into ,"e, Ha","into Englande, Ha"
-5077,England,     ,e wer,     Englande wer
-5208,England,e of ,s nam,e of Englands nam
-5208,Queene, the , of E, the Queene of E
-5229,Queene, the ,s Mai, the Queenes Mai
-5231,England,rdes ,e and,rdes Englande and
-5243,Queene, the ,s Mai, the Queenes Mai
-5256,England,g in ,"e, ea","g in Englande, ea"
-5256,Queene, the ,s Mai, the Queenes Mai
-5258,England,e of ,es ay,e of Englandes ay
-5258,Queene, the , of E, the Queene of E
-5309,England,into , by t,into England by t
-5357,England,e of ,es Ge,e of Englandes Ge
-5357,Queene,     , of E,     Queene of E
-5391,England,e of ,e and,e of Englande and
-5391,Queene,     , of E,     Queene of E
-5629,England,e of ,"e, wa","e of Englande, wa"
-5629,Queene, the , of E, the Queene of E
-5644,England,e of ,",<not","e of England,<not"
-5646,England,     , and ,     England and 
-5686,Queene, the ,s hig, the Queenes hig
-5705,England,e of ,es ,e of Englandes 
-5705,Queene, the , of E, the Queene of E
-5766,Queene, the ,s Mai, the Queenes Mai
-5786,Queene,/hi> ,s att,/hi> Queenes att
-5811,Queene, the ,s Mai, the Queenes Mai
-5813,Queene, the ,s arm, the Queenes arm
-5815,England,teth ,e and,teth Englande and
-5845,England,t_in_,"""> ","t_in_England""> "
-6057,Queene, the ,s Mai, the Queenes Mai
-6060,Queene, the ,s , the Queenes 
-6080,Queene, the ,s nau, the Queenes nau
-6114,Essex,"v n=""",""" typ","v n=""Essex"" typ"
-6116,Essex,head>, ,head>Essex 
-6148,Queene,the  ,s Mai,the  Queenes Mai
-6178,Queene, the ,s Mai, the Queenes Mai
-6199,Queene,     ,s Alm,     Queenes Alm
-6228,England,e in ,e a l,e in Englande a l
-6231,Queene, the ,s Mai, the Queenes Mai
-6236,Queene, the ,s Mai, the Queenes Mai
-6266,Queene,     ,s Mai,     Queenes Mai
-6284,Queene,/hi> ,s gua,/hi> Queenes gua
-6447,Queene, the ,s Mai, the Queenes Mai
-6450,Queene, and ,s of , and Queenes of 
-6459,England,e of ,e for,e of Englande for
-6466,Queene, the ,s Mai, the Queenes Mai
-6470,Queene, the ,s Mai, the Queenes Mai
-6471,England,r of ,"e, at","r of Englande, at"
-6475,Queene,amp; ,s day,amp; Queenes day
-6477,Queene, and ,"s, He"," and Queenes, He"
-6478,Elizabeth,eene ,. All,eene Elizabeth. All
-6478,Queene,"ixt, ", Mary,"ixt, Queene Mary"
-6478,Queene, and , Eliz, and Queene Eliz
-6483,Queene,the  ,s Mai,the  Queenes Mai
-6499,Queene, the ,s Mai, the Queenes Mai
-6503,Essex,s of , and ,s of Essex and 
-6504,England,l of ,"e, wa","l of Englande, wa"
-6504,Essex,e of ,. And,e of Essex. And
-6507,Queene, the ,s Mai, the Queenes Mai
-6513,England,e of ,e was,e of Englande was
-6574,England,     ,e cam,     Englande cam
-6582,England,     ,e wit,     Englande wit
-6590,England,e of ,", Sir","e of England, Sir"
-6590,Queene,     , of E,     Queene of E
-6594,England,s of , to t,s of England to t
-6595,England,s of ,e. On,s of Englande. On
-6599,England,s of ,e too,s of Englande too
-6600,England,into , ,into England 
-6613,Queene, the ,s Mai, the Queenes Mai
-6616,Queene, the ,s Mai, the Queenes Mai
-6630,Queene, the ,s Mai, the Queenes Mai
-6631,England,r of ,: ,r of England: 
-6642,Ireland,r in ,e.</n,r in Irelande.</n
-6643,Queene, the ,s Mai, the Queenes Mai
-6644,Ireland,n of ,"e, se","n of Irelande, se"
-6672,Queene, the ,s , the Queenes 
-6676,Queene, two ,s in , two Queenes in 
-6679,Queene, the ,s Mai, the Queenes Mai
-6695,Queene, the ,s fau, the Queenes fau
-6723,England,e of ,"e, wh","e of Englande, wh"
-6723,Queene,     ,s Mai,     Queenes Mai
-6729,Elizabeth,     ,. The,     Elizabeth. The
-6729,England,into , the ,into England the 
-6730,Queene, the ,s Mai, the Queenes Mai
-6734,England,l of ,", tha","l of England, tha"
-6786,Queene, the ,s Mai, the Queenes Mai
-6833,Queene,>Our , at t,>Our Queene at t
-6858,Queene, the ,s Mai, the Queenes Mai
-6972,Elizabeth,eene , a ,eene Elizabeth a 
-6972,England,     ,",<not","     England,<not"
-6972,Queene,"gin"">", Eliz,"gin"">Queene Eliz"
-6992,Queene, our ,s , our Queenes 
-7067,England,e of , Page,e of England Page
-7084,Essex,e of ,", acc","e of Essex, acc"
-7086,Essex,e of , and ,e of Essex and 
-7088,Ireland,     ,e.</n,     Irelande.</n
-7090,Ireland,rdes ,e.</p,rdes Irelande.</p
-7101,Essex,e of ,", and","e of Essex, and"
-7109,Essex,e of , haui,e of Essex haui
-7110,England,e of , dire,e of England dire
-7110,Ireland,ter  ,.</no,ter  Ireland.</no
-7110,Essex,e of , capt,e of Essex capt
-7111,Ireland,e of ,"e, wi","e of Irelande, wi"
-7112,Essex,e of , Capt,e of Essex Capt
-7229,Queene, the ,s mai, the Queenes mai
-7337,England,     ,"e, as","     Englande, as"
-7405,Elizabeth,s of ,", Mar","s of Elizabeth, Mar"
-7441,Queene,     ,s Mai,     Queenes Mai
-7459,Queene, the ,s Mai, the Queenes Mai
-7499,Ireland,l of ,", Kni","l of Ireland, Kni"
-7499,Essex,e of ,", and","e of Essex, and"
-7502,Essex,e of , depa,e of Essex depa
-7512,England,e of , and ,e of England and 
-7512,Queene, the ,s Mai, the Queenes Mai
-7521,England,e in ,e and,e in Englande and
-7521,Ireland, and ,"e, as"," and Irelande, as"
-7556,Elizabeth,eene ,", who","eene Elizabeth, who"
-7556,Queene,Lady , Eliz,Lady Queene Eliz
+4679,Queene,vnto the ,s Maiestie,vnto the Queenes Maiestie
+4686,Queene,Ianuarie the ,s Maiestie,Ianuarie the Queenes Maiestie
+4749,Queene,before the ,s maiestie,before the Queenes maiestie
+4785,Queene,receyued the ,s Maiesties,receyued the Queenes Maiesties
+4796,Queene,of the ,s,of the Queenes
+4835,Queene,time the ,s Maiestie,time the Queenes Maiestie
+4841,Queene,Sussex the ,s Lieutenant,Sussex the Queenes Lieutenant
+4858,England,Admyrall of ,e,Admyrall of Englande
+4859,Queene,by the ,s Maiesties,by the Queenes Maiesties
+4916,Queene,attemptes the ,s,attemptes the Queenes
+4948,Queene,to the ,s maiesties,to the Queenes maiesties
+4960,Queene,of the ,s maiesties,of the Queenes maiesties
+5001,England,into ,"e, and","into Englande, and"
+5037,England,,"e, they","Englande, they"
+5055,England,, the,England the
+5073,England,into ,"e, Hauing","into Englande, Hauing"
+5077,England,,e were,Englande were
+5208,England,Queene of ,s name,Queene of Englands name
+5208,Queene,in the , of Englands,in the Queene of Englands
+5229,Queene,the ,s Maiesties,the Queenes Maiesties
+5231,England,towardes ,e and,towardes Englande and
+5243,Queene,in the ,s Maiesties,in the Queenes Maiesties
+5256,England,remayning in ,"e, earnesy","remayning in Englande, earnesy"
+5256,Queene,by the ,s Maiesties,by the Queenes Maiesties
+5258,England,Queene of ,es ayde,Queene of Englandes ayde
+5258,Queene,wythoute the , of Englandes,wythoute the Queene of Englandes
+5309,England,into , by the,into England by the
+5357,England,Queene of ,es Generall,Queene of Englandes Generall
+5357,Queene,, of Englandes,Queene of Englandes
+5391,England,Queene of ,e and,Queene of Englande and
+5391,Queene,, of Englande,Queene of Englande
+5629,England,Queene of ,"e, was","Queene of Englande, was"
+5629,Queene,of the , of Englande,of the Queene of Englande
+5644,England,realme of ,",<note","realme of England,<note"
+5646,England,, and Scotlande,England and Scotlande
+5686,Queene,of the ,s highnesse,of the Queenes highnesse
+5705,England,Queene of ,es,Queene of Englandes
+5705,Queene,at the , of Englandes,at the Queene of Englandes
+5766,Queene,against the ,s Maiestie,against the Queenes Maiestie
+5786,Queene,/hi> ,s attourney,/hi> Queenes attourney
+5811,Queene,for the ,s Maiestie,for the Queenes Maiestie
+5813,Queene,with the ,s army,with the Queenes army
+5815,England,parteth ,e and,parteth Englande and
+5845,England,account_of_tempest_in_,""">","account_of_tempest_in_England"">"
+6057,Queene,the ,s Maiestie,the Queenes Maiestie
+6060,Queene,all the ,s,all the Queenes
+6080,Queene,of the ,s nauy,of the Queenes nauy
+6114,Essex,"div n=""",""" type=","div n=""Essex"" type="
+6116,Essex,head>,,head>Essex
+6148,Queene,the  ,s Maiestie,the  Queenes Maiestie
+6178,Queene,fro the ,s Maiestie,fro the Queenes Maiestie
+6199,Queene,,s Almayn,Queenes Almayn
+6228,England,heere in ,e a little,heere in Englande a little
+6231,Queene,to the ,s Maiestie,to the Queenes Maiestie
+6236,Queene,before the ,s Maiestie,before the Queenes Maiestie
+6266,Queene,,s Maiesty,Queenes Maiesty
+6284,Queene,/hi> ,s guarde,/hi> Queenes guarde
+6447,Queene,by the ,s Maiestie,by the Queenes Maiestie
+6450,Queene,Kynges and ,s of thys,Kynges and Queenes of thys
+6459,England,Stewarde of ,e for,Stewarde of Englande for
+6466,Queene,of the ,s Maiesties,of the Queenes Maiesties
+6470,Queene,of the ,s Maiesties,of the Queenes Maiesties
+6471,England,Treasorer of ,"e, at","Treasorer of Englande, at"
+6475,Queene,&amp; ,s dayes,&amp; Queenes dayes
+6477,Queene,Kings and ,"s, Henrye","Kings and Queenes, Henrye"
+6478,Elizabeth,Queene ,. All,Queene Elizabeth. All
+6478,Queene,"sixt, ", Mary,"sixt, Queene Mary"
+6478,Queene,and , Elizabeth,and Queene Elizabeth
+6483,Queene,the  ,s Maiestie,the  Queenes Maiestie
+6499,Queene,before the ,s Maiestie,before the Queenes Maiestie
+6503,Essex,Earles of , and Lincolne,Earles of Essex and Lincolne
+6504,England,Admirall of ,"e, was","Admirall of Englande, was"
+6504,Essex,Earle of ,. And,Earle of Essex. And
+6507,Queene,by the ,s Maiesties,by the Queenes Maiesties
+6513,England,Realme of ,e was,Realme of Englande was
+6574,England,,e came,Englande came
+6582,England,,e withdrawing,Englande withdrawing
+6590,England,Queene of ,", Sir","Queene of England, Sir"
+6590,Queene,, of England,Queene of England
+6594,England,Nobles of , to the,Nobles of England to the
+6595,England,Nobles of ,e. On,Nobles of Englande. On
+6599,England,Nobles of ,e tooke,Nobles of Englande tooke
+6600,England,into ,,into England
+6613,Queene,of the ,s Maiestie,of the Queenes Maiestie
+6616,Queene,betwixt the ,s Maiestie,betwixt the Queenes Maiestie
+6630,Queene,the ,s Maiestie,the Queenes Maiestie
+6631,England,Treasorer of ,:,Treasorer of England:
+6642,Ireland,Vlstar in ,e.</note,Vlstar in Irelande.</note
+6643,Queene,of the ,s Maiesties,of the Queenes Maiesties
+6644,Ireland,reformation of ,"e, sente","reformation of Irelande, sente"
+6672,Queene,of the ,s,of the Queenes
+6676,Queene,and two ,s in daungerous,and two Queenes in daungerous
+6679,Queene,to the ,s Maiestie,to the Queenes Maiestie
+6695,Queene,in the ,s fauour,in the Queenes fauour
+6723,England,Maiestie of ,"e, who","Maiestie of Englande, who"
+6723,Queene,,s Maiestie,Queenes Maiestie
+6729,Elizabeth,,. They,Elizabeth. They
+6729,England,into , the seue,into England the seue
+6730,Queene,to the ,s Maiestie,to the Queenes Maiestie
+6734,England,Admirall of ,", that","Admirall of England, that"
+6786,Queene,of the ,s Maiesties,of the Queenes Maiesties
+6833,Queene,p>Our , at the,p>Our Queene at the
+6858,Queene,the ,s Maiestie,the Queenes Maiestie
+6972,Elizabeth,Queene , a,Queene Elizabeth a
+6972,England,,",<note","England,<note"
+6972,Queene,"margin"">", Elizabeth,"margin"">Queene Elizabeth"
+6992,Queene,our ,s,our Queenes
+7067,England,Historie of , Page,Historie of England Page
+7084,Essex,Erle of ,", accompanyed","Erle of Essex, accompanyed"
+7086,Essex,le of , and the,le of Essex and the
+7088,Ireland,,e.</note,Irelande.</note
+7090,Ireland,towardes ,e.</p,towardes Irelande.</p
+7101,Essex,Earle of ,", and","Earle of Essex, and"
+7109,Essex,Erle of , hauing,Erle of Essex hauing
+7110,England,Maiestie of , directed,Maiestie of England directed
+7110,Ireland,Vlster  ,.</note,Vlster  Ireland.</note
+7110,Essex,Erle of , captaine,Erle of Essex captaine
+7111,Ireland,Deputie of ,"e, willing","Deputie of Irelande, willing"
+7112,Essex,Earle of , Captaine,Earle of Essex Captaine
+7229,Queene,of the ,s maiesties,of the Queenes maiesties
+7337,England,,"e, as","Englande, as"
+7405,Elizabeth,names of ,", Marie","names of Elizabeth, Marie"
+7441,Queene,,s Maiesties,Queenes Maiesties
+7459,Queene,wherevpon the ,s Maiestie,wherevpon the Queenes Maiestie
+7499,Ireland,Marshall of ,", Knight","Marshall of Ireland, Knight"
+7499,Essex,Earle of ,", and","Earle of Essex, and"
+7502,Essex,Earle of , departeth,Earle of Essex departeth
+7512,England,Maiestie of , and the,Maiestie of England and the
+7512,Queene,of the ,s Maiestie,of the Queenes Maiestie
+7521,England,Portingale in ,e and,Portingale in Englande and
+7521,Ireland,Englande and ,"e, as","Englande and Irelande, as"
+7556,Elizabeth,Queene ,", whose","Queene Elizabeth, whose"
+7556,Queene,Lady , Elizabeth,Lady Queene Elizabeth
