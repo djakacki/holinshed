@@ -113,7 +113,7 @@ def main():
     xml_file = './holinshed_elizabeth_excerpt_analysis_s.xml'
     
     # Names to search for
-    #names_to_find = ["Elizabeth"]
+    names_to_find = ["Elizabeth"]
     
     # Context length (characters on each side)
     context_length = 5
