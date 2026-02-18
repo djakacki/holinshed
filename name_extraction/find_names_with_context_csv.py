@@ -6,8 +6,57 @@ track line numbers, and export to CSV
 
 import csv
 import re
+from lxml import etree
 from typing import List, Tuple
 
+
+def parse_tei(file_path: str) -> etree._ElementTree:
+    parser = etree.XMLParser(remove_comments=True, recover=True)
+    return etree.parse(file_path, parser)
+
+def flatten_paragraph_with_mapping(p_elem):
+    full_text = []
+    index_map = []
+
+    for elem in p_elem.iter():
+        if elem.text:
+            for ch in elem.text:
+                full_text.append(ch)
+                index_map.append(elem)
+
+        if elem.tail:
+            for ch in elem.tail:
+                full_text.append(ch)
+                index_map.append(elem)
+
+    return "".join(full_text), index_map
+
+def expand_to_word_boundary(text, start, end, context_length):
+    left = max(0, start - context_length)
+    right = min(len(text), end + context_length)
+
+    while left > 0 and text[left - 1].isalnum():
+        left -= 1
+
+    while right < len(text) and text[right].isalnum():
+        right += 1
+
+    return left, right
+
+def get_enclosing_semantic_tag(elem):
+    while elem is not None:
+        tag_name = etree.QName(elem).localname
+        if tag_name in {"persName", "placeName", "orgName"}:
+            return {
+                "tag": tag_name,
+                "attributes": dict(elem.attrib)
+            }
+        elem = elem.getparent()
+
+    return None
+
+
+TEI_NS = {"tei": "http://www.tei-c.org/ns/1.0"}
 
 def find_names_in_file(file_path: str, names: List[str], context_length: int = 5) -> List[dict]:
     """
@@ -22,67 +71,46 @@ def find_names_in_file(file_path: str, names: List[str], context_length: int = 5
         List of dictionaries with keys: line_number, name, left_context, right_context, full_context
     """
     results = []
-    
-    # Create regex patterns for each name (case-insensitive)
-    patterns = {name: re.compile(re.escape(name), re.IGNORECASE) for name in names}
-    
-    # Read file line by line
-    with open(file_path, 'r', encoding='utf-8') as f:
-        for line_num, line in enumerate(f, start=1):
-            # Search for each name in the current line
-            for name, pattern in patterns.items():
-                for match in pattern.finditer(line):
-                    start = match.start()
-                    end = match.end()
 
-                    # Define what characters bound the context
-                    boundary_chars = set(" \t\n<>.,;:!?()[]{}\"/")
+    parser = etree.XMLParser(remove_comments=True, recover=True)
+    tree = etree.parse(file_path, parser)
+    root = tree.getroot()
 
-                    # Get left context
-                    left_start_temp = max(0, start - context_length) # Add logic to detect xml tags in the context length and move left start to outside of it
-                    left_start = left_start_temp
+    patterns = {
+        name: re.compile(rf"\b{re.escape(name)}\b", re.IGNORECASE)
+        for name in names
+    }
 
-                    for i in range(left_start_temp - 1, -1, -1):
-                        ch = line[i]
-                        if ch in boundary_chars:
-                            # stop at boundary and start right after it
-                            left_start = i + 1
-                            break
+    # Iterate per paragraph
+    for para_index, p in enumerate(root.xpath(".//tei:p", namespaces=TEI_NS), start=1):
 
-                        left_start = i  # extend one char left each time
+        # Extract clean visible text only
+        paragraph_text = "".join(p.itertext())
 
-                    left_context = line[left_start:start].lstrip()
-                    
-                    # Get the matched name
-                    matched_name = line[start:end]
-                    
-                    # Get right context
-                    right_end_temp = min(len(line), end + context_length)
-                    right_end = right_end_temp
+        for name, pattern in patterns.items():
+            for match in pattern.finditer(paragraph_text):
 
-                    for i in range(right_end_temp, len(line)):
-                        ch = line[i]
-                        if ch in boundary_chars:
-                            # stop at boundary
-                            right_end = i
-                            break
+                start = match.start()
+                end = match.end()
 
-                        right_end = i  # extend one char right each time
+                left, right = expand_to_word_boundary(
+                    paragraph_text, start, end, context_length
+                )
 
-                    right_context = line[end:right_end].rstrip()
-                    
-                    # Clean up contexts (remove newlines for display)
-                    left_clean = left_context.replace('\n', ' ').replace('\r', '')
-                    right_clean = right_context.replace('\n', ' ').replace('\r', '')
-                    
-                    results.append({
-                        'line_number': line_num,
-                        'name': matched_name,
-                        'left_context': left_clean,
-                        'right_context': right_clean,
-                        'full_context': left_clean + matched_name + right_clean
-                    })
-    
+                left_context = paragraph_text[left:start].strip()
+                matched_name = paragraph_text[start:end]
+                right_context = paragraph_text[end:right].strip()
+
+                results.append({
+                    "paragraph_number": para_index,
+                    "name": matched_name,
+                    "start_offset": start,
+                    "end_offset": end,
+                    "left_context": left_context,
+                    "right_context": right_context,
+                    "full_context": f"{left_context} {matched_name} {right_context}".strip()
+                })
+
     return results
 
 
@@ -95,17 +123,28 @@ def export_to_csv(results: List[dict], output_file: str):
         output_file: Path to the output CSV file
     """
     if not results:
-        print("No results to export!")
+        print("No results to export.")
         return
-    
-    fieldnames = ['line_number', 'name', 'left_context', 'right_context', 'full_context']
-    
-    with open(output_file, 'w', newline='', encoding='utf-8') as csvfile:
+
+    fieldnames = [
+        "paragraph_number",
+        "name",
+        "start_offset",
+        "end_offset",
+        "left_context",
+        "right_context",
+        "full_context"
+    ]
+
+    with open(output_file, "w", newline="", encoding="utf-8") as csvfile:
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
         writer.writeheader()
-        writer.writerows(results)
-    
+
+        for row in results:
+            writer.writerow(row)
+
     print(f"Results exported to: {output_file}")
+
 
 
 def main():
@@ -116,7 +155,7 @@ def main():
     names_to_find = ["Elizabeth"]
     
     # Context length (characters on each side)
-    context_length = 5
+    context_length = 15
     
     print(f"Searching for names: {', '.join(names_to_find)}")
     print(f"Context length: {context_length} characters on each side\n")
@@ -130,7 +169,7 @@ def main():
     print("Preview of first 10 results:")
     print("-" * 80)
     for i, result in enumerate(results[:10], 1):
-        print(f"{i}. Line {result['line_number']}: '{result['full_context']}'")
+        print(f"{i}. Paragraph {result['paragraph_number']}: '{result['full_context']}'")
     
     if len(results) > 10:
         print(f"\n... and {len(results) - 10} more results")
