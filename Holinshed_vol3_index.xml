@@ -1,0 +1,862 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="https://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/LEAF-VRE/code_snippets/refs/heads/main/CSS/leaf.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The firste [laste] volume of the chronicles of England, Scotlande, and Irelande
+               conteyning the description and chronicles of England, from the first inhabiting vnto
+               the conquest : the description and chronicles of Scotland, from the first original of
+               the Scottes nation till the yeare of our Lorde 1571 : the description and chronicles
+               of Yrelande, likewise from the first originall of that nation untill the yeare 1571 /
+               faithfully gathered and set forth by Raphaell Holinshed.</title>
+            <author>Holinshed, Raphael, d. 1580?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1577</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16408 KB of XML-encoded text transcribed from 1493 1-bit group-IV TIFF page
+            images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2009-10">2009-10 (EEBO-TCP Phase 1).</date>
+            <idno type="DLPS">A03448</idno>
+            <idno type="STC">STC 13568B</idno>
+            <idno type="STC">ESTC S3985</idno>
+            <idno type="EEBO-CITATION">34382662</idno>
+            <idno type="OCLC">ocm 34382662</idno>
+            <idno type="VID">29044</idno>
+            <availability>
+               <p>This keyboarded and encoded edition of the work described above is co-owned by the
+                  institutions providing financial support to the Early English Books Online Text
+                  Creation Partnership. This Phase I text is available for reuse, according to the
+                  terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Creative
+                     Commons 0 1.0 Universal</ref>. The text can be copied, modified, distributed
+                  and performed, even for commercial purposes, all without asking permission.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 1, no. A03448)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 29044)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1897:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The firste [laste] volume of the chronicles of England, Scotlande, and
+                     Irelande conteyning the description and chronicles of England, from the first
+                     inhabiting vnto the conquest : the description and chronicles of Scotland, from
+                     the first original of the Scottes nation till the yeare of our Lorde 1571 : the
+                     description and chronicles of Yrelande, likewise from the first originall of
+                     that nation untill the yeare 1571 / faithfully gathered and set forth by
+                     Raphaell Holinshed.</title>
+                  <author>Holinshed, Raphael, d. 1580?</author>
+               </titleStmt>
+               <extent>2 v. (ca. 2969 p.in various pagings) : ill. </extent>
+               <publicationStmt>
+                  <publisher>Imprinted for Iohn Hunne,</publisher>
+                  <pubPlace>At London :</pubPlace>
+                  <date>1577.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Includes indexes.</note>
+                  <note>Title printed within ornamental border.</note>
+                  <note>The second volume has title: The laste volume of the chronicles of England,
+                     Scotlande, and Irelande, with their descriptions.</note>
+                  <note>Errata: 2 p. at end of v.1; 4 p. at end of v.2.</note>
+                  <note>Imperfect: tightly bound and with print show-through.</note>
+                  <note>Signatures: V. 1: [par.]⁶, A-Q⁸, r¹, a-s⁸, t¹, A², *b*², *a*- *b*⁶, A-2J⁸,
+                     2K⁴, 2L-2M⁶, [fleuron]² A-C⁸, D⁴, A-D⁸, E⁵, F-G⁸, H⁶, I³; V. 2: [par]², t²⁻⁸,
+                     v-z⁸, A-4Z⁸, A-N⁴.</note>
+                  <note>Reproduction of original in: Harvard University. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl, TEI @ Oxford. </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the
+               publisher ProQuest to create accurately transcribed and encoded texts based on the
+               image sets published by ProQuest via their Early English Books Online (EEBO) database
+               (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy
+               (usually the first edition) of every monographic English-language title published
+               between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project
+               restraints of time and funding, and therefore chose to create diplomatic
+               transcriptions (as opposed to critical editions) with light-touch, mainly structural
+               encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during
+               Phase 1 of the project have been released into the public domain as of 1 January
+               2015. Anyone can now take and use these texts for their own purposes, but we
+               respectfully request that due credit and attribution is given to their original
+               source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any
+               assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature
+               (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then
+               their works are eligible for inclusion. Selection was intended to range over a wide
+               variety of subject areas, to reflect the true nature of the print record of the
+               period. In general, first editions of a works in English were prioritized, although
+               there are a number of works in other languages, notably Latin and Welsh, included and
+               sometimes a second or later edition of a work was chosen if there was a compelling
+               reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic
+               encoding. Quality assurance was then carried out by editorial teams in Oxford and
+               Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for
+               accuracy and those which did not meet QA standards were returned to the keyers to be
+               redone. After proofreading, the encoding was enhanced and/or corrected and characters
+               marked as illegible were corrected where possible up to a limit of 100 instances per
+               text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these
+               processes should make clear that, while the overall quality of TCP data is very good,
+               some errors will remain and some readable characters will be marked as illegible.
+               Users should bear in mind that in all likelihood such instances will never have been
+               looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the
+               TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with
+               mnemonic sdata character entities); displayable XML (TCP schema; characters
+               represented either as UTF-8 Unicode or text strings within braces); or lossless XML
+               (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref
+                  target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership
+                  web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)"
+               replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)"
+               replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"
+            />
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain -- History -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2008-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2008-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+         <change>
+            <date>2026-01-02</date>
+            <label>Diane Jakacki</label> Created segment version for LEAF-Writer and removed facsimile images)
+         </change>
+      </revisionDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="index">
+                  <pb facs="tcp:29044:659"/>
+                  <head>A TABLE EXACTLY DRAVVEN for the Hiſtorie of Irelande.</head>
+                  <list>
+                     <head>A.</head>
+                     <item>ABbay <hi>de caſtro dei,</hi> founded. 28</item>
+                     <item>Adam de Hereford an Engliſh captaine, van<g ref="char:EOLhyphen"/>quiſheth the Iriſh in a daungerous battail. 33</item>
+                     <item>Alayn de la Zouch Lorde Iuſtice, ſlaine by the Erle of Surrey. 45</item>
+                     <item>Albius an Iriſh biſhop. 11</item>
+                     <item>Aldlecke caſtle deſtroyed. 45</item>
+                     <item>Alen Iohn, Archbiſhop of Dublin, enimie to the Giraldines. 90. flieth to the caſtel of Dublin. 91. is apprehended by the rebelles, and ſhamefully murdered. 92</item>
+                     <item>Alen Iohn, knight. 90. Alice Kettle a witch. 58</item>
+                     <item>Alma earle Strangbow his daughter, maried to William eldeſt ſon to Maurice Fitz Girald. 34</item>
+                     <item>Ambition ſetteth one brother agaynſt another. 3. 5</item>
+                     <item>Anninus. 3. Antragh. 78</item>
+                     <item>Ardſcollburnt. 46</item>
+                     <item>Articles agreed vpon in the counſel at Caſſhil. 10</item>
+                     <item>Arthur Mac Murrow, ouercome by Iames erle of Ormond. 71</item>
+                     <item>Arthure king of Brytaine, had the Iriſh in ſub<g ref="char:EOLhyphen"/>iection, and tooke tribute of them. 5</item>
+                     <item>Articles of agreement betweene Rotherick Mo<g ref="char:EOLhyphen"/>narke of Ireland, and Dermote king of Lun<g ref="char:EOLhyphen"/>ſter. 23</item>
+                     <item>Arundell Lord of the Stand, his yerely reuenues in Henrie the fourth his dayes. 68</item>
+                     <item>Atheſſell burnt. 57. Athione caſtell burnt. 53</item>
+                     <item>Aylmer Girald chiefe Iuſtice. 99. his conference with king Henrie the eight of the diſorder of Irelande. 106</item>
+                  </list>
+                  <list>
+                     <head>B.</head>
+                     <item>BAlimore burnt. 49</item>
+                     <item>Ballioll Edw. king of Scots doth homage. 46</item>
+                     <item>Balram Lord of Enford his yearely reuenues in Henrie the fourth his dayes. 68</item>
+                     <item>Banchor. 12</item>
+                     <item>Barnevale of Beerehauen, his yearely reuenues in Henrie the fourth his dayes. 68</item>
+                     <item>Barnewell Lorde of Trinieſton, ſurrendereth the ſword to ſir William Skeffington. 97</item>
+                     <item>Barod Lord of the garde his yearely reuenues in Henrie the fourth his dayes. 68</item>
+                     <item>Barby Thomas Maior of Dublin. 85</item>
+                     <item>Barre Philip. 39</item>
+                     <item>Barre Robert a valiant Gentleman. 23</item>
+                     <item>Bard de Nelan an Iriſh Richmour. 93</item>
+                     <item>Bartolenus. 1. Barre Robert. 23</item>
+                     <item>Bath William of Dollardeſtowne his wordes. 96</item>
+                     <item>Battail of Ardineigh 57. Battail of Knoctone. 75</item>
+                     <item>Battaile agaynſt the Giants. 2</item>
+                     <item>Bedlow Iohn. 65. Bedlow of the Roche. 80</item>
+                     <item>Bonneuille Iohn. 51. Beterley Walter. 66</item>
+                     <item>Bignort Alexander Archbiſhoppe of Dublin<g ref="char:punc">▪</g> 56. erecteth an Vniuerſitie. 57</item>
+                     <item>Birmingham Walter his notable act. 65</item>
+                     <item>Birmingham Iohn vanquiſheth the Scottes. 57 is made erle of Louth. 57 is made L. iuſtice. 58</item>
+                     <item>Birmingham Peter. 50</item>
+                     <item>Birminghams famous captaines. 57</item>
+                     <item>Biſſet Hugh. 55</item>
+                     <item>Biſhops how they were elected 20. maryed By<g ref="char:EOLhyphen"/>ſhops. 13</item>
+                     <item>Bithi one of the firſt finders out of Ireland. 1</item>
+                     <item>Blanchfield a Citizen of Dublin ſlaine. 7<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>
+                     </item>
+                     <item>Blake Iohn Maior of Dublin. 75</item>
+                     <item>Boice his wordes to the Erle of Kildare. 7<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>
+                     </item>
+                     <item>Bothum William, Archbiſhop of Dublin. 47</item>
+                     <item>Boureate caſtle. 60. Bounaght. 74</item>
+                     <item>Brennus king of Brytaine called into Ireland. 4</item>
+                     <item>Brewſe Philip. 31. Bren Obren. 60</item>
+                     <item>Brendan Abbot. 12</item>
+                     <item>Brereton William knight, landeth with his ſoul<g ref="char:EOLhyphen"/>diours. 90. ſommoneth the caſtell of Maynoth, ſcaleth the walles, and aduaunceth his ſtandar<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> on the higheſt turret. 97. hee is left to defende Dublyn againſt the rebels. 99. ſkirmiſheth with the rebelles. 100</item>
+                     <item>Brytayne Iohn Erle of Richmonde Lord War<g ref="char:EOLhyphen"/>den of Scotlande. 50</item>
+                     <item>Britons when firſt they entred Ireland. 4</item>
+                     <item>Bride Saint hir life. 11</item>
+                     <item>Brought<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>n Thomas knight. 75</item>
+                     <item>Bruce Edwarde, brother to the king of Scottes inuadeth Irelande, and cauſeth himſelfe to bee crowned king. 52. his actes there. 53.55. ſlaine at the battaile of Ardmagh. 57</item>
+                     <item>Bruce Robert king of Scottes landeth in Ire<g ref="char:EOLhyphen"/>lande, <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>4</item>
+                     <item>Bruce Robert. 52</item>
+                     <item>Burgh William. 70 Burgh Thomas. 60.65</item>
+                     <item>Burghes and Birminghams. 54</item>
+                     <item>Burgh William. 51.55</item>
+                     <item>Burgh Rich. erle of Vlſter beſiegeth Athlone. 46. is taken priſoner. 47. inuadeth Scotland. 48</item>
+                     <item>Burkeyns. 67</item>
+                     <item>Burnell Iohn of Balgriffin. 9<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>. executed at Ty<g ref="char:EOLhyphen"/>burne. 99</item>
+                     <item>Butler Iames eldeſt ſonne to the Erle of Oſſory his letter to the Lorde Fitz G<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>ralde. 91. hee is wounded by the rebels, 93</item>
+                     <item>Butler Iames Earle of Ormonde marcheth to Dublin with a great power. 77. is purſued by the Citizens into Saint Patrickes church. 78 his deſcription. ibid.</item>
+                     <item>Butler Iames Lorde of Ormonde vanquiſheth Omore and his horrible armie. 71. his famous exploytes. 7<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>
+                     </item>
+                     <item>Butlers fauourers of the houſe of Lancaſter. 4</item>
+                     <item>Butler Piers Erle of Oſſorie, marieth Marga<g ref="char:EOLhyphen"/>ret ſiſter to the erle of Kildare. 79. ſlayeth Ia<g ref="char:EOLhyphen"/>mes a baſtard Butler ibid. is appoynted Lord deputie. 80. accuſeth the erle of Kildare. 83</item>
+                     <item>Butler Edmonde his exploytes. 52.55</item>
+                     <item>Butler Thomas. 59</item>
+                     <item>Butler Walter made Erle of Vlſter. 44.45</item>
+                     <item>Butler Theobalde. 44</item>
+                     <item>Butler Iames knight Lord Treaſorer. <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>5</item>
+                  </list>
+                  <list>
+                     <head>C.</head>
+                     <item>CAlfe Henrie. 49</item>
+                     <item>Caltropes ſtrawe<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> by the Iriſh to annoy the Danes at their landing. 17</item>
+                     <item>Cannon Thomas. 90</item>
+                     <item>Carew .63. the Marques Caro his yearely re<g ref="char:EOLhyphen"/>uenues. 68</item>
+                     <item>Cardinals ſent to king Henrie the ſeconde. <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>
+                     </item>
+                     <item>Carauſius. 8</item>
+                     <item>Caraticus king of Britaine. 14</item>
+                     <item>Caſhels ſpoyled by the Scottes. 55</item>
+                     <item>Coteſbach Euſtace Chamberlaine of Scotla<g ref="char:cmbAbbrStroke">̄</g>d. 50</item>
+                     <item>Catholicus Archbiſhop of Thomond. 30</item>
+                     <item>Catherlaghe. 64</item>
+                     <item>Cathgur Oconthir king of Connagh. 45</item>
+                     <item>Cantreb what it is, and by whome inu<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>aded. 3</item>
+                     <item>Canute ſlaine at the ſiege of Dublin. 18</item>
+                     <item>Ca<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>nton Dauid knight. 4<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>
+                     </item>
+                     <item>Caucocke Thomas L. Chancellour of Irelande co<g ref="char:cmbAbbrStroke">̄</g>ſecrated vi of Imaley kepeth a great feaſt. 49</item>
+                     <item>
+                        <pb facs="tcp:29044:660"/>Celeſtine. 9</item>
+                     <item>Celſus biſhop of Ardmagh. 12</item>
+                     <item>Cenanus firſt a man of warre, then a biſhop. 12</item>
+                     <item>Ceſara nece to Noe, firſt finder out of Ireland. 1</item>
+                     <item>Charter of Ireland confirmed by Parliament. 67</item>
+                     <item>Chriſtian biſhop of Liſmore, ſummoneth a pro<g ref="char:EOLhyphen"/>uinciall counſaile in Ireland. 20</item>
+                     <item>Chriſt church ſteeple in Dublin quite burnt. 46</item>
+                     <item>Citrius Prince of Dublin. 46</item>
+                     <item>Clare Thomas ſine Obrenroth king of Tholeth<g ref="char:EOLhyphen"/>mond. 45. dyeth. 46</item>
+                     <item>Clare Richard diſcomfiteth Richard earle of Vl<g ref="char:EOLhyphen"/>ſter with a great armye 51. ſlayeth. 600. of the Galagheghas. ibid is ſlaine. 56</item>
+                     <item>Clergie denounceth curſing agaynſt the breakers of their allegiance to the king of England. 35</item>
+                     <item>Clentars field. 19. Cocherings. 74</item>
+                     <item>Cogan Miles a valiant knight, captaine of Dub<g ref="char:EOLhyphen"/>lin, repulſeth the enimies from the ſiege there<g ref="char:EOLhyphen"/>of. 26. his good ſeruice in the ciuill warres a<g ref="char:EOLhyphen"/>gaynſt king Henrie the ſeconde. 37. is ioyned in commiſſion with William Fitz Aldelme lieute<g ref="char:EOLhyphen"/>nant of Ireland ibid. trayterouſly ſlaine. 39</item>
+                     <item>Cogan Richard. 39. Cokeſey Hugh. 70</item>
+                     <item>Colton Iohn Archbiſhop of Ardmagh. 66</item>
+                     <item>Colmolm caſtel taken. 72.</item>
+                     <item>Commiſſioners ſent into Irelande to examine the controuerſies betweene the Earles of Kildare and Oſſorie. 81</item>
+                     <item>Commiſſioners ſent into Irelande by king Hen<g ref="char:EOLhyphen"/>rie the ſecond. 35</item>
+                     <item>Combat. 71</item>
+                     <item>Comyn Iordayne ſlayeth Maritagh Oconguir king of Offalie. 48</item>
+                     <item>Combat chalenged by certain French knights. 42</item>
+                     <item>Commiſſioners ſent into Ireland<g ref="char:punc">▪</g> to examin ſuch as were ſuſpected with the Lord Fitz Giralde his rebellion. 104</item>
+                     <item>Contention for preheminence of churches. 40.51</item>
+                     <item>Con Oneale beareth the ſworde before the Lorde deputie. 81</item>
+                     <item>Conereth a ſauage people of Ireland. 12</item>
+                     <item>Conthurus. 23</item>
+                     <item>Conway Iohn knight preſident of Vlſter. 11</item>
+                     <item>Corbi what it ſignifieth. 67</item>
+                     <item>Corke the reuenues of the Baronies within the ſame. 68. waſted by Reymond le Grace with the Engliſh armie. 36</item>
+                     <item>Cormacke Mack Dermote, Mack Rori, ioyneth with the Lorde Iuſtice, and vanquiſheth Odo<g ref="char:EOLhyphen"/>nill the Iriſh enimie. 44</item>
+                     <item>Councell at Grenocke. 45</item>
+                     <item>Councell of the cleargie holden at Caſhill. 30</item>
+                     <item>Counteſſe of Vlſter a cruell woman. 61</item>
+                     <item>Cowes belly. 100</item>
+                     <item>Cowly Robert Baylife of Dublin, after maiſter of the Rolles in Ireland. 90</item>
+                     <item>Crauley Thomas Archbiſhop of Dublin a great benefactor, his death and deſcription. 70</item>
+                     <item>Cragfergus beſieged by the Scottes, and yelded to them. 55</item>
+                     <item>Cromuder primate of Ardmagh. 85. his deſcrip<g ref="char:EOLhyphen"/>tion. 91. his good exhortation to the Lorde Fitz Girald at his reuolting. 92</item>
+                     <item>Crauly Thomas Archbiſhop of Dublin, choſen Lord Iuſtice. 69</item>
+                     <item>Crathlinth king of Scottes. 8</item>
+                     <item>Croftes Hugh. 56</item>
+                     <item>Cumin Archbiſhoppe of Dublin. 40. buildeth the kings caſtell there 44. he foundeth S. Patricks church. 44</item>
+                     <item>Curcy Iohn conquereth Vlſter. 38. his fiue bat<g ref="char:EOLhyphen"/>tails ibid he rebelleth and is taken. 42. his ſtout anſwere to king Iohn. ibid. his act before king Iohn &amp; the French k. his death &amp; deſcriptio<g ref="char:cmbAbbrStroke">̄</g>. 43</item>
+                     <item>Curcy Lord of Kelbretton his reuenues. 68</item>
+                     <item>Cuſacke Iohn. 57. Cuſacke Adam. 45</item>
+                  </list>
+                  <list>
+                     <head>D.</head>
+                     <item>DArcy Iohn L. Iuſtice inuadeth Scotla<g ref="char:cmbAbbrStroke">̄</g>d. 6</item>
+                     <item>Daris. 11</item>
+                     <item>Dearth great. 47</item>
+                     <item>Deceter Richard. 4</item>
+                     <item>Decer Iohn maior of Dub. a great benefactor. 51</item>
+                     <item>Delahide Iohn. 93</item>
+                     <item>Delahide Walter knight, and the lady Genet Eu<g ref="char:EOLhyphen"/>ſtace his wife. 99.100</item>
+                     <item>Delahide Iames principall counſaylor to the lord Fitz Girald in his rebellion. 91.93. flieth into Scotland and there dieth. 101</item>
+                     <item>Dela a Grecian his fiue ſonnes with a power co<g ref="char:cmbAbbrStroke">̄</g>
+                        <g ref="char:EOLhyphen"/>quere Ireland. 3</item>
+                     <item>Dermote king of Cork ſubmitteth himſelf to He<g ref="char:cmbAbbrStroke">̄</g>
+                        <g ref="char:EOLhyphen"/>rie the ſeconde. 2.29</item>
+                     <item>Derwarth caſtell buylded. 41</item>
+                     <item>Dermote king of Deſmonde, with a great power is diſcomfited in battail. 33. is expelled out of his countrey by his ſonne, and reſtored by Rey<g ref="char:EOLhyphen"/>mond le Grace. 36</item>
+                     <item>Donate Biſhop of Dublin. 46</item>
+                     <item>Donald prince of the vpper Oſſorie. 23.26</item>
+                     <item>Donald prince of Thomo<g ref="char:cmbAbbrStroke">̄</g>d beſiegeth Limerick. 35 playeth the periured traytour. 3<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>
+                     </item>
+                     <item>Doubrothy Abbay founded. 39</item>
+                     <item>Donalde prince of Limericke ſubmitteth himſelfe to Henrie the ſecond. 29. diſcomfiteth the Dub<g ref="char:EOLhyphen"/>linians. 33. rebelleth and is ſubdued. 38</item>
+                     <item>Donate Obren 52. Donegan Odowill. 52</item>
+                     <item>Dowdall Iohn ſherif of Louth ſlaine. 66</item>
+                     <item>Downe. 11 Dowiſh Abbay founded. 44</item>
+                     <item>Dradargh y<hi rend="sup">e</hi> marcha<g ref="char:cmbAbbrStroke">̄</g>ts thereof inuade Scotla<g ref="char:cmbAbbrStroke">̄</g>d. 67</item>
+                     <item>Drake Iohn Maior of Dublin his worthie ex<g ref="char:EOLhyphen"/>ployte. 66</item>
+                     <item>Dublin, fired by a policie, and ſo won by the Da<g ref="char:EOLhyphen"/>nes. 16. againe won and rifled by the Danes. 17. taken by ſiege againe by the Danes. ibid. againe wonne by the Danes. 18. founded by Iuorus an Eaſterling. 19. ſubdued by the Engliſhe armye vnder the leading of Maurice Fitz Girald. 24. taken by Dermote king of Lemſter by aſſault 26. aſſaulted by the Norwegians, but defended, ibid. beſieged by an huge power of Iriſhmen. 27 aſſaulted by Ororicke king of Meth. 28. defaced by fire. 45. a great part burnt. 4<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>. indicted by the Popes Legate. 79. beſieged by Thomas Lorde Fitz Girald and his rebels. 94. the Maioraltie and officers of the citie. 60</item>
+                     <item>Dublinians inuade Scotland and Wales. 67. ſlay and take a great nu<g ref="char:cmbAbbrStroke">̄</g>ber within Obren his coun<g ref="char:EOLhyphen"/>trey. 65. ruſhe into Saint Patrikes churche in warlike maner. 78. are diſcomfited by Fitz Gi<g ref="char:EOLhyphen"/>rald and his rebels 91. their youth are take<g ref="char:cmbAbbrStroke">̄</g> pri<g ref="char:EOLhyphen"/>ſoners by the rebels. 95. they vanquiſh the Re<g ref="char:EOLhyphen"/>belles. 95</item>
+                     <item>Dubtactus Saint Brides father. 11</item>
+                     <item>Duffe Adam an heretike burnt. 58</item>
+                     <item>Dundenolfe. 25</item>
+                     <item>Dundalke taken and burnt by the Scots. 52</item>
+                     <item>Dunlouan burnt. 51</item>
+                  </list>
+                  <list>
+                     <head>E.</head>
+                     <item>EAſterlings trade into Ireland. 19. build diuers townes. ibid. what they are. ibid.</item>
+                     <item>Earthquake. 45</item>
+                     <item>Edward the firſt writeth to the Iriſh Lords. 47</item>
+                     <item>Edward the ſecond writeth to the Lorde Iuſtice of Ireland. 58</item>
+                     <item>Engliſhme<g ref="char:cmbAbbrStroke">̄</g> reuoked forth of Ireland by Edict. 26</item>
+                     <item>Eſchequer remoued. 64</item>
+                     <item>
+                        <pb facs="tcp:29044:660"/>Euſtace of Ballicutlan. 92.96</item>
+                     <item>Euſtace Ienet. 99</item>
+                     <item>Euſtace Rowland knight. 74</item>
+                  </list>
+                  <list>
+                     <head>F.</head>
+                     <item>FIeld Iames of Luſke. 93</item>
+                     <item>Field Thomas of Payneſtowne. 95</item>
+                     <item>Fernes fou<g ref="char:cmbAbbrStroke">̄</g>ded 12. Ferrando William. 25</item>
+                     <item>Ferguſe king of Scottes drowned. 8</item>
+                     <item>Fernis caſtell taken and burnt. 57</item>
+                     <item>Ferguſius. 3. Fiftenth graunted. 45</item>
+                     <item>Finean. 1.12. Fingall ſpoyled. 91</item>
+                     <item>Fitz Girald Thomas, eldeſt ſonne to the erle of Kildare, Lord deputie to his father. 89. his anſwere to ſir Iohn Aleyns taunt 90 the occaſion of his rebellion, and his proce<g ref="char:EOLhyphen"/>dings. 91.92.93.94.95.96. his ſtratagemes 99. he is executed. 101. his deſcription. ibid.</item>
+                     <item>Fitz Giralde Marie. 102</item>
+                     <item>Fitz Girald Elenor. 102</item>
+                     <item>Fitz Thomas Morice Erle of Kildare, his ſeruice at the ſiege of Calais. 63. his allow<g ref="char:EOLhyphen"/>ance being Lord Iuſtice what it was. 64</item>
+                     <item>Fitz Morice Girald erle of Deſmo<g ref="char:cmbAbbrStroke">̄</g>d ſlain. 64</item>
+                     <item>Fitzgiralde Girald reſtored to the Erledome of Kildar. 102. his adue<g ref="char:cmbAbbrStroke">̄</g>tures in his youth in France, Flaunders and Italy. 102.103</item>
+                     <item>Fitz Giralde Richarde, his prophecye of the Cowes bely. 100</item>
+                     <item>Fitz Giralde Maurice one of the chiefe con<g ref="char:EOLhyphen"/>querors of Irelande his pedegree. 22. hee ſayleth into Ireland with a power. 24. his dealings. ibid. and. 31. his death. 38</item>
+                     <item>Fitz Giralde Morice his ſonne. 44.45</item>
+                     <item>Fitz Giralde Morice Earle of Deſmonde drowned. 45</item>
+                     <item>Fitz Roger William, Prior of the knightes hoſpitallers taken. 45</item>
+                     <item>Fitz Stephens Raufe trayterouſly murthe<g ref="char:EOLhyphen"/>red. 39</item>
+                     <item>Fitz Stephens Robert, one of the chief con<g ref="char:EOLhyphen"/>querors of Irelande his pedegree. 22. paſ<g ref="char:EOLhyphen"/>ſeth into Irela<g ref="char:cmbAbbrStroke">̄</g>d with a power. 23. his pro<g ref="char:EOLhyphen"/>ceedings there. 27. &amp;. 28. his deſcription. 38</item>
+                     <item>Fitz Aldelme Lord Deputie his deſcription. 37. his dealings. 38</item>
+                     <item>Finglaſſe chiefe baron. 91</item>
+                     <item>Fitz Simons Iohn, Mutor of Dublin his good ſeruice in repulſing the Moores 80. his anſwere to the Biſhop of Meth. <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>5. he vittayleth the caſtell of Dublin. 92</item>
+                     <item>Fitz Simons Patricke, his woorthie ex<g ref="char:EOLhyphen"/>ployte. 80.91</item>
+                     <item>Fitz Simons Tho. recorder of Dublin. 84</item>
+                     <item>Fitz Giralde Margaret, hir doings and de<g ref="char:EOLhyphen"/>ſcription. 79.81</item>
+                     <item>Fitz Girald of Lexlip. 81</item>
+                     <item>Fitz Thomas Iohn the firſt Earle of Kil<g ref="char:EOLhyphen"/>dare. 55. falleth out with Veſcie Lord Iu<g ref="char:EOLhyphen"/>ſtice. &amp;c. 44</item>
+                     <item>Fitz Thomas Morice Earle of Deſmonde his troubles. 39.60.62.63</item>
+                     <item>Fitz Morice Morice. 45</item>
+                     <item>Fitz Giralde Bartholomow. 92</item>
+                     <item>Fitz Giralde Iohn knight. 92</item>
+                     <item>Fitz Girald Olmer. 92</item>
+                     <item>Fitz Girald Iames, Walter, Oliuer, Iohn, &amp; Richarde, apprehended. 100. executed. 101</item>
+                     <item>Fitz William Iohn. 65</item>
+                     <item>Fitz Thomas Morice captaine of the Iriſh at Stoke battaile. 75</item>
+                     <item>Fitz Giralde Giralde Erle of Kildare Lord Deputie to Edwarde King Richarde the thirde his ſonne. 74. and to Henrie duke of Yorke. 75. a fauorer of Lambart and Par<g ref="char:EOLhyphen"/>kyn warbecke. ibid. vanquiſheth the Iriſh at Knoctowe fielde. ibid. his aunſwere to Boice one of his Gentlemen. 78. his aun<g ref="char:EOLhyphen"/>ſwere at his examinatio<g ref="char:cmbAbbrStroke">̄</g> before Henrie the ſe<g ref="char:EOLhyphen"/>uenth. 78. his death and deſcription. 79.78</item>
+                     <item>Fitz Girald Giralde his ſonne Earle of Kil<g ref="char:EOLhyphen"/>dare, Lorde deputie his victories agaynſt the Tooles and Ocorell. &amp;c. 79. his accuſa<g ref="char:EOLhyphen"/>tions, examinations and aunſweres be<g ref="char:EOLhyphen"/>fore the Counſaile. 82.83.84.85. his exhor<g ref="char:EOLhyphen"/>tation to his ſonne. 89. hee dyeth in the Tower. 101. his wiſh before his death, his attainder. 105</item>
+                     <item>Flerings Richard Archbiſhop of Dublin. 49</item>
+                     <item>Forthred caſtell buylded. 40</item>
+                     <item>Fraxinis Iohn. 64</item>
+                     <item>Frecell gouernour of Waterford ſlaine. 34</item>
+                     <item>Fridley king of Denmark inuadeth Irela<g ref="char:cmbAbbrStroke">̄</g>d, and winneth Dublin by a policie. 16</item>
+                     <item>Frotho king of Denmarke hys voyage into Irelande. 17</item>
+                  </list>
+                  <list>
+                     <head>G.</head>
+                     <item>GAlas Primate of Ardmagh. 31</item>
+                     <item>Galloghlaſſes. 98</item>
+                     <item>Gandius. 3 Garbaneles. 3</item>
+                     <item>Gathelus a Grecian arriueth with his peo<g ref="char:EOLhyphen"/>ple in Irelande. 4</item>
+                     <item>Gaueſton Peirs ſent into Irelande. 51. his proceedings there. ibid.</item>
+                     <item>Gegathus. 17</item>
+                     <item>Geiſchell Caſtell razed. 49</item>
+                     <item>Genandus. 3</item>
+                     <item>George duke of Clarence his byrth. 73</item>
+                     <item>Geffrey Monmouth 7</item>
+                     <item>Gernon Iames. 93</item>
+                     <item>Giantes. 2. are vanquiſhed in battaile. 3. they preuaile. ibid. are vtterlye rooted oute of Irelande. ibid.</item>
+                     <item>Gillemeholmoche. 29</item>
+                     <item>Giraldus Cambrenſis his firſt co<g ref="char:cmbAbbrStroke">̄</g>ming into Ireland. 39.40</item>
+                     <item>Giraldines fauourers of the houſe of Yorke. 74.44</item>
+                     <item>Glenbury ouerthrow. 45</item>
+                     <item>Goderius king of Limſter. 2</item>
+                     <item>Gormaunſton family whence. 64</item>
+                     <item>Gregorie king of Scottes. <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>
+                     </item>
+                     <item>Griffin. 31</item>
+                     <item>Gurguntius king of Brytaine. 4.5</item>
+                     <item>Gurmundus. 14.16</item>
+                     <item>Gu<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>o K. of Denmark dyeth for ſorow. 18</item>
+                  </list>
+                  <list>
+                     <head>H.</head>
+                     <item>HAco a Daniſh Captaine. 17</item>
+                     <item>Hamertons, Captaynes of the Engliſhe footemen flame. 96</item>
+                     <item>Harolde the king of Denmarks ſon, and his brother Knought inuade Irelande. 18</item>
+                     <item>Haſtings Philip. 51</item>
+                     <item>Haſtulfe with an armye of Norwegians aſ<g ref="char:EOLhyphen"/>ſaulteth Dublyn. 26. is taken priſoner, and for hys intemperate talke beheaded. 27</item>
+                     <item>Hauerings Richard Archb. of Dublin. 49</item>
+                     <item>Hector Boetius the Scot excuſed. 7</item>
+                     <item>Henrie the ſeconde obteyneth Pope Adri<g ref="char:EOLhyphen"/>ans licence to attempt the co<g ref="char:cmbAbbrStroke">̄</g>queſt of Ire<g ref="char:EOLhyphen"/>lande. 21. hee ſayleth into Irelande. 29. Roderick the Monarke and all the Prin<g ref="char:EOLhyphen"/>ces of the whole Ilande (they of Vlſter onely excepted) acknowledge him ſupreme Prince of all, and become his liegemen. 30 he feaſteth al the Iriſh princes, and calleth a Sinode of the Cleargie. ibid. he appoyn<g ref="char:EOLhyphen"/>teth Captaines for the ſafe keeping of the countrey, and returneth into England. 31</item>
+                     <item>Herbert Francis Alderman of Dublin, ſent to king Henrie. 92</item>
+                     <item>Hermion ſlayeth his brother Hiberus. 5</item>
+                     <item>Heruie de Monte Mauriſeo rewarded by Dermote king of Lemſter. 23. taketh vp<g ref="char:EOLhyphen"/>on him to lead the ſouldiours. 33. enuieth Reymonde le Grace and ſtyrreth king Henrie agaynſt him. 35. his deſcription. 37 foundeth the Abbey of Do<g ref="char:cmbAbbrStroke">̄</g>brothy, and be<g ref="char:EOLhyphen"/>commeth a Monke. 39</item>
+                     <item>Hibernia, why ſo called. 5</item>
+                     <item>Hiberus, the Spaniard his arryuall in Ire<g ref="char:EOLhyphen"/>lande. 22</item>
+                     <item>Holland Robert lord Iuſtice of Cheſter. 50</item>
+                     <item>Holywood. 64</item>
+                     <item>Hollande ſent Captaine to maiſter Saliſ<g ref="char:EOLhyphen"/>burie. 97</item>
+                     <item>Hoſtages deliuered to be kept within the ca<g ref="char:EOLhyphen"/>ſtel of Dublin by the lords of Ireland for their loyaltie to king Henry the ſecond. 53</item>
+                     <item>Howard Thomas erle of Surrey, and after duke of Norffolk is appoynted lieutenant. 80. repulſeth the Moores readie to inuade the Engliſhe pale. ibid. his prayſe. ibid. is bound for the Erle of Kildare. 83</item>
+                     <item>Huſſey Iohn a truſtie and a valiant eſquire, his worthie exploit. 54. his ſucceſſors made Barons of Galirim. ibid.</item>
+                  </list>
+                  <list>
+                     <head>I.</head>
+                     <item>IAcke Cade. 73. Iohn a Leekes. 5<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>
+                     </item>
+                     <item>Iohn ſonne to king Henrie the ſecond, af<g ref="char:EOLhyphen"/>ter king of Englande ſent into Irelande 40.41. ſlayeth hir nephew. 42. his voyage into Irelande. 43. or his ſurrender thereof into the Popes handes. 44</item>
+                     <item>Iohn be in Mare. 47. Iohn of Gueſham. 47</item>
+                     <item>Iohn de Saint Paule. 46</item>
+                     <item>Ioi<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>e Rowlande. 51</item>
+                     <item>Irelande by whome firſt inhabited. <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>.3. con<g ref="char:EOLhyphen"/>quered by the Grecians, and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> by them. 3. inuaded and ſpoyled by the S<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>i<g ref="char:EOLhyphen"/>thians. 4. how it was named. ibid. conque<g ref="char:EOLhyphen"/>red by the Spaniards. 5. ſubiect to Arthur king of Britayn. ibid. deuided by the Spa<g ref="char:EOLhyphen"/>niards. ibid. inuaded and conquered by the Norwegians. 14. inuaded by the Danes .16. againe inuaded by the Danes. 17. again inuaded by the Danes. ibid. again by them ibid. againe by them. 18. ſubiect to Henry the ſecond. 29. giue<g ref="char:cmbAbbrStroke">̄</g> by him to his ſon Iohn after king. 40. giuen to Edwarde ſonne to Henrie the third. 44. inuaded and waſted by the Scottes. 5<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>
+                     </item>
+                     <item>Iriſh franklings their behauiours. 40</item>
+                     <item>Iriſhe their outrages in time of Parlia<g ref="char:EOLhyphen"/>ments. 70</item>
+                     <item>Iriſh borne 64. I<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>p waker. 56</item>
+                     <item>Iuorus an Eaſterling fou<g ref="char:cmbAbbrStroke">̄</g>der of Dublin. 1<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>
+                     </item>
+                  </list>
+                  <list>
+                     <head>K.</head>
+                     <item>KArreck caſtell built by Fitz Stephe<g ref="char:cmbAbbrStroke">̄</g>s. 24</item>
+                     <item>Kemwrike Shereman Maior of Dub<g ref="char:EOLhyphen"/>lin, a great benefactor. 63</item>
+                     <item>Kemun Caſtell burne. 50</item>
+                     <item>Kemni caſtell razed by the L. lieutenant. 70</item>
+                     <item>Kormacke Oletham ſonne to the Prince of Deſmonde, committeth his father to pri<g ref="char:EOLhyphen"/>ſon. 36</item>
+                     <item>Keruill gouernour of the Iriſh men ſlain <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> battaile by the Danes. 17</item>
+                     <item>
+                        <pb facs="tcp:29044:661"/>Kettle Alice a Witch. 58</item>
+                     <item>Kildare Caſtel taken. 47</item>
+                     <item>Kilkenny the Suburbes walled by Robert Talbot. 70</item>
+                     <item>Knoc<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>ow field. 75. Knights created 47.52</item>
+                     <item>Knought ſonne to Gurino king of Denmark ſlaine at the ſiege of Dublin. 18</item>
+                  </list>
+                  <list>
+                     <head>L.</head>
+                     <item>LAcy Iohn. 51</item>
+                     <item>Lacy Hugh. 31. buildeth diuerſe fortreſ<g ref="char:EOLhyphen"/>ſes. 39. and. 41. his good gouernment and deſcriptio<g ref="char:cmbAbbrStroke">̄</g> 40. is trayterouſly murthred. 41</item>
+                     <item>Lacy Richard made Lord deputie, buyldeth dyuarſe Caſtels. 40</item>
+                     <item>Lacye Huge the yonger, rewarded with the Erledome of Vlſter, his acres. 43. dyeth without iſſue male. 44</item>
+                     <item>Lacy Walter Lorde of Meth dyeth. 44</item>
+                     <item>Lacies their behauiour enquired of by an in<g ref="char:EOLhyphen"/>queſt impanelled. 55. their traiterous prac<g ref="char:EOLhyphen"/>tiſes with the Scottes. ibid. proclaymed traytors. 56</item>
+                     <item>Laigria. 1</item>
+                     <item>Lambert the counterfeit erle of Warwike. 75</item>
+                     <item>Languinna. 2. Laogerius. 5.11</item>
+                     <item>Laurence Archbiſhop of Dublin. 26.46</item>
+                     <item>Lech Iohn. 49. Legate from Rome 79</item>
+                     <item>Lemſter Iriſh their outragious actes. 59</item>
+                     <item>Lenrouſe Thomas. 102.103</item>
+                     <item>Letters from the Duke of Yorke to the erle of Saliſburie. 73</item>
+                     <item>Letters of priuate ſeale. 79</item>
+                     <item>Letters from the Lorde Butler to Thomas Fitz Giralde. 91</item>
+                     <item>Ley towne burnt. 49</item>
+                     <item>Liberties called in, what proceeded therof. 61</item>
+                     <item>Limerick by who<g ref="char:cmbAbbrStroke">̄</g> founded. 19. take<g ref="char:cmbAbbrStroke">̄</g> by Rey<g ref="char:EOLhyphen"/>mond le grace. 35. beſieged. 36 burnt. ibid.</item>
+                     <item>Lionell duke of Clarence his mariage. 60 he commeth into Irelande. 64. his dealings there. ibid.</item>
+                     <item>Liſmore ſpoyled. 33. Liuery. 74</item>
+                     <item>Loggan Iohn 55. Lorde Louell. 75</item>
+                     <item>Lordes of Ireland deliuer hoſtages. 53</item>
+                     <item>Luttrell chiefe Iuſtice of the co<g ref="char:cmbAbbrStroke">̄</g>mon place. 92</item>
+                  </list>
+                  <list>
+                     <head>M.</head>
+                     <item>MAc Adam Mac Gilmore. 67</item>
+                     <item>Mac Nèmorre. 75</item>
+                     <item>Mac William. 75. Mac Mourche. 70</item>
+                     <item>Mac Mahun 72. Macgolagh. 67</item>
+                     <item>Machelan. 29. Machalther. 50</item>
+                     <item>Macgilinor Hugh ſlaine in a Church. 68</item>
+                     <item>Mac Coghlan. 46 Macbuayn. 10</item>
+                     <item>Mac Carey. 45. Madock. 12</item>
+                     <item>Maginors. 69. Maggohigam. 73</item>
+                     <item>Maynoth Caſtell fortified by the rebels. 96 beſieged by Skeffington Lorde Deputie, and betrayed. 97</item>
+                     <item>Maureuar Thom. baron of Serin ſlaine. 70</item>
+                     <item>Malachias. 13.12. Malchus 13</item>
+                     <item>Mandeuile Lorde of Barenſelly his yearely reuenues in Henrie the fourth his dayes, what. 68</item>
+                     <item>Mandueuile Iohn. 52.53.</item>
+                     <item>Mandeuile Thomas knight. 54</item>
+                     <item>Maurius king of Britaine. 6</item>
+                     <item>Maritagh Oconghuir K. of Offaly ſlain. 48</item>
+                     <item>Mariges made for y<hi rend="sup">e</hi> increaſe of amity. 34.69</item>
+                     <item>Martyrs of Ireland. 12</item>
+                     <item>Maurice de Prendelgaſt. 22</item>
+                     <item>Maupas Iohn. 57</item>
+                     <item>Meiller his valiancy. 23.28. one of the chiefe conguerours of Irelande. 37. his deſcrip<g ref="char:EOLhyphen"/>tion. ivid. Kildare giuen to him. 40</item>
+                     <item>Melbrick king of Ireland ſlaine. 17</item>
+                     <item>Melingus. 12</item>
+                     <item>Melleſunt Abbey founded. 24</item>
+                     <item>Men eaten for want of vittailes. 55</item>
+                     <item>Marlyn his prophecie fulfilled. 30</item>
+                     <item>Meth. why ſo called. 3. ſpoyled by Dermotè king of Lemſter. 26. giuen to Hugh Lacy 31. ſpoiled by Radericke K. of Co<g ref="char:cmbAbbrStroke">̄</g>nagh. 32</item>
+                     <item>Metropolitane Seas in Irelande, which. 20</item>
+                     <item>Miles of Saint Dauid. 35</item>
+                     <item>Minot Thomas Archbiſhop of Dublin. 64</item>
+                     <item>Moloſſian hound. 8</item>
+                     <item>Monark of Ireland how he was reputed. 20</item>
+                     <item>Moores inuade the Engliſh pale. 20</item>
+                     <item>Morice king of Meth his wife abuſed. 21</item>
+                     <item>Morice Archbiſhop of Caſtell, his anſwere touching the martyres of Irelande. 12</item>
+                     <item>Mortimer Roger Lorde of Meth. 51. is diſ<g ref="char:EOLhyphen"/>comfited by the Scots. 53. is made Lorde Iuſtice. 55. chaſeth the Lacies out of Co<g ref="char:cmbAbbrStroke">̄</g>
+                        <g ref="char:EOLhyphen"/>nagh. 56. is ſlaine by the Iriſh 65</item>
+                     <item>Mount Salanga. 2. Muridus. 9</item>
+                  </list>
+                  <list>
+                     <head>N.</head>
+                     <item>
+                        <hi>NAuiculeri littus.</hi> 1. Neale. 4</item>
+                     <item>Neal the great Monarch of Ireland. 9</item>
+                     <item>Neil Odonel take<g ref="char:cmbAbbrStroke">̄</g> priſoner by ſix Tho<g ref="char:EOLhyphen"/>mas Stanley Lord Lieutenant. 72</item>
+                     <item>Nemodus wyth his foure ſonnes ſent into Irelande. 3</item>
+                     <item>Nigelius. 12</item>
+                     <item>Nobles of Irela<g ref="char:cmbAbbrStroke">̄</g>d in king Edward the firſt his dayes. 47</item>
+                     <item>Norwegians inuade Irelande. 14. are ex<g ref="char:EOLhyphen"/>pulſed. 15</item>
+                     <item>Norwagth burnt by Philip Stanton. 46</item>
+                     <item>Notingham Robert, Maior of Dublin, ap<g ref="char:EOLhyphen"/>prehendeth the Erle of Vlſter, and ſpoy<g ref="char:EOLhyphen"/>leth y<hi rend="sup">e</hi> Abbey of S. Mary nere to Dub. 55</item>
+                  </list>
+                  <list>
+                     <head>O.</head>
+                     <item>OBren king of Thomond ſlaine. 49</item>
+                     <item>Obren. 64</item>
+                     <item>Obrenroth king of Thomond ſlaine. 45</item>
+                     <item>Oconghur king of Connagh. 54</item>
+                     <item>Ocaruell. 29</item>
+                     <item>Oconther his victories. 69.70</item>
+                     <item>Odempſi. 71.49. Odoles. 69</item>
+                     <item>Offali chaſe. 46. Oghgard burnt. 67</item>
+                     <item>Ohedian Rich. Biſhop of Caſhel accuſed. 72</item>
+                     <item>Okeroll. 67. Okely. 54.70</item>
+                     <item>Oleyn Edmond. 99. Omachealewy. 29</item>
+                     <item>Omalaghlilen King of Meth his policie to ſaue his daughters chaſtitie. 14</item>
+                     <item>Omalaghlen king of Oſſorie. 29</item>
+                     <item>Omolinoy. 51. Oinore. 17</item>
+                     <item>Onalan Caſtell buylded. 40</item>
+                     <item>Oneale. 45</item>
+                     <item>Oneale Con. 81. his rebellions. 83.85.106</item>
+                     <item>Onolan. 67. Ophelan. 29</item>
+                     <item>Oration of the Lord Fitz Giralde at his re<g ref="char:EOLhyphen"/>uolting. 91</item>
+                     <item>Oration of a Scithian Prince to the king of Irelande. 6</item>
+                     <item>Oration of Omalaghlilen. 15</item>
+                     <item>Oration of Crommer Lord Chancelor. 92</item>
+                     <item>Originall of nations vncertaine. 1</item>
+                     <item>Orlaſius. 13</item>
+                     <item>Ororicke king of Meth aſſaulteth Dublin. 29. is ſlaine 32</item>
+                     <item>Oſcheles. 49. Otadheſi. 29</item>
+                     <item>Othurtheli. 29. Otothell. 59</item>
+                     <item>Othaell breaketh his othe. 70</item>
+                     <item>Oute Richard. 44</item>
+                     <item>Outlaw Roger Prior of Kilinaynam Lord Iuſtice accuſed of hereſie. 58. maketh his purgation. 59</item>
+                  </list>
+                  <list>
+                     <head>P.</head>
+                     <item>PAladius. 10</item>
+                     <item>Pareſe Chriſtopher betrayeth Maynoth 97. is beheaded. 91</item>
+                     <item>Parliament at Kildare. 51. at Kilkenny. ibi. at Dublin 60.61.62. at Kilkenny. 64. at Balidoill. ibid. at Dublin. 66 &amp;c.</item>
+                     <item>Patricke Saint his whole life. 10</item>
+                     <item>Patricius. 20. Pederton Walter. 50</item>
+                     <item>Poet what it is. 11</item>
+                     <item>Perkin Warbecke. 75</item>
+                     <item>Peſtilence great whereof it came. 3. agayne 64. againe. ibid.</item>
+                     <item>Peter pens. 38. Phelanes. 41</item>
+                     <item>Phelin Oconher. 44</item>
+                     <item>Picts arriue in Ireland 6. plant themſelues in the Bles of Orkeney. 7. When they firſt came to inhabite Brytaine. ibid. their co<g ref="char:EOLhyphen"/>uenants with the Iriſhe for the ſucceſſion of their kings. ibid. they fall out with the Scottes. 8</item>
+                     <item>Piphard Raufe. 45. Plebs towne burut. 57</item>
+                     <item>Poetes fables how they haue bene taken <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>
+                     </item>
+                     <item>Poole Cardinall. 103</item>
+                     <item>Power Dominicke, ſent to the Emperour Charles the firſt. 101</item>
+                     <item>Power. 39. Power Walter. 48</item>
+                     <item>Power Euſtace his voiage into Scotla<g ref="char:cmbAbbrStroke">̄</g>d. 48</item>
+                     <item>Preſton. 64</item>
+                     <item>Prior of Kilmaynain. 71.69</item>
+                     <item>Prior of Conall. 67</item>
+                     <item>Prouinciall Councell. 20</item>
+                     <item>Pulle Walter. 57</item>
+                  </list>
+                  <list>
+                     <head>Q.</head>
+                     <item>QVeſtions propounded by the Nobles of Ireland to king Edward the third. 61</item>
+                     <item>Quinio and Liuerey. 74</item>
+                  </list>
+                  <list>
+                     <head>R.</head>
+                     <item>RAndon Caſtle deſtroyed. 45. burnt. 5<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>
+                     </item>
+                     <item>Randoll Coronell of the Engliſh bands, his monument. 46</item>
+                     <item>Rebellion when firſt attempted in Ireland. 19. moued by marchaunt ſtraungers. ibid. the ende thereof. 92. moued by Thomas Fitz Girald. 91</item>
+                     <item>Reguli or Reges, what they are taken to bee amongſt the Iriſh. 20</item>
+                     <item>Reynold Charles ſent to the Pope from the Lorde Fitz Giralde. 101</item>
+                     <item>Reymond le Grace, is ſent ouer into: Irela<g ref="char:cmbAbbrStroke">̄</g>d from Erle Strangbow with a power. 25. buildeth a fort at Dundenolf, is reſiſted by the Citizens of Waterforde, and diſcomfi<g ref="char:EOLhyphen"/>teth them. ibid. is ſent into France to king Henry the ſeconde. 26 is infierly beloued of the ſouldiour. 33. diſcomfiteth the king of Deſmond. ibid. as ioyned in commiſſion with Erle Strangbow in the gouernment of Ireland. 32. returneth into Walts. 33. is ſent for into Irelande by Earle Strang<g ref="char:EOLhyphen"/>bow, and marieth, the Ladie Baſil ſiſter to the Earle. 34. ſubdueth Donalde King of Limericke, and taketh the Citie. 35. is en<g ref="char:EOLhyphen"/>uied for his glorious victories, and ſuſpec<g ref="char:EOLhyphen"/>ted of king Henry. ibid. rayſeth the prince of Thomond fro<g ref="char:cmbAbbrStroke">̄</g> the ſiege of Limerick. 36
+<pb facs="tcp:29044:661"/>
+is made Lieutenaunt of Ireland, his de<g ref="char:EOLhyphen"/>ſcription. 37</item>
+                     <item>Richard the ſeconde king of Englande goeth ouer into Irelande. 65. taketh homage of diuerſe Lords and Princes of Vlſter. ibi. returneth into Englande ibid. paſſeth the ſecond time ouer into Irela<g ref="char:cmbAbbrStroke">̄</g>d with a great nauy. 65 commeth to Dublin. ibid. retur<g ref="char:EOLhyphen"/>neth. ibid.</item>
+                     <item>Richard Archbiſhop of Dublin, reſigneth by reaſon of a viſion he ſaw in his ſleepe. 50</item>
+                     <item>Richarde Duke of Yorke his Letter to the Erle of Saliſburie. 73</item>
+                     <item>Roche Lord of Poole Caſtell his yearely re<g ref="char:EOLhyphen"/>uenues in Henry the fourth his dayes 68.</item>
+                     <item>Rodorick a Scithia<g ref="char:cmbAbbrStroke">̄</g> prince arriued with his people in Ireland. 6. his oration to the K. of Ireland. ibid. he ſayleth with his people into Scotland, and is there ſlaine. ibid.</item>
+                     <item>Roe Roger. 73</item>
+                     <item>
+                        <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>okeſbye Thomas Lorde Iuſtice his wor<g ref="char:EOLhyphen"/>thy ſaying. 63</item>
+                     <item>
+                        <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>oſglas Abbey founded. 39</item>
+                     <item>Roſcoman caſtell deſtroyed. 45. repayred and fortified. ibid. won by the Iriſh. ibid.</item>
+                     <item>Rothericke Ochonor king of Connagh, and Monarke of Irelande. 21. his agreement with King Dermote. 23. he cauſeth Der<g ref="char:EOLhyphen"/>motes ſonnes head to bee ſtriken off. 26. hee ſubmitteth himſelfe to Henrie the ſeconde. 30. hee ouerrunneth Meth, and razeth the Caſtels. 36</item>
+                     <item>Roukes Edward a Captaine rebell. 93. ta<g ref="char:EOLhyphen"/>keth and Engliſh Barke. 96. is hanged. 99.</item>
+                     <item>Ruanus how long he liued. 3</item>
+                     <item>Rutheranius. 3</item>
+                     <item>Ruthurgus Bartolenus his ſonne the firſt finder out of Ireland. 2</item>
+                     <item>
+                        <hi>Ruthurgi ſtagnum,</hi> Ruthargus his Poole. 2</item>
+                  </list>
+                  <list>
+                     <head>S.</head>
+                     <item>SAgandus. 3</item>
+                     <item>Saint Bride and ſaint Colme. 11</item>
+                     <item>Saint Patrikes in Dublin founded. 40</item>
+                     <item>Saint Dominicks hill. 2</item>
+                     <item>S. Marie Abbey beſide Dublin erected. 24</item>
+                     <item>Saints in Ireland. 11.12</item>
+                     <item>Saint Patricke his life. 10</item>
+                     <item>Sayling vnknowne before Noes floud. 1</item>
+                     <item>Salanus one of the firſt finders out of Ire<g ref="char:EOLhyphen"/>lande 2. Saliſburie Captaine. 96</item>
+                     <item>Sanforde Iohn Archbiſhop of Dublin. 46</item>
+                     <item>Sauage Robert his prayſeworthie anſwers and exploytes. 63</item>
+                     <item>Sauage Patricke. 67</item>
+                     <item>Scithians lande in Ireland, and with great outrage ſpoyle the Countrey. 4</item>
+                     <item>Scligath Caſtel builded. 44. deſtroyed. 45</item>
+                     <item>Scorch William whereof it came. 44</item>
+                     <item>Scottes inuade Irelande. 52. they are van<g ref="char:EOLhyphen"/>quiſhed in battaile. 57</item>
+                     <item>Scottes when they firſt entred Brytayne. 7 expulſed thence. 9</item>
+                     <item>Scotland inuaded by the Citizens of Dub<g ref="char:EOLhyphen"/>lin 67. by the marchants of Drodagh, and prayes and pledges taken. ibid. by the I<g ref="char:EOLhyphen"/>riſh. 48. by Darcie Lord Iuſtice. 61</item>
+                     <item>Scotia maior, and Scotia minor. 9</item>
+                     <item>Scrope Stephen Lorde Deputie to Tho<g ref="char:EOLhyphen"/>mas of Lancaſter lieutenant. 66. his wiues vow and his good chaunge therevpon. ibi. inuadeth Mac Murches land. 67. dieth. 69</item>
+                     <item>Saint Paule Iohn Archb. of Dublin. 63</item>
+                     <item>Sidney Henry knight Lorde deputie repay<g ref="char:EOLhyphen"/>reth Erle Strangbowes tombe, and erec<g ref="char:EOLhyphen"/>teth a monument for captaine Randoll. 46</item>
+                     <item>Silken Thomas. 83. Simond Ric. prieſt. 74</item>
+                     <item>Sketffington William knight. L. deputie, his anſwer to the Recorder of Dublin his O<g ref="char:EOLhyphen"/>ration. 34. diſcharged, and againe made lord Deputie. 96. beſiegeth the caſtell of May<g ref="char:EOLhyphen"/>noth kept by the rebels, winneth it. 97. dy<g ref="char:EOLhyphen"/>eth at Kilmaynam. 100</item>
+                     <item>Slanius the firſt Monarke of Ireland. 3</item>
+                     <item>Slane deſtroyed by the Scottes. 55</item>
+                     <item>Suibdanus. 17</item>
+                     <item>Sunne is thought to ſtande ſtill. 67. another time. 71</item>
+                     <item>Spaniardes firſt arriuall in Ireland. 4. they conquer it. 5</item>
+                     <item>Stanton Philip. 46</item>
+                     <item>Stanton Dick, his good ſeruice when the re<g ref="char:EOLhyphen"/>bels beſieged Dublin. 95</item>
+                     <item>Stercater a Giaunt, with the Danes inua<g ref="char:EOLhyphen"/>deth Ireland. 17</item>
+                     <item>Starius. 3</item>
+                     <item>Staples Edward Biſhop of Meth. 84</item>
+                     <item>Statutes of Kilkenny and Dublin confyr<g ref="char:EOLhyphen"/>med by Parliament. 67.68</item>
+                     <item>Steney Lord of Baltmore his yerely reue<g ref="char:EOLhyphen"/>nues in Henrie the fourth his dayes. 68</item>
+                     <item>Stephe<g ref="char:cmbAbbrStroke">̄</g> de LOng Eſpee Lord Iuſtice. 45</item>
+                     <item>Stoning Nicholas Archb of Ardmagh. 66</item>
+                     <item>Stragnus. 2</item>
+                     <item>Strangbow Rich. Erle of Pembroke one of the chief conquerors of Ireland, his coue<g ref="char:EOLhyphen"/>nants with Dermot K. of Lemſter. 22. his requeſt to Henry the ſecond. 24. his voyage itno Ireland with an army, and his victo<g ref="char:EOLhyphen"/>ries and proceedings there. 25.26.27.28. is made the firſt Lord deputie of Ireland. 32 his death and deſcription. 33</item>
+                     <item>Subſidies graunted. 64.70.71.72</item>
+                     <item>Sutton Gilbert ſteward of Wexfor ſlain by the Iriſh. 48</item>
+                     <item>Sutton Herbert knight a worthy captain. 57</item>
+                  </list>
+                  <list>
+                     <head>T.</head>
+                     <item>TAffy Richard. 46. Talbot. 64</item>
+                     <item>Talbot Iohn Lord Furniuall. 70</item>
+                     <item>Talbot Richarde Alderman of Dublyn deliuered to the rebels for an hoſtage. 96</item>
+                     <item>Talbot Robert, a right noble man, walleth the ſuburbes of Kilkenny. 70. 70</item>
+                     <item>Talbot Robert of Belgard. 81</item>
+                     <item>Teling Nicholas. 46</item>
+                     <item>Teling Iohn a captaine rebell. 92.93</item>
+                     <item>Temples when they beganne, and how they were ſuppreſſed. 50</item>
+                     <item>Tenthes of the ſpirituall liuings in Ireland damaunded by the Pope. 4<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>
+                     </item>
+                     <item>Tardienatus Monarke of Ireland. 20</item>
+                     <item>Thira Q. of Denmark hir policy in diſcoue<g ref="char:EOLhyphen"/>ring to the King the death of his ſonne. 13</item>
+                     <item>Thomas of Lancaſter ſon to K. Henrie the fourth co<g ref="char:cmbAbbrStroke">̄</g>meth into Irela<g ref="char:cmbAbbrStroke">̄</g>d. 69. putteth the erle of Kildare vnder arreſt. ibi. is wou<g ref="char:cmbAbbrStroke">̄</g>ded and hardly eſcapeth with life. ibi. is ſlain. 72</item>
+                     <item>Thomas erle of Deſmond attainted of trea<g ref="char:EOLhyphen"/>ſon, and beheaded. 74</item>
+                     <item>Thornebury Walter, L. Chancelour elected Archbiſhop of Dublin drowned. 52</item>
+                     <item>Tirrel Hugh L. of Enocke caſtell, with his wife taken by the Scots &amp; raunſomed. 55</item>
+                     <item>Treſteidermote caſtell builded. 40</item>
+                     <item>Trippitton Hugh knight. 57</item>
+                     <item>Tueſday fortunate to the co<g ref="char:cmbAbbrStroke">̄</g>querors of Ire<g ref="char:EOLhyphen"/>lande. 35.36</item>
+                     <item>Turgou<g ref="char:cmbAbbrStroke">̄</g>us with his Norwegians ſubdue Ireland. 14. is ſlaine by a policie. 14.15</item>
+                     <item>Tute Richarde. 57</item>
+                  </list>
+                  <list>
+                     <head>V.</head>
+                     <item>VAriance betweene the Giraldines, But<g ref="char:EOLhyphen"/>lers, and Birminghams, on the one ſide, and the Powers and Burghes on the other. 58</item>
+                     <item>Variance betweene Kildare and Ormonde, whence it proceded. 77</item>
+                     <item>Varia<g ref="char:cmbAbbrStroke">̄</g>ce betwene y<hi rend="sup">e</hi> Scots &amp; picts for a dog. 8</item>
+                     <item>Verdon Miles a valiant captaine. 57</item>
+                     <item>Verdon Robert raiſeth a riot in Vrgile, diſ<g ref="char:EOLhyphen"/>comfiteth an army led thither by the Lord Iuſtice, ſubmitteth himſelf to priſon. 52</item>
+                     <item>Verdon marieth Margareth one of y<hi rend="sup">e</hi> daugh<g ref="char:EOLhyphen"/>ters of Walter Lacie Lord of Meth. 44</item>
+                     <item>Veſey Wil. L. Iuſtice appeacheth Iohn erle of Kildare of felony, flieth into France &amp; is diſenherited of all his lands in Kildare. 47</item>
+                     <item>Veſta. 22</item>
+                     <item>Vffert Raufe made L. Iuſtice. 62. his rigo<g ref="char:EOLhyphen"/>rous dealings. 62. is euill ſpoken of. ibid. is excuſed. ibid.</item>
+                     <item>Victorie too cruelly vſed. 3</item>
+                     <item>Vlſter the reuenues thereof in K. Edwarde the thirds days. 9. conquered by Curcy. 38 giue<g ref="char:cmbAbbrStroke">̄</g> to Hugh Lacy the yonger. 43. the in<g ref="char:EOLhyphen"/>habitants therof vpon the Scots inuaſion of Ireland, vex the ſubiects worſe than the enimie. 55. wholy poſſeſſed by the Iriſh. 75</item>
+                     <item>Vniuerſitie of Dublin. 57</item>
+                     <item>Vriell inuaded by Oneale. 85</item>
+                     <item>Waffer Nicholas a Captain rebell. 92.93</item>
+                     <item>Wales inuaded by the Citizens of Dublin. 67</item>
+                     <item>Waldeley Robert Archbiſhop of Dublin. 64</item>
+                     <item>Walles townes lack, occaſio<g ref="char:cmbAbbrStroke">̄</g> of the rude wild<g ref="char:EOLhyphen"/>neſſe in Ireland, 63</item>
+                     <item>Walſhe Walter, Robert Walſh, and Maurice Walſhe, captaine rebels. 93</item>
+                     <item>Walſhe Robert. 102.103</item>
+                     <item>Warres betwixt Lacy and Marſhall. 44</item>
+                     <item>Warres betwixt the Engliſhe of Meth and Offerolle. 64</item>
+                     <item>Warres betwixt the Burghs &amp; Giraldius. 45</item>
+                     <item>Waterford founded by Amilanus on Eaſter<g ref="char:EOLhyphen"/>ling. 19. the Citizens reſiſt Reymonde le Grace, but are viſcomſited and drowned. 25 aſſaulted &amp; won by earle Strangbow. ibi.</item>
+                     <item>Welchmen their valiancie. 22.23</item>
+                     <item>Wetherham Abbey founded. 44</item>
+                     <item>Wexford beſieged by Dermote king of Lem<g ref="char:EOLhyphen"/>ſter, and yeelded to him. 23. giuen by him to Fitz Stephens and Fitz Girald. 23. burnt 28. giuen to Erle Stangbow by Henrie the ſecond. 32. the Citizens kill. 400. of the Iriſh rebels. 59</item>
+                     <item>White Iohn, Coneſtable of Dublin Caſtell, his good ſeruice. 91</item>
+                     <item>White Robert, rayſeth an vprore in Dubl. 85</item>
+                     <item>Wikeford Robert Archbiſhop of Dublin. 64</item>
+                     <item>William Erle Marſhall marieth the daugh<g ref="char:EOLhyphen"/>ter and heyre of Erle Strangbow. 37</item>
+                     <item>William Erle of Vlſter murthered. 60</item>
+                     <item>Winter very tempeſtuous. 31</item>
+                     <item>Witches. 58</item>
+                     <item>Wolſey Cardinall, an enimie to the Giraldi<g ref="char:EOLhyphen"/>nes. 81. hee chargeth the Erle of Kildare with treaſo<g ref="char:cmbAbbrStroke">̄</g>s. 82. he ſendeth a <hi>mandatum</hi> to the Lieutenant of the Tower to execute the Erle. 84</item>
+                  </list>
+                  <trailer>FINIS.</trailer>
+               </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="https://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/LEAF-VRE/code_snippets/refs/heads/main/CSS/leaf.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The firste [laste] volume of the chronicles of England, Scotlande, and Irelande
+               conteyning the description and chronicles of England, from the first inhabiting vnto
+               the conquest : the description and chronicles of Scotland, from the first original of
+               the Scottes nation till the yeare of our Lorde 1571 : the description and chronicles
+               of Yrelande, likewise from the first originall of that nation untill the yeare 1571 /
+               faithfully gathered and set forth by Raphaell Holinshed.</title>
+            <author>Holinshed, Raphael, d. 1580?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1577</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16408 KB of XML-encoded text transcribed from 1493 1-bit group-IV TIFF page
+            images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2009-10">2009-10 (EEBO-TCP Phase 1).</date>
+            <idno type="DLPS">A03448</idno>
+            <idno type="STC">STC 13568B</idno>
+            <idno type="STC">ESTC S3985</idno>
+            <idno type="EEBO-CITATION">34382662</idno>
+            <idno type="OCLC">ocm 34382662</idno>
+            <idno type="VID">29044</idno>
+            <availability>
+               <p>This keyboarded and encoded edition of the work described above is co-owned by the
+                  institutions providing financial support to the Early English Books Online Text
+                  Creation Partnership. This Phase I text is available for reuse, according to the
+                  terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Creative
+                     Commons 0 1.0 Universal</ref>. The text can be copied, modified, distributed
+                  and performed, even for commercial purposes, all without asking permission.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 1, no. A03448)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 29044)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1897:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The firste [laste] volume of the chronicles of England, Scotlande, and
+                     Irelande conteyning the description and chronicles of England, from the first
+                     inhabiting vnto the conquest : the description and chronicles of Scotland, from
+                     the first original of the Scottes nation till the yeare of our Lorde 1571 : the
+                     description and chronicles of Yrelande, likewise from the first originall of
+                     that nation untill the yeare 1571 / faithfully gathered and set forth by
+                     Raphaell Holinshed.</title>
+                  <author>Holinshed, Raphael, d. 1580?</author>
+               </titleStmt>
+               <extent>2 v. (ca. 2969 p.in various pagings) : ill. </extent>
+               <publicationStmt>
+                  <publisher>Imprinted for Iohn Hunne,</publisher>
+                  <pubPlace>At London :</pubPlace>
+                  <date>1577.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Includes indexes.</note>
+                  <note>Title printed within ornamental border.</note>
+                  <note>The second volume has title: The laste volume of the chronicles of England,
+                     Scotlande, and Irelande, with their descriptions.</note>
+                  <note>Errata: 2 p. at end of v.1; 4 p. at end of v.2.</note>
+                  <note>Imperfect: tightly bound and with print show-through.</note>
+                  <note>Signatures: V. 1: [par.]⁶, A-Q⁸, r¹, a-s⁸, t¹, A², *b*², *a*- *b*⁶, A-2J⁸,
+                     2K⁴, 2L-2M⁶, [fleuron]² A-C⁸, D⁴, A-D⁸, E⁵, F-G⁸, H⁶, I³; V. 2: [par]², t²⁻⁸,
+                     v-z⁸, A-4Z⁸, A-N⁴.</note>
+                  <note>Reproduction of original in: Harvard University. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl, TEI @ Oxford. </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the
+               publisher ProQuest to create accurately transcribed and encoded texts based on the
+               image sets published by ProQuest via their Early English Books Online (EEBO) database
+               (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy
+               (usually the first edition) of every monographic English-language title published
+               between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project
+               restraints of time and funding, and therefore chose to create diplomatic
+               transcriptions (as opposed to critical editions) with light-touch, mainly structural
+               encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during
+               Phase 1 of the project have been released into the public domain as of 1 January
+               2015. Anyone can now take and use these texts for their own purposes, but we
+               respectfully request that due credit and attribution is given to their original
+               source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any
+               assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature
+               (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then
+               their works are eligible for inclusion. Selection was intended to range over a wide
+               variety of subject areas, to reflect the true nature of the print record of the
+               period. In general, first editions of a works in English were prioritized, although
+               there are a number of works in other languages, notably Latin and Welsh, included and
+               sometimes a second or later edition of a work was chosen if there was a compelling
+               reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic
+               encoding. Quality assurance was then carried out by editorial teams in Oxford and
+               Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for
+               accuracy and those which did not meet QA standards were returned to the keyers to be
+               redone. After proofreading, the encoding was enhanced and/or corrected and characters
+               marked as illegible were corrected where possible up to a limit of 100 instances per
+               text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these
+               processes should make clear that, while the overall quality of TCP data is very good,
+               some errors will remain and some readable characters will be marked as illegible.
+               Users should bear in mind that in all likelihood such instances will never have been
+               looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the
+               TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with
+               mnemonic sdata character entities); displayable XML (TCP schema; characters
+               represented either as UTF-8 Unicode or text strings within braces); or lossless XML
+               (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref
+                  target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership
+                  web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)"
+               replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)"
+               replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"
+            />
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain -- History -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2008-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2008-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+         <change>
+            <date>2026-01-02</date>
+            <label>Diane Jakacki</label> Created segment version for LEAF-Writer and removed facsimile images)
+         </change>
+      </revisionDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="dedication">
+            <pb/>
+            <head>
+               ❧ TO THE RIGHT Honourable ſir Henry Sydney Knight, Lorde Deputie Generall of Irelande, Lorde preſident of Wales, Knight of the moste noble Order of the Garter, and one of hir Maieſties priuie Counſel within hir Realme of Englande.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">T</seg>Aking in hande right Ho<g ref="char:EOLhyphen"/>norable</hi> to gather the perticular Hiſto<g ref="char:EOLhyphen"/>ries of diuers Countries and Nations, to ioyn vvith a Coſmographie, vvhich one Reginald VVoulfe late Printer to the Queenes Maieſtie, meant to pu<g ref="char:EOLhyphen"/>bliſhe in our Engliſh tounge: vvhen I came to co<g ref="char:cmbAbbrStroke">̄</g>ſider of the Hiſtories of Ire<g ref="char:EOLhyphen"/>land, I founde my ſelfe ſo vnprouided of helpes, to ſet dovvne any perticular diſcourſe therof, that I vvas in diſpaire to enterprice to vvrite any thing at all concerning that realme, othervviſe tha<g ref="char:cmbAbbrStroke">̄</g> incidently, as fell to purpoſe, to touche the ſame in the Hiſtorie of England.</p>
+            <p>At length yet as Maiſter VVoulfes vſe vvas to imparte to me all ſuche helpes as he might at any hande procure for my fur<g ref="char:EOLhyphen"/>therance, in the collections of the other Hiſtories, vvherevvith I ſpecially dealte, his happe vvas to light alſo vpon a copie of tvvoo Bookes of the Iriſhe Hiſtories, compi<g ref="char:EOLhyphen"/>led by one Edmond Campion, fellovv ſomtime of S. Iohn Baptiſts Colledge in Ox<g ref="char:EOLhyphen"/>forde, very vvell penned certenly, but ſo briefe, as it vvere to be vviſhed that occaſion had ſerued him to haue vſed more leyſure, and thereby to haue deliuered to vs a lar<g ref="char:EOLhyphen"/>ger diſcourſe of the ſame Hiſtories: for as he himſelfe confeſſeth, hee had not paſte tenne vveekes ſpace to gather his mater: a very ſhorte time doubtleſſe for ſuche a peece of vvorke. But hovve breefe ſo euer I founde him, at the perſuaſion of Mai<g ref="char:EOLhyphen"/>ſter VVoulfe, vpon the hauing of that copie, I reſolued to make ſhift to frame a ſpe<g ref="char:EOLhyphen"/>ciall Hiſtorie of Irelande, in like maner as I had done of other Regions, follovvyng Campions order, and ſetting dovvne his ovvne vvordes, excepte in places vvhere I had mater to enlarge that (out of other Authours,) vvhich he had vvritten in briefe: and this I haue thought good to ſignifie, the rather for that I eſteeme it good dealing in no vviſe to defraude him of his due deſerued prayſe.</p>
+            <p>But novv after I had continued the Hiſtorie, and enlarged it out of Giraldus Cam<g ref="char:EOLhyphen"/>brenſis, Flatsbury, Henry of Marleburgh, and other, till the yeare. 1509 in vvhich that famous Prince Henry the .viij. began his reigne, ſome of thoſe that vvere to be<g ref="char:EOLhyphen"/>ſtovv the charges of the Impreſſion, procured a learned Gentleman Maiſter Richard Stanyhurſt, to continue it from thence forvvarde as he ſavv occaſion, being furniſhed vvith mater to enlarge the vvorke, vvhereof for thoſe later times I founde my ſelfe vtterly voyde, more than that vvhiche Campion had deliuered. VVhat I haue done herein, your Honours diſcretion ſhall eaſily co<g ref="char:cmbAbbrStroke">̄</g>ceyue. For the imperfection ſith it is
+               <pb facs="tcp:29044:573"/>
+               the firſt that hath bene ſet forth in Printe, I craue moſt humbly pardon of your good Lordſhippe, beſeeching you rather to reſpect my good vvill than the perfectneſſe of the vvorke, vvhiche the vvantes conſidered for the orderly furniſhyng thereof, is not to be looked for in the skilfull, muche leſſe in me the meaneſt of all, and leaſt able to performe it. Hauing preſented the right Honorable the Erle of Leyceſter vvith the Hiſtorie of Scotlande, to vvhome (as I haue hearde) Campion made Dedication of his booke, I coulde not remember me to vvhome I might more conueniently offer this my trauell in this Hiſtorie of Ireland, than to your Lordſhip, being hir Maieſties Lieutenant in that Realme. And therfore in moſt humble vviſe I exhibite the booke to your Honour, beſeeching the ſame to beare vvith my bolde attempt therein, and to receyue it in good parte from him that vviſhed to haue more amplie ſatisfied your good Lordſhippes expectation, if abilitie might haue anſvvered good vvill.</p>
+            <p>Thus I beſeech the Lorde to guyde your harte in his holy vvayes, and to furniſh you vvith politike prudence and skilfull knovvledge, to gouerne in your eſtate and office, ſo as your doyngs may redounde to his glorie, the ſuretie of hir Maieſties do<g ref="char:EOLhyphen"/>minion there, your ovvne aduancement in Honour, and conſequently to the ſure ſupporte and peaceable quietneſſe of the true and loyall ſubiectes of that Realme.</p>
+            <closer>
+               <signed>Your honours moſt humble to commaunde, RAPHAEL HOLINSHED.</signed>
+            </closer>
+         </div>
+      </body>
+  </text>
+</TEI>

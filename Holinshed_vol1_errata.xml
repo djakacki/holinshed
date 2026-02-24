@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="https://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/LEAF-VRE/code_snippets/refs/heads/main/CSS/leaf.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The firste [laste] volume of the chronicles of England, Scotlande, and Irelande
+               conteyning the description and chronicles of England, from the first inhabiting vnto
+               the conquest : the description and chronicles of Scotland, from the first original of
+               the Scottes nation till the yeare of our Lorde 1571 : the description and chronicles
+               of Yrelande, likewise from the first originall of that nation untill the yeare 1571 /
+               faithfully gathered and set forth by Raphaell Holinshed.</title>
+            <author>Holinshed, Raphael, d. 1580?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1577</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16408 KB of XML-encoded text transcribed from 1493 1-bit group-IV TIFF page
+            images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2009-10">2009-10 (EEBO-TCP Phase 1).</date>
+            <idno type="DLPS">A03448</idno>
+            <idno type="STC">STC 13568B</idno>
+            <idno type="STC">ESTC S3985</idno>
+            <idno type="EEBO-CITATION">34382662</idno>
+            <idno type="OCLC">ocm 34382662</idno>
+            <idno type="VID">29044</idno>
+            <availability>
+               <p>This keyboarded and encoded edition of the work described above is co-owned by the
+                  institutions providing financial support to the Early English Books Online Text
+                  Creation Partnership. This Phase I text is available for reuse, according to the
+                  terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Creative
+                     Commons 0 1.0 Universal</ref>. The text can be copied, modified, distributed
+                  and performed, even for commercial purposes, all without asking permission.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 1, no. A03448)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 29044)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1897:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The firste [laste] volume of the chronicles of England, Scotlande, and
+                     Irelande conteyning the description and chronicles of England, from the first
+                     inhabiting vnto the conquest : the description and chronicles of Scotland, from
+                     the first original of the Scottes nation till the yeare of our Lorde 1571 : the
+                     description and chronicles of Yrelande, likewise from the first originall of
+                     that nation untill the yeare 1571 / faithfully gathered and set forth by
+                     Raphaell Holinshed.</title>
+                  <author>Holinshed, Raphael, d. 1580?</author>
+               </titleStmt>
+               <extent>2 v. (ca. 2969 p.in various pagings) : ill. </extent>
+               <publicationStmt>
+                  <publisher>Imprinted for Iohn Hunne,</publisher>
+                  <pubPlace>At London :</pubPlace>
+                  <date>1577.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Includes indexes.</note>
+                  <note>Title printed within ornamental border.</note>
+                  <note>The second volume has title: The laste volume of the chronicles of England,
+                     Scotlande, and Irelande, with their descriptions.</note>
+                  <note>Errata: 2 p. at end of v.1; 4 p. at end of v.2.</note>
+                  <note>Imperfect: tightly bound and with print show-through.</note>
+                  <note>Signatures: V. 1: [par.]⁶, A-Q⁸, r¹, a-s⁸, t¹, A², *b*², *a*- *b*⁶, A-2J⁸,
+                     2K⁴, 2L-2M⁶, [fleuron]² A-C⁸, D⁴, A-D⁸, E⁵, F-G⁸, H⁶, I³; V. 2: [par]², t²⁻⁸,
+                     v-z⁸, A-4Z⁸, A-N⁴.</note>
+                  <note>Reproduction of original in: Harvard University. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl, TEI @ Oxford. </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the
+               publisher ProQuest to create accurately transcribed and encoded texts based on the
+               image sets published by ProQuest via their Early English Books Online (EEBO) database
+               (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy
+               (usually the first edition) of every monographic English-language title published
+               between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project
+               restraints of time and funding, and therefore chose to create diplomatic
+               transcriptions (as opposed to critical editions) with light-touch, mainly structural
+               encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during
+               Phase 1 of the project have been released into the public domain as of 1 January
+               2015. Anyone can now take and use these texts for their own purposes, but we
+               respectfully request that due credit and attribution is given to their original
+               source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any
+               assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature
+               (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then
+               their works are eligible for inclusion. Selection was intended to range over a wide
+               variety of subject areas, to reflect the true nature of the print record of the
+               period. In general, first editions of a works in English were prioritized, although
+               there are a number of works in other languages, notably Latin and Welsh, included and
+               sometimes a second or later edition of a work was chosen if there was a compelling
+               reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic
+               encoding. Quality assurance was then carried out by editorial teams in Oxford and
+               Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for
+               accuracy and those which did not meet QA standards were returned to the keyers to be
+               redone. After proofreading, the encoding was enhanced and/or corrected and characters
+               marked as illegible were corrected where possible up to a limit of 100 instances per
+               text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these
+               processes should make clear that, while the overall quality of TCP data is very good,
+               some errors will remain and some readable characters will be marked as illegible.
+               Users should bear in mind that in all likelihood such instances will never have been
+               looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the
+               TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with
+               mnemonic sdata character entities); displayable XML (TCP schema; characters
+               represented either as UTF-8 Unicode or text strings within braces); or lossless XML
+               (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref
+                  target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership
+                  web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)"
+               replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)"
+               replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"
+            />
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain -- History -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2008-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2008-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="errata">
+            <pb/>
+            <head>Faultes eſcaped.</head>
+            <div n="1" type="part">
+               <head>In the Firſt Booke.</head>
+               <list>
+                  <item>IN the firſt leafe columpne .1. &amp; 23. lin, reade thorow the trade.</item>
+                  <item>In the 3. leafe col. and 20. line, reade ſo a comeling.</item>
+                  <item>In the 3. leafe col. 4. and 43. lin, reade Gyants were.</item>
+                  <item>In the 4. leafe co. 1. lin 1. read S. Auguſtine therfore.</item>
+                  <item>fol. 5. col. 3. lin 32. reade liue in theſe dayes.</item>
+                  <item>fol. 6 lin 1. col. reade or Gwinhead.</item>
+                  <item>ibid lin 23. col 1. reade limites of this.</item>
+                  <item>ibid lin 25. reade conſiſted.</item>
+                  <item>ibid lin 36. for Shropſhire reade Shreweſbyry.</item>
+                  <item>ibid col. 2. lin 25. and 53. read extended themſelues.</item>
+                  <item>ibid col. 3. lin 45. read Suſſex in the ſouth.</item>
+                  <item>ibid col. 4. lin 25. put out yeares after 35.</item>
+                  <item>fol 7. col 4. lin 26. reade eaſily.</item>
+                  <item>fol 8. col 1. lin 29. reade put out alſo ſaying.</item>
+                  <item>ibid col 4. line 49. for will I begin, reade woulde I begin.</item>
+                  <item>fol 9. col 3. lin 33. for infinity reade infinite.</item>
+                  <item>fol 10. col 2. lin 51. reade holde this opinion.</item>
+                  <item>Ibid lin 54. reade they ſhall ſée.</item>
+                  <item>ibid col 4. lin 49. reade thoſe 45. for thoſe fewe.</item>
+                  <item>fol 11. col 1. lin. reade 25. errour of their founder.</item>
+                  <item>ibid col 2. lin 19. reade pittes of errour.</item>
+                  <item>ibid lin 20. put out (as) and reade welles in déede that holde no water.</item>
+                  <item>Ibid col 3. lin 50. reade withſtande him there.</item>
+                  <item>fol 13. col 1. lin 10. for Chicheſter reade Wincheſter.</item>
+                  <item>fol 13. col 1. lin 38. reade and thereby gathered.</item>
+                  <item>fol 16. col 1. lin 10. reade themſelues lying néere hand, or within this Iſle alſo.</item>
+                  <item>fol 17. col 2. lin, 46. reade S. Ninians.</item>
+                  <item>ibid lin 59. reade it ſéemeth hereby.</item>
+                  <item>ibid col 3. lin 2. reade vnto <hi>Mona</hi> onely.</item>
+                  <item>fol 18. col 1. lin 33. reade northeaſt and other alſo be<g ref="char:EOLhyphen"/>yond them in like ſort ſubiect to Scotland.</item>
+                  <item>fol 20. col 2. in the margent reade as I heare néere Cantorbury for about Gaunt.</item>
+                  <item>ibid col 3. lin. 1. read Stoure whereof.</item>
+                  <item>ibid. put out parentheſis in the margine.</item>
+                  <item>ibid lin 39. reade diuided it ſelfe.</item>
+                  <item>fol 24. col 1. lin 52. reade alſo to the point.</item>
+                  <item>fol 26. col 1. lin 49. reade another great ſtreame.</item>
+                  <item>ibid col 2. lin 16. for to a village, read and a village.</item>
+                  <item>fol 27 where you reade Towz reade Towy.</item>
+                  <item>ibid col 4. lin 26. reade into the mayne ſea.</item>
+                  <item>fol 30. col 1. lin 40. for Dunrith reade Drurith.</item>
+                  <item>ibid. col 2. lin 55. read Harleſwell.</item>
+                  <item>ibid. lin 58. reade by north of Beltingham.</item>
+                  <item>ibid. col 4. lin 6. for Tine reade were.</item>
+                  <item>fol 31. co 2. li 18. for Cockingham read Cottingham.</item>
+                  <item>ibid col 3. lin 9. reade lyke in the next booke.</item>
+                  <item>fol 32. col 3. lin 24. put in (to) in the ende of the line.</item>
+                  <item>ibid lin 42. for <hi>Magey</hi> reade <hi>Maxey.</hi>
+                  </item>
+                  <item>fol 33. col 3. lin 10. for <hi>Mores</hi> reade <hi>Meres.</hi>
+                  </item>
+                  <item>ibid lin 18. for his place, reade this place.</item>
+                  <item>fol 36. col 4. lin 28. reade forth by weſt of Marton.</item>
+                  <item>fol 37. col 2. lin 52. read ſing of cattel, and put out the.</item>
+                  <item>fol 39. col. 1. lin. 33. read hiſtory, &amp; after him <hi>Bodinus.</hi>
+                  </item>
+                  <item>fol 45. col 1. lin. 11. reade in theſe dayes.</item>
+                  <item>fol 47. co 4. li 32. read touching it, for touching by it.</item>
+                  <item>ibid. lin 41. read wall was of ſtone.</item>
+               </list>
+            </div>
+            <div n="2" type="part">
+               <head>In the ſeconde Booke.</head>
+               <list>
+                  <item>FOl 74. col 3. lin 1. reade Leirceſter for Lewceſter.</item>
+                  <item>fol 75. col. 1. lin. 18. reade quantitie thereof.</item>
+                  <item>ibid. col 2. lin 22. reade gayles within.</item>
+                  <item>fol 76. col 3. in the margine, reade howe thoſe men ſhoulde haue done, in the name note col 4. lin 1. tayler he.</item>
+                  <item>fol. 77. col 2. lin 32. and 33. put out (and the wight) for I miſtooke it.</item>
+                  <item>ibid lin 43. for (in olde time) read alſo the weight.</item>
+                  <item>fol 84. col 3. lin 26. for hope of recouery, reade hope of realeſe.</item>
+                  <item>fol 85. col 3. lin. 53. reade before the olde be expyred.</item>
+                  <item>fol. 85. col 1. lin 1. put out therefore, and reade I finde therefore.</item>
+                  <item>ibid col 4. lin 49. for riuerets reade riuettes.</item>
+                  <item>fol 87. col 1. li 19. for their ordinaunce reade the ſtore of ordinaunce.</item>
+                  <item>ibid lin 27. reade that in ſome one barons houſe I haue.</item>
+                  <item>ibid lin 33. reade done then trow you.</item>
+                  <item>ibid. col 4. lin 9.10. reade we had ſome alſo, for (a few.)</item>
+                  <item>ibid lin 15. put out and betwéene Alfrede (&amp;) E<g ref="char:EOLhyphen"/>theldred.</item>
+                  <item>fol 88. col 3. lin 17. reade being the more plenteous.</item>
+                  <item>ibid lin 22. reade if place did ſerue therefore.</item>
+                  <item>ibid col 4. lin 46. reade for theſe cauſes therefore.</item>
+                  <item>fol 89. col 4. lin 58. for <hi>ſunt duo</hi> reade <hi>ſint duo.</hi>
+                  </item>
+                  <item>fol 90. col 1. Canone 13. beſide the miſplacing of the point, lin 52. there is (n) to much in y<hi rend="sup">e</hi> laſt word of the 56. line.</item>
+                  <item>ibid col 2. lin 9. the whole line is peruerted for <hi>Siquis autem cum primario pugnauerit.</hi>
+                  </item>
+                  <item>ibid lin 39. for <hi>aliquot</hi> reade <hi>aliquam.</hi>
+                  </item>
+                  <item>ibid col 3. li 34. for <hi>Gemiſciſione</hi> read <hi>Genuſciſione.</hi>
+                  </item>
+                  <item>fol 91. col 3. lin 19. for whereas reade thus.</item>
+                  <item>ibid li 21. for behauiour whereby, read behauiour: and hereby.</item>
+                  <item>ibid lin 22. reade defrauded and the.</item>
+                  <item>ibid lin. 33. reade euery man which.</item>
+                  <item>ibid col 4. reade of <hi>Salop.</hi> Some 10.11</item>
+                  <item>fol 92. col 1. lin 34. reade <hi>Cymbelline.</hi>
+                  </item>
+                  <item>fol 93. col 1. lin 34. reade out of the hilles.</item>
+                  <item>ibid lin 35. reade that at certaine times.</item>
+                  <item>ibid lin 47. reade ſtraunge for ſtrong.</item>
+                  <item>ibid lin 58. reade vertigerne.</item>
+                  <item>ibid col 2. lin <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                        <desc>•…</desc>
+                  </gap>8. for ſeconde Aye, read ſecond Axe.</item>
+                  <item>ibid lin 44. reade doth it ſwell.</item>
+                  <item>ibid col 3. line 37. reade into the earth, for into the grounde.</item>
+                  <item>ibid 47 reade as one néere to S. Aſaphes.</item>
+                  <item>fol 94. col. 1. the 10.11. and 12. lines are to much almoſt by euery worde, by meanes of an odde pamphlet of Tideſwell latewarde inſerted into the booke.</item>
+                  <item>fol 96. col 2. lin 39. for goddeſſe reade gods.</item>
+                  <item>fol 96. col 3. line 10. for harde <hi>Cantus</hi> reade hardie <hi>Canutus.</hi>
+                  </item>
+                  <item>ibid col 4. verſ. 21. reade <hi>tantum &amp; agendis.</hi>
+                  </item>
+                  <item>fol 107. col 3. line 1. for drawne reade drawing.</item>
+               </list>
+            </div>
+         </div>
+      </body>
+  </text>
+</TEI>

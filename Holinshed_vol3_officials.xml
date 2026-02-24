@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="https://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/LEAF-VRE/code_snippets/refs/heads/main/CSS/leaf.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The firste [laste] volume of the chronicles of England, Scotlande, and Irelande
+               conteyning the description and chronicles of England, from the first inhabiting vnto
+               the conquest : the description and chronicles of Scotland, from the first original of
+               the Scottes nation till the yeare of our Lorde 1571 : the description and chronicles
+               of Yrelande, likewise from the first originall of that nation untill the yeare 1571 /
+               faithfully gathered and set forth by Raphaell Holinshed.</title>
+            <author>Holinshed, Raphael, d. 1580?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1577</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16408 KB of XML-encoded text transcribed from 1493 1-bit group-IV TIFF page
+            images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2009-10">2009-10 (EEBO-TCP Phase 1).</date>
+            <idno type="DLPS">A03448</idno>
+            <idno type="STC">STC 13568B</idno>
+            <idno type="STC">ESTC S3985</idno>
+            <idno type="EEBO-CITATION">34382662</idno>
+            <idno type="OCLC">ocm 34382662</idno>
+            <idno type="VID">29044</idno>
+            <availability>
+               <p>This keyboarded and encoded edition of the work described above is co-owned by the
+                  institutions providing financial support to the Early English Books Online Text
+                  Creation Partnership. This Phase I text is available for reuse, according to the
+                  terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Creative
+                     Commons 0 1.0 Universal</ref>. The text can be copied, modified, distributed
+                  and performed, even for commercial purposes, all without asking permission.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 1, no. A03448)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 29044)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1897:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The firste [laste] volume of the chronicles of England, Scotlande, and
+                     Irelande conteyning the description and chronicles of England, from the first
+                     inhabiting vnto the conquest : the description and chronicles of Scotland, from
+                     the first original of the Scottes nation till the yeare of our Lorde 1571 : the
+                     description and chronicles of Yrelande, likewise from the first originall of
+                     that nation untill the yeare 1571 / faithfully gathered and set forth by
+                     Raphaell Holinshed.</title>
+                  <author>Holinshed, Raphael, d. 1580?</author>
+               </titleStmt>
+               <extent>2 v. (ca. 2969 p.in various pagings) : ill. </extent>
+               <publicationStmt>
+                  <publisher>Imprinted for Iohn Hunne,</publisher>
+                  <pubPlace>At London :</pubPlace>
+                  <date>1577.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Includes indexes.</note>
+                  <note>Title printed within ornamental border.</note>
+                  <note>The second volume has title: The laste volume of the chronicles of England,
+                     Scotlande, and Irelande, with their descriptions.</note>
+                  <note>Errata: 2 p. at end of v.1; 4 p. at end of v.2.</note>
+                  <note>Imperfect: tightly bound and with print show-through.</note>
+                  <note>Signatures: V. 1: [par.]⁶, A-Q⁸, r¹, a-s⁸, t¹, A², *b*², *a*- *b*⁶, A-2J⁸,
+                     2K⁴, 2L-2M⁶, [fleuron]² A-C⁸, D⁴, A-D⁸, E⁵, F-G⁸, H⁶, I³; V. 2: [par]², t²⁻⁸,
+                     v-z⁸, A-4Z⁸, A-N⁴.</note>
+                  <note>Reproduction of original in: Harvard University. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl, TEI @ Oxford. </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the
+               publisher ProQuest to create accurately transcribed and encoded texts based on the
+               image sets published by ProQuest via their Early English Books Online (EEBO) database
+               (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy
+               (usually the first edition) of every monographic English-language title published
+               between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project
+               restraints of time and funding, and therefore chose to create diplomatic
+               transcriptions (as opposed to critical editions) with light-touch, mainly structural
+               encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during
+               Phase 1 of the project have been released into the public domain as of 1 January
+               2015. Anyone can now take and use these texts for their own purposes, but we
+               respectfully request that due credit and attribution is given to their original
+               source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any
+               assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature
+               (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then
+               their works are eligible for inclusion. Selection was intended to range over a wide
+               variety of subject areas, to reflect the true nature of the print record of the
+               period. In general, first editions of a works in English were prioritized, although
+               there are a number of works in other languages, notably Latin and Welsh, included and
+               sometimes a second or later edition of a work was chosen if there was a compelling
+               reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic
+               encoding. Quality assurance was then carried out by editorial teams in Oxford and
+               Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for
+               accuracy and those which did not meet QA standards were returned to the keyers to be
+               redone. After proofreading, the encoding was enhanced and/or corrected and characters
+               marked as illegible were corrected where possible up to a limit of 100 instances per
+               text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these
+               processes should make clear that, while the overall quality of TCP data is very good,
+               some errors will remain and some readable characters will be marked as illegible.
+               Users should bear in mind that in all likelihood such instances will never have been
+               looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the
+               TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with
+               mnemonic sdata character entities); displayable XML (TCP schema; characters
+               represented either as UTF-8 Unicode or text strings within braces); or lossless XML
+               (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref
+                  target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership
+                  web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)"
+               replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)"
+               replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"
+            />
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain -- History -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2008-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2008-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+         <change>
+            <date>2026-01-02</date>
+            <label>Diane Jakacki</label> Created segment version for LEAF-Writer and removed facsimile images)
+         </change>
+      </revisionDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="list_of_political_officials">
+            <pb/>
+            <head>
+               <note place="margin">The yeares of our Lorde.</note>The names of the Gouernors, Lieutenants, Lord Iuſtices, <hi>and Deputies of Ireland, ſince the conqueſt thereof</hi> by king Henrie the ſecond.</head>
+            <list>
+               <item>
+                  <note place="margin">1174</note>RIchard S<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>rangbow Erle of Pembroke go<g ref="char:EOLhyphen"/>uernor, hauing Reymond le Grace ioyned in commiſſion with him.</item>
+               <item>
+                  <note place="margin">1177</note>Reymond le Grace Lieutenant by himſelfe.</item>
+               <item>William Fitz Aldelme lieutenant, hauing Iohn de Curcy, Robert Fitz Stephans, and Miles Cogan ioyned in commiſſion with him.</item>
+               <item>Hugh Lacie Lieutenant.</item>
+               <item>
+                  <note place="margin">1182</note>Iohn La<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>y Coneſtable of Cheſter, Gouernors</item>
+               <item>Richard de Peche Gouernors</item>
+               <item>Hugh Lacie againe Lieatenant.</item>
+               <item>Hugh Lacie the yonger Lorde Iuſtice.</item>
+               <item>
+                  <note place="margin">1227</note>Henry Loandoris Archb. of Dublin L. Iuſtice.</item>
+               <item>
+                  <note place="margin">1228</note>Morice Fitz Girald Lord chiefe Iuſtice.</item>
+               <item>
+                  <note place="margin">1253</note>Iohn Fitz Geoffrey knight, Lorde Iuſtice.</item>
+               <item>Alain de la Zouch Lorde Iuſtice.</item>
+               <item>
+                  <note place="margin">1258</note>Stephen de Long Eſpe Lord Iuſtice.</item>
+               <item>William Deane Lorde Iuſtice.</item>
+               <item>
+                  <note place="margin">1261</note>Sir Richard Rochell or Capell Lord Iuſtice.</item>
+               <item>
+                  <note place="margin">1267</note>Dauid Barry Lorde Iuſtice.</item>
+               <item>
+                  <note place="margin">1268</note>Robert Vfforde Lord Iuſtice.</item>
+               <item>
+                  <note place="margin">1269</note>Richarde de Exeter Lord Iuſtice.</item>
+               <item>
+                  <note place="margin">1270</note>Iames Lorde Audley Lorde Iuſtice.</item>
+               <item>
+                  <note place="margin">1272</note>Morice Fitz Morice Lorde Iuſtice.</item>
+               <item>Walter Lorde Genuille Lord Iuſtice.</item>
+               <item>Robert Vfforde againe Lord Iuſtice.</item>
+               <item>
+                  <note place="margin">1281</note>Fulborne Biſhop of Waterford Lord Iuſtice.</item>
+               <item>Iohn Samford Archbiſhop of Dublin L. Iuſtice</item>
+               <item>William Veſci Lorde Iuſtice.</item>
+               <item>
+                  <note place="margin">1295</note>William Dodingſels Lorde Iuſtice.</item>
+               <item>Thomas Fitz Morice Lorde Iuſtice.</item>
+               <item>
+                  <note place="margin">1298</note>Iohn Wogan Lorde Iuſtice.</item>
+               <item>
+                  <note place="margin">1314</note>Theobald Verdon Lorde Iuſtice.</item>
+               <item>
+                  <note place="margin">1315</note>Edmond Butler Lorde Iuſtice.</item>
+               <item>
+                  <note place="margin">1317</note>Roger Lorde Mortimer Lorde Iuſtice.</item>
+               <item>Alexander Bignor Archb. of Dublin L. Iuſtice.</item>
+               <item>
+                  <note place="margin">1319</note>Roger Lord Mortimer ſecond tyme L. Iuſtice.</item>
+               <item>
+                  <note place="margin">1320</note>Thomas Fitz Iohn Erle of Kildare L. Iuſtice.</item>
+               <item>
+                  <note place="margin">1321</note>Iohn Birmingham Erle of Louth L. Iuſtice.</item>
+               <item>
+                  <note place="margin">1323</note>Iohn lorde Darcie Lord Iuſtice.</item>
+               <item>
+                  <note place="margin">1327</note>Roger Outlaw Prior of Kilmaynan L. Iuſtice.</item>
+               <item>Anthonie Lord Lucie Lord Iuſtice.</item>
+               <item>
+                  <note place="margin">1332</note>Iohn Lord Darcy ſecond time Lord Iuſtice.</item>
+               <item>
+                  <note place="margin">1337</note>Iohn Lord Charleton Lord Iuſtice.</item>
+               <item>
+                  <note place="margin">1338</note>Thomas Biſhop of Hereford Lord Iuſtice.</item>
+               <item>
+                  <note place="margin">1339</note>Iohn lord Darcy ordeyned Lord Iuſtice by pa<g ref="char:EOLhyphen"/>tent during his life by Edward the thirde.</item>
+               <item>Raufe Vfford Lord Iuſtice.</item>
+               <item>
+                  <note place="margin">1346</note>Robert Darcy Lord Iuſtice.</item>
+               <item>Iohn Fitz Morice Lorde Iuſtice.</item>
+               <item>Walter lord Bermingham Lord Iuſtice, his de<g ref="char:EOLhyphen"/>puties were Iohn Archer prior of Kilmaynan, Baron Carew, and ſir Thomas Rokeſby.</item>
+               <item>Maurice Fitz Thomas Earle of Deſmond had the office of Lorde Iuſtice for terme of his life, of king Edward the third his graunt.</item>
+               <item>
+                  <note place="margin">1355</note>Thomas Rokeſby knight Lord Iuſtice.</item>
+               <item>
+                  <note place="margin">1357</note>Almerich de Saint Amand appointed L. I. by turnes.</item>
+               <item>Iohn Butler Erle of Ormond appointed L. I. by turnes.</item>
+               <item>Maurice Fitz Th. erle of Kild. appointed L. I. by turnes.</item>
+               <item>
+                  <note place="margin">1361</note>Lionel duke of Clarence Lord Iuſtice.</item>
+               <item>
+                  <note place="margin">1367</note>Gerald Fitzmaurice Erle of Deſmond L. I.</item>
+               <item>
+                  <note place="margin">1369</note>Willia<g ref="char:cmbAbbrStroke">̄</g> L. Winſor the fi<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ſt lieutenant in Ireland</item>
+               <item>
+                  <note place="margin">1772</note>Richard Aſhton Lord Iuſtice.</item>
+               <item>
+                  <note place="margin">1381</note>Roger Mortimer Iuſtices &amp; lieutena<g ref="char:cmbAbbrStroke">̄</g>ts ſpe<g ref="char:EOLhyphen"/>ciallye recorded in Ri<g ref="char:EOLhyphen"/>chard the ſeconds dayes.</item>
+               <item>Philip Courtney Iuſtices &amp; lieutena<g ref="char:cmbAbbrStroke">̄</g>ts ſpe<g ref="char:EOLhyphen"/>ciallye recorded in Ri<g ref="char:EOLhyphen"/>chard the ſeconds dayes.</item>
+               <item>Iames erle of Orm Iuſtices &amp; lieutena<g ref="char:cmbAbbrStroke">̄</g>ts ſpe<g ref="char:EOLhyphen"/>ciallye recorded in Ri<g ref="char:EOLhyphen"/>chard the ſeconds dayes.</item>
+               <item>Robert Vere Earle of Oxforde Marques of Dublin, created duke of Irelande.</item>
+               <item>
+                  <note place="margin">1394</note>Roger Mortimer Erle of March Lieutenant.</item>
+               <item>Roger Mortimer erle of March &amp; Viſter lieut.</item>
+               <item>Roger Gray Lorde Iuſtice.</item>
+               <item>Iohn Stanley knight Lorde Lieutenant.</item>
+               <item>
+                  <note place="margin">1401</note>Thomas of Lancaſter brother to king Henry the fourth Lord Lieutenant, whoſe Deputies at ſundrie tymes were, Alexander Bi. of Meth, Stephen Scrope knight, and the Prior of Kilmaynam.</item>
+               <item>
+                  <note place="margin">1403</note>Iames Butler Erle of Ormond Lord Iuſtice.</item>
+               <item>Girald Erle of Kildare Lord Iuſtice.</item>
+               <item>
+                  <note place="margin">1407</note>Iames Butler Erle of Ormonde, ſonne to the foreſayd Iames Lord Iuſtice.</item>
+               <item>
+                  <note place="margin">1413</note>Iohn Stanley againe Lord Lieutenant.</item>
+               <item>Thomas Crauley Arch. of Dublin lord Iuſtice.</item>
+               <item>
+                  <note place="margin">1414</note>Iohn Lord Talbot of Shieyfield Lieutenant.</item>
+               <item>
+                  <note place="margin">1420</note>Iames Butler erle of Ormond, the ſecond time Lieutenant.</item>
+               <item>Edmond Erle of March, Iames Erle of Ormond his deputie. Lieutena<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>tes to king H. the ſixt.</item>
+               <item>Iohn Sutton L. Dudley, ſir Th. Straunge knight his deputie. Lieutena<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>tes to king H. the ſixt.</item>
+               <item>Sir Thomas Stanley, ſir Chri<g ref="char:EOLhyphen"/>ſtopher <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+               </gap>lunket his deputie, Lieutena<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>tes to king H. the ſixt.</item>
+               <item>Lion Lorde Welles the Earle of Ormond his deputie. Lieutena<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>tes to king H. the ſixt.</item>
+               <item>Iames erle of Ormo<g ref="char:cmbAbbrStroke">̄</g>d by himſelf Lieutena<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>tes to king H. the ſixt.</item>
+               <item>Iohn Earle of Shrewſburie, the Archbiſhop of Dublin in his ab<g ref="char:EOLhyphen"/>ſence Lorde Iuſtice. Lieutena<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>tes to king H. the ſixt.</item>
+               <item>Richard Plantagenet duke of Yorke, father to king Edwarde the fourth, had the office of Lieutenant by king Henrie the ſixt his letters patents for ten yeares. His deputies at ſun<g ref="char:EOLhyphen"/>dry times were. The Baron of Deluin, Ri<g ref="char:EOLhyphen"/>chard Fitz Guſtace knight, Iames erle of Or<g ref="char:EOLhyphen"/>mond, &amp; Thomas Fitz Morice erle of Kildare.</item>
+               <item>Thomas Fitz Morice Erle of Kildare Lord Iu<g ref="char:EOLhyphen"/>ſtice in king Edward the fourth his dayes, vn<g ref="char:EOLhyphen"/>till the third yeare of his raigne. After which George duke of Clarence brother to the King had the office of Lieutenant during his life, &amp; made his deputies by ſundrie tymes theſe.</item>
+               <item>Thomas Erle of Deſmonde, Deputies to the duke of Clarence.</item>
+               <item>Iohn Tiptoft erle of Worceter, Deputies to the duke of Clarence.</item>
+               <item>Thomas Erle of Kildare, Deputies to the duke of Clarence.</item>
+               <item>Henry Lord Gray of Ruthine. Deputies to the duke of Clarence.</item>
+               <item>
+                  <note place="margin">1470</note>Sir Rouland Euſtace Lord Deputie.</item>
+               <item>Richard duke of Yorke yonger ſon to king Ed<g ref="char:EOLhyphen"/>ward the fourth Lieutenant.</item>
+               <item>Edward ſon to Richarde the third Lieutenant, his deputie was Gerald Erle of Kildare.</item>
+               <item>Iaſper duke of Bedford and Erle of Pembroke Lieut. his deputy was Walter Archb. of Dub.</item>
+               <item>
+                  <note place="margin">1494</note>Edward Poynings knight, Lord deputie.</item>
+               <item>
+                  <note place="margin">1501</note>Henrie duke of Yorke, after king by the name of Henrie the eight, Lieutenant, his deputie Girald Erle of Kildare.</item>
+               <item>Girald Fitz Girald Erle of Kildare L. deputie.</item>
+               <item>
+                  <note place="margin">1520</note>Thomas Howard Earle of Surrey, after duke of Norffolke, Lieutenant.</item>
+               <item>
+                  <note place="margin">1523</note>Piers Butler Earle of Oſſorie Lord deputie.</item>
+               <item>Girald Fitz Girald erle of Kildare again L. dep.</item>
+               <item>The Baron of Deluin Lord deputie.</item>
+               <item>
+                  <note place="margin">1529</note>Piers Butler Erle of Oſſorie again L. deputie.</item>
+               <item>William Skeffington knight Lord deputie.</item>
+               <item>Girald Fitz Girald erle of Kildare again L. dep.</item>
+               <item>William Skeffington again Lord deputie.</item>
+               <item>
+                  <note place="margin">1534</note>Leonard Lord Gray, Lord deputie.</item>
+               <item>
+                  <note place="margin">1540</note>Sir William Brereton knight, Lord Iuſtice.</item>
+               <item>
+                  <note place="margin">1541</note>Sir Anthonie Sentleger knight, Lord deputie.</item>
+            </list>
+         </div>
+      </body>
+  </text>
+</TEI>

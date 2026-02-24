@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="https://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/LEAF-VRE/code_snippets/refs/heads/main/CSS/leaf.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The firste [laste] volume of the chronicles of England, Scotlande, and Irelande
+               conteyning the description and chronicles of England, from the first inhabiting vnto
+               the conquest : the description and chronicles of Scotland, from the first original of
+               the Scottes nation till the yeare of our Lorde 1571 : the description and chronicles
+               of Yrelande, likewise from the first originall of that nation untill the yeare 1571 /
+               faithfully gathered and set forth by Raphaell Holinshed.</title>
+            <author>Holinshed, Raphael, d. 1580?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1577</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16408 KB of XML-encoded text transcribed from 1493 1-bit group-IV TIFF page
+            images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2009-10">2009-10 (EEBO-TCP Phase 1).</date>
+            <idno type="DLPS">A03448</idno>
+            <idno type="STC">STC 13568B</idno>
+            <idno type="STC">ESTC S3985</idno>
+            <idno type="EEBO-CITATION">34382662</idno>
+            <idno type="OCLC">ocm 34382662</idno>
+            <idno type="VID">29044</idno>
+            <availability>
+               <p>This keyboarded and encoded edition of the work described above is co-owned by the
+                  institutions providing financial support to the Early English Books Online Text
+                  Creation Partnership. This Phase I text is available for reuse, according to the
+                  terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Creative
+                     Commons 0 1.0 Universal</ref>. The text can be copied, modified, distributed
+                  and performed, even for commercial purposes, all without asking permission.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 1, no. A03448)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 29044)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1897:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The firste [laste] volume of the chronicles of England, Scotlande, and
+                     Irelande conteyning the description and chronicles of England, from the first
+                     inhabiting vnto the conquest : the description and chronicles of Scotland, from
+                     the first original of the Scottes nation till the yeare of our Lorde 1571 : the
+                     description and chronicles of Yrelande, likewise from the first originall of
+                     that nation untill the yeare 1571 / faithfully gathered and set forth by
+                     Raphaell Holinshed.</title>
+                  <author>Holinshed, Raphael, d. 1580?</author>
+               </titleStmt>
+               <extent>2 v. (ca. 2969 p.in various pagings) : ill. </extent>
+               <publicationStmt>
+                  <publisher>Imprinted for Iohn Hunne,</publisher>
+                  <pubPlace>At London :</pubPlace>
+                  <date>1577.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Includes indexes.</note>
+                  <note>Title printed within ornamental border.</note>
+                  <note>The second volume has title: The laste volume of the chronicles of England,
+                     Scotlande, and Irelande, with their descriptions.</note>
+                  <note>Errata: 2 p. at end of v.1; 4 p. at end of v.2.</note>
+                  <note>Imperfect: tightly bound and with print show-through.</note>
+                  <note>Signatures: V. 1: [par.]⁶, A-Q⁸, r¹, a-s⁸, t¹, A², *b*², *a*- *b*⁶, A-2J⁸,
+                     2K⁴, 2L-2M⁶, [fleuron]² A-C⁸, D⁴, A-D⁸, E⁵, F-G⁸, H⁶, I³; V. 2: [par]², t²⁻⁸,
+                     v-z⁸, A-4Z⁸, A-N⁴.</note>
+                  <note>Reproduction of original in: Harvard University. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl, TEI @ Oxford. </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the
+               publisher ProQuest to create accurately transcribed and encoded texts based on the
+               image sets published by ProQuest via their Early English Books Online (EEBO) database
+               (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy
+               (usually the first edition) of every monographic English-language title published
+               between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project
+               restraints of time and funding, and therefore chose to create diplomatic
+               transcriptions (as opposed to critical editions) with light-touch, mainly structural
+               encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during
+               Phase 1 of the project have been released into the public domain as of 1 January
+               2015. Anyone can now take and use these texts for their own purposes, but we
+               respectfully request that due credit and attribution is given to their original
+               source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any
+               assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature
+               (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then
+               their works are eligible for inclusion. Selection was intended to range over a wide
+               variety of subject areas, to reflect the true nature of the print record of the
+               period. In general, first editions of a works in English were prioritized, although
+               there are a number of works in other languages, notably Latin and Welsh, included and
+               sometimes a second or later edition of a work was chosen if there was a compelling
+               reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic
+               encoding. Quality assurance was then carried out by editorial teams in Oxford and
+               Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for
+               accuracy and those which did not meet QA standards were returned to the keyers to be
+               redone. After proofreading, the encoding was enhanced and/or corrected and characters
+               marked as illegible were corrected where possible up to a limit of 100 instances per
+               text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these
+               processes should make clear that, while the overall quality of TCP data is very good,
+               some errors will remain and some readable characters will be marked as illegible.
+               Users should bear in mind that in all likelihood such instances will never have been
+               looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the
+               TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with
+               mnemonic sdata character entities); displayable XML (TCP schema; characters
+               represented either as UTF-8 Unicode or text strings within braces); or lossless XML
+               (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref
+                  target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership
+                  web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)"
+               replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)"
+               replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"
+            />
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain -- History -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2008-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2008-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+         <change>
+            <date>2026-01-02</date>
+            <label>Diane Jakacki</label> Created segment version for LEAF-Writer and removed facsimile images)
+         </change>
+      </revisionDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="part">
+            <head>Faultes and ouerſightes eſcaped in the printing of the <hi>Hyſtorie of Scotlande.</hi>
+            </head>
+            <list>
+               <item>Page .2. line .7. for .30. rede 36. The ſame Page, and .27. lin, for Mun<g ref="char:EOLhyphen"/>dus afterwards Brachara, rede Munda and now Mondego, which Cirie hight firſte Brachara, and af<g ref="char:EOLhyphen"/>ter Bechle, as Hector Boece hath. The ſane page the laſt marginall note, for Brigantia, reade Brigane<g ref="char:EOLunhyphen"/>tiu<gap reason="illegible: bleedthrough" extent="1 span">
+                     <desc>〈…〉</desc>
+               </gap>.</item>
+               <item>Page .5. the firſte colum in the Mar<g ref="char:EOLhyphen"/>gent, ouer againſt the .54. line write 2208. HB. and ouer againſt y<hi rend="sup">e</hi> ſame line to aunſwere .55. write .60. H.B. and ouer againſt the .56. line, to an<g ref="char:EOLhyphen"/>ſwer the yeare of oure Lorde .697. write .695. H.B. The ſame Page colum .2. line .18. for .133. reade .1033. The ſame page and colum line .48. ſweare, reade forſweare.</item>
+               <item>Page .6. col. 2. in the Margent ouer againſt the third line, for .3363. reade 4867.</item>
+               <item>Page .7. col. 2. lines .17.19.20.21. write in the Margent .4869. H.B. to an<g ref="char:EOLhyphen"/>ſwere, 3640.350, H.B. as aunſwere 327.420, H.B, to aunſwere .420. for in the yeare of y<hi rend="sup">e</hi> building of Rome Harriſon &amp; Hector Boece agree. 437 to aunſwere .790.</item>
+               <item>Page .9. colum .1. the laſt line, robbed the Scottes to thee, dead robbed the Scots, laying the blame on the Pictes, as if they had bin the treſ<g ref="char:EOLhyphen"/>paſers.</item>
+               <item>Page .12. col. 8. line .34. for were, rede where.</item>
+               <item>Page .17. colum .<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+               </gap>. line .21. for Laugh Bruum, reade Lochbroun. The ſame pa. colum .<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>. ouer againſt the 4<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> line, write in the margent .546. H.B. to aunſwere .527. yeares of Rome there in the line.</item>
+               <item>Page .18. col. 1. line .1. for Scots and Pictes, reade Scots as Pictes.</item>
+               <item>Page .23. col. 1. line .25. and continu<g ref="char:EOLhyphen"/>ed, put out and.</item>
+               <item>Page .24. col. 2. line .34. his handes for feigning, reade the Tirantes hands who feigning .&amp;c.</item>
+               <item>Page 28. col. 1. line 38. for further, reade forthwith.</item>
+               <item>Page 30. col. 1. line 58. for the ninthe yere, reade the nine and twentith.</item>
+               <item>Page 31. colum. 2. line 24. for Aldion, reade Albion.</item>
+               <item>Page 38. colum. 2 line 40. for Merne, reade Mernes.</item>
+               <item>Page 44. col. 2. line 54. for 54. reade 58. for ſo it agreeth with Maiſter Harriſons accompte.</item>
+               <item>Page 48. col. 1. line 1. for with them, reade with him.</item>
+               <item>Page 53. col. 1. line 30. for Vſipithes, reade Vnpites. The ſame Page and colum line 33. and in proces, put out in.</item>
+               <item>Page 54. col. 1. line 2. for huſband<g ref="char:EOLhyphen"/>men, reade p<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+               </gap> fyſhermen of the Cou<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>dey.</item>
+               <item>Page 57. colum 2. line 56. inſteede of <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+               </gap> for that he aught, reade ſo that he mighte.</item>
+               <item>Page 59. colum .<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+               </gap>. the number in the margent is ſet too lowe .3. ſhoulde aunſwere .19. in the eyghth line. &amp;c.</item>
+               <item>Page 65. co. 2. line .53. for their whole number, read the whole number.</item>
+               <item>Page 68. col. 2. lin. 54. for hilles and mountaines, read thicke wooddes and mariſhes.</item>
+               <item>Page 72. col. 2. line 46. for ſuperſtiti<g ref="char:EOLhyphen"/>on reade ſuperſtitious.</item>
+               <item>Page 89. colu. 2. line 46 for Cantire reade Kile.</item>
+               <item>Page 89. co. 2. and for and vnder<g ref="char:EOLhyphen"/>ſtanding, read ſo as vnderſtanding.</item>
+               <item>Page 100. co. 1. line 44. for deſtroye, reade with. The ſame page col<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+               </gap> line 42. for the backe reade their backes.</item>
+               <item>Page 102. col. 2. line .<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+               </gap>. for Helene Vrſula, in ſome it is amended.</item>
+               <item>Page .104. col. 11 line 5<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+               </gap> for paſſed, by fyre, reade were put to the fyre.</item>
+               <item>Page 110. though wrongly noted .118. ouer againſt the 44. and 45. line, put in the margent Conanus was alſo ſent with the <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+               </gap>chbiſh. but he died on the Sea as they ſailed thi<g ref="char:EOLhyphen"/>therwards.</item>
+               <item>Page 119. col. 2. line 32. for infarſed, reade inſerted.</item>
+               <item>Page 122. col. 1. line .5.6. &amp; 7. for the auncient ordinance &amp;c. read accor<g ref="char:EOLhyphen"/>dyng to the auncient ordinance, ſo as the countreys beyond Humber were appoynted to remayne.</item>
+               <item>Page 150. col. 1. line 41 42 &amp; 43. for a<g ref="char:EOLhyphen"/>boute the ſame to the Gugenius K. of Scots ſent, read, In the begin<g ref="char:EOLhyphen"/>ning of his reigne he ſent.</item>
+               <item>Page 166. col. 1. line 14. for greately nowe, reade holpe greatly nowe.</item>
+               <item>Page 178. col. 2. line 45. king Edwyn put out king.</item>
+               <item>Page 192. col. 2. line 28. for with hys miniſters, read with hir miniſters.</item>
+               <item>Page 199. col. 2. in the margent ouer againſte the 4. line for an Engliſh<g ref="char:EOLhyphen"/>man, reade a Welchman of Sainte Dauid.</item>
+               <item>Page 221. col. 1. line 9. for he had bin, reade he hauing bin.</item>
+               <item>Page 250. col. 2. line 16. for him, rede hir.</item>
+               <item>Page 290. colum 2. line 12. for which, reade as. The ſame page col. <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+               </gap> line 7. for deſired, rede deſire.</item>
+               <item>Page 327. col. 2. line 4. put and ſa<g ref="char:EOLhyphen"/>uage.</item>
+               <item>Page 333. col. 2. in the margent the laſt note, for Scotland, reade En<g ref="char:EOLhyphen"/>gland.</item>
+               <item>Page 334. col. 1. in the Margente o<g ref="char:EOLhyphen"/>uer againſt the fourteenth line, for Dolphine, reade Dubline, in ſome leaues it is amended.</item>
+               <item>Page 346. col. 2. line .12. and therfore in the reward, put out the, and rede in reward.</item>
+               <item>Page 369. for 1403. vpon a Tewſday reade 1402. vpon a Thurſday.</item>
+               <item>Page 388. col. 2. line 44. Tetueer, a<g ref="char:EOLhyphen"/>lias Camphier.</item>
+               <item>Page 389. col. 2. line .44. Dowlas for Dowglas.</item>
+               <item>Page 402. col. 2. line .33. for Earle of Dundale, reade Lorde: Auendale, and ſo likewiſe for there places. The ſame page and colums line 3<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+               </gap> &amp; for the Lorde of Lure, read the Laird of Luz, &amp; lin. 36. for the Lord of Cragwallace, reade the Lairde of Cragwallace.</item>
+               <item>Page 406. col. 2. line 57 for Sanau<g ref="char:EOLhyphen"/>han reade Sanoubae The ſame page and colum line 24 for battel, reade debatable.</item>
+               <item>Page 413. col. 1. line .6. for the Lorde, reade the Laird.</item>
+               <item>Page 423. col. 1. line 15. the Kilwening reade Kilwenning, line 17. for Ca<g ref="char:EOLhyphen"/>ſhels, read Caſſels, line 18. put out addell, line 20. for arſhin, reade Erſkyn. line 24. for Sir Dauid reade Sir Dauid Hume.</item>
+               <item>Page 433. colum .2. line .55. for Eden<g ref="char:EOLhyphen"/>burgh, reade Iedworth.</item>
+               <item>Page 437. col. 2. lin 15. for argument, reade agreement.</item>
+               <item>Page 438. co. 1. lin. 20. for Henry, rede to one Henry. The ſame page col. 2. line 45. for ſaue, rede ſtay.</item>
+               <item>Page 439. col. 1. line 2. and 3. for Lord of Hounſton, reade Laird of Hou<g ref="char:EOLhyphen"/>ſton.</item>
+               <item>Page 44. col. 2. line 50. not conuicte, but put in priſon, there to remaine at the Kings pleaſure.</item>
+               <item>Page 462 col. 2. line 30. for Houſon, reade George Striueling of Glo<g ref="char:EOLhyphen"/>ret.</item>
+               <item>Page 485. col. 1. line .19. but the fight growing, reade ſo that the fighte grewe.</item>
+               <item>Page 487. col. 1. line 39. for Amalaſt<g ref="char:EOLhyphen"/>he, reade amalaſche.</item>
+               <item>Page 508. col. 2. line 44. for Borde, reade Boyde.</item>
+            </list>
+         </div>
+      </body>
+  </text>
+</TEI>

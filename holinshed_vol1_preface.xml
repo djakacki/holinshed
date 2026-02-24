@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="https://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/LEAF-VRE/code_snippets/refs/heads/main/CSS/leaf.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The firste [laste] volume of the chronicles of England, Scotlande, and Irelande conteyning the description and chronicles of England, from the first inhabiting vnto the conquest : the description and  chronicles of Scotland, from the first original of the Scottes nation till the yeare of our Lorde 1571 : the description and chronicles of Yrelande, likewise from the first originall of that nation untill the yeare 1571 / faithfully gathered and set forth by Raphaell Holinshed.</title>
+            <author>Holinshed, Raphael, d. 1580?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1577</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16408 KB of XML-encoded text transcribed from 1493 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2009-10">2009-10 (EEBO-TCP Phase 1).</date>
+            <idno type="DLPS">A03448</idno>
+            <idno type="STC">STC 13568B</idno>
+            <idno type="STC">ESTC S3985</idno>
+            <idno type="EEBO-CITATION">34382662</idno>
+            <idno type="OCLC">ocm 34382662</idno>
+            <idno type="VID">29044</idno>
+            <availability>
+               <p>This keyboarded and encoded edition of the
+                  work described above is co-owned by the institutions
+                  providing financial support to the Early English Books
+                  Online Text Creation Partnership. This Phase I text is
+                  available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Creative
+                     Commons 0 1.0 Universal</ref>. The text can be copied,
+                  modified, distributed and performed, even for
+                  commercial purposes, all without asking permission.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 1, no. A03448)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 29044)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1897:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The firste [laste] volume of the chronicles of England, Scotlande, and Irelande conteyning the description and chronicles of England, from the first inhabiting vnto the conquest : the description and  chronicles of Scotland, from the first original of the Scottes nation till the yeare of our Lorde 1571 : the description and chronicles of Yrelande, likewise from the first originall of that nation untill the yeare 1571 / faithfully gathered and set forth by Raphaell Holinshed.</title>
+                  <author>Holinshed, Raphael, d. 1580?</author>
+               </titleStmt>
+               <extent>2 v. (ca. 2969 p.in various pagings) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Imprinted for Iohn Hunne,</publisher>
+                  <pubPlace>At London :</pubPlace>
+                  <date>1577.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Includes indexes.</note>
+                  <note>Title printed within ornamental border.</note>
+                  <note>The second volume has title: The laste volume of the chronicles of England, Scotlande, and Irelande, with their descriptions.</note>
+                  <note>Errata: 2 p. at end of v.1; 4 p. at end of v.2.</note>
+                  <note>Imperfect: tightly bound and with print show-through.</note>
+                  <note>Signatures: V. 1: [par.]⁶, A-Q⁸, r¹, a-s⁸, t¹, A², *b*², *a*- *b*⁶, A-2J⁸, 2K⁴, 2L-2M⁶, [fleuron]² A-C⁸, D⁴, A-D⁸, E⁵, F-G⁸, H⁶, I³; V. 2: [par]², t²⁻⁸, v-z⁸, A-4Z⁸, A-N⁴.</note>
+                  <note>Reproduction of original in: Harvard University. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+               TEI @ Oxford.
+            </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+               matchPattern="([0-9\-]+):([0-9IVX]+)"
+               replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+               matchPattern="(.+)"
+               replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2008-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2008-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+  <text>
+      <body>
+               <div type="engraved_title_page">
+                  <!--<pb facs="tcp:29044:1"/>-->
+                  <!--<pb facs="tcp:29044:1"/>-->
+                  <p>1577.</p>
+                  <p>THE Firſte volume of the <hi rend="print">Chronicles of England, Scot<g ref="char:EOLhyphen"/>lande,</hi> and Irelande.</p>
+                  <p>CONTEYNING,
+<list>
+                        <item>
+                           <hi rend="print">The deſcription and Chronicles of England, from the firſt inhabiting vpon the conqueſt.</hi>
+                        </item>
+                        <item>
+                           <hi rend="print">The deſcription and Chronicles of Scotland, from the firſt origi<gap reason="illegible: bleedthrough" extent="1+ letters">
+                                 <desc>•…</desc>
+                              </gap> of <gap reason="illegible: bleedthrough" extent="1 word">
+                                 <desc>〈◊〉</desc>
+                              </gap> 
+                              <gap reason="illegible: bleedthrough" extent="1 span">
+                                 <desc>〈…〉</desc>
+                              </gap>tes <gap reason="illegible: bleedthrough" extent="1 word">
+                                 <desc>〈◊〉</desc>
+                              </gap>, till the yeare of our Lorde 1571.</hi>
+                        </item>
+                        <item>
+                           <hi rend="print">The deſcript<gap reason="illegible: bleedthrough" extent="3 letters">
+                                 <desc>•••</desc>
+                              </gap> 
+                              <gap reason="illegible: bleedthrough" extent="1 word">
+                                 <desc>〈◊〉</desc>
+                              </gap> 
+                              <gap reason="illegible: bleedthrough" extent="4 letters">
+                                 <desc>••••</desc>
+                              </gap>nicles of Yrelande, likewiſe from the fir<gap reason="illegible: bleedthrough" extent="2 letters">
+                                 <desc>••</desc>
+                              </gap> 
+                              <gap reason="illegible: bleedthrough" extent="1 span">
+                                 <desc>〈…〉</desc>
+                              </gap> of that Nation, vntill the yeare. 1547.</hi>
+                        </item>
+                     </list>
+                  </p>
+                  <p>
+                     <hi rend="print">Faithfully gathered and ſet forth, by <hi rend="print">Raphaell Holinſhed.</hi>
+                     </hi>
+                  </p>
+                  <p>AT LONDON, Imprinted for Iohn Hunne.</p>
+                  <p>God ſaue the Queene.</p>
+               </div>
+               <div type="illustration">
+                  <!--<pb facs="tcp:29044:2" rendition="simple:additions"/>-->
+                  <p>
+                     <figure>
+                        <figDesc>blazon or coat of arms</figDesc>
+                     </figure>
+                  </p>
+               </div>
+
+               <div type="preface">
+                  <!--<pb facs="tcp:29044:4"/>
+                  <pb facs="tcp:29044:4"/>-->
+                  <head>THE PREFACE to the Reader.</head>
+                  <p>
+                     <hi rend="print">
+                        <seg rend="decorInit">I</seg>T is dangerous (ge<g ref="char:cmbAbbrStroke">̄</g>tle</hi> Reader) to range in ſo large a fielde as I haue here vnderta<g ref="char:EOLhyphen"/>ken, vvhile ſo many ſundry men in diuers things may be able to controll mee, and ma<g ref="char:EOLhyphen"/>ny excellent vvittes of our countrey (as vvell or better occupied I hope) are able herein to ſurpaſſe me: but ſe<g ref="char:EOLhyphen"/>ing the beſte able do ſeeme to neglect it, let me (though leaſt able) craue pardon to put the<g ref="char:cmbAbbrStroke">̄</g> in minde not to forget their natiue cou<g ref="char:cmbAbbrStroke">̄</g>treis praiſe (vvhich is theyr dutie) the encourage<g ref="char:EOLhyphen"/>ment of theyr vvorthie coun<g ref="char:EOLhyphen"/>trie men, by elders aduaunce<g ref="char:EOLhyphen"/>ments and the dauntyng of the vicious, by foure penall examples, to vvhiche ende I take Chronicles and Hiſto<g ref="char:EOLhyphen"/>ries ought chiefly to be vvritten. My labour may ſhevv mine vttermoſt good vvill, of the more learned I require their further enlargement, and of faultfinders diſpenſatio<g ref="char:cmbAbbrStroke">̄</g> till they be more fully enfourmed. It is too commo<g ref="char:cmbAbbrStroke">̄</g> that the leaſt able are readieſt to finde fault in maters of leaſt vveight, and therfore I eſteeme the leſſe of their carping, but humbly beſeech the skilfull to ſupplie my vvant, and to haue care of their dutie: and eyther to amend that vvherin I haue fayled, or be content vvith this mine ende<g ref="char:EOLhyphen"/>uour. For it may pleaſe them to conſider, that no one can be eye vvitneſſe to all that is vvritten vvithin our time, much leſſe to thoſe things vvhiche happened in former times, and therefore muſt be content vvith reportes of others. Therein I haue bene ſo careful, that I haue ſpared no paynes or helpe of frendes to ſearch out either vvrit<g ref="char:EOLhyphen"/>ten or printed auncient Authours, or to enquire of moderne eye vvitneſſes, for the true ſetting dovvne of that vvhiche I haue here deliuered: but I finde ſuch vvant in vvriters for the neceſſary knovvledge of things done in times paſt, and lacke of meane to obtayne ſufficient inſtructions by reporters of the time preſent, and herevvith the vvorthie exploytes of our countrey men ſo many, that it greeueth me I coulde not leaue the ſame to poſteritie (as I vviſhed) to their vvel deſerued praiſe. But I haue here imperted vvhat I could learne, and craue that it may be take<g ref="char:cmbAbbrStroke">̄</g> in good part. My ſpeech is playne, vvithout any Rethoricall ſhevve of Eloquence, hauing rather a regarde to ſimple truth, than to decking vvordes. I vviſhe I had bene furniſhed vvith ſo perfect inſtructions, and ſo many good gifts, that I might haue pleaſed all kindes of men, but that ſame being ſo rare a thing in any one of the beſt, I beſeech thee (gentle Rea<g ref="char:EOLhyphen"/>der) not to looke for it in me the meaneſt.</p>
+                  <p>But novv for thy further inſtruction to vnderſtand the courſe of theſe my labors. Firſt co<g ref="char:cmbAbbrStroke">̄</g>cerning the Hiſtorie of Engla<g ref="char:cmbAbbrStroke">̄</g>d, as I haue collected the ſame out of many and ſundry Authours, in vvhome vvhat contrarietie, negligence, and raſhneſſe, ſomtime is founde in their reportes, I leaue to the diſcretion of thoſe that haue peruſed theyr
+<!--<pb facs="tcp:29044:5"/>-->
+vvorkes: for my parte, I haue in things doubtfull rather choſen to ſhevve the diuer<g ref="char:EOLhyphen"/>ſitie of their vvritings, than by ouer ruling them, and vſing a peremptory cenſure, to frame them to agree to my liking: leauing it neuertheleſſe to eche mans iudgement, to controlle the<g ref="char:cmbAbbrStroke">̄</g> as he ſeeth cauſe. If ſome vvhere I ſhevv my fancie vvhat I thinke, and that the ſame diſlyke them, I craue pardon, ſpecially if by probable reaſons or playner matter to be produced, they can ſhevv mine errour, vpo<g ref="char:cmbAbbrStroke">̄</g> knovvledge vvher<g ref="char:EOLhyphen"/>of I ſhalbe ready to reforme it accordingly. VVhere I do beginne the Hiſtorie from the firſt inhabitation of this Iſle, I looke not to content eche mans opinion concer<g ref="char:EOLhyphen"/>ning the originall of them that firſt peopled it, and no maruell: for in matters ſo vn<g ref="char:EOLhyphen"/>certayne, if I can not ſufficiently content my ſelfe (as in deede I cannot) I knovve not hovv I ſhould ſatisfie others. That vvhiche ſeemeth to me moſt likely, I haue no<g ref="char:EOLhyphen"/>ted, beſeeching the learned (as I truſt they vvill) in ſuch pointes of doubtfull antiqui<g ref="char:EOLhyphen"/>ties to beare vvith my skill. Sith for ought I knovv, the matter is not yet decided a<g ref="char:EOLhyphen"/>mong the learned, but ſtill they are in controuerſie about it: <hi rend="print">Et adhuc ſub iudice lis est.</hi> VVell hovv ſoeuer it came firſt to be inhabited, likely it is that at the firſt the vvhole Iſle vvas vnder one Prince and Gouernour, though aftervvardes, and long perad<g ref="char:EOLhyphen"/>uenture before the Romaines ſet any foote vvithin it, the Monarchie thereof vvas broken, euen vvhen the multitude of the inhabitants grevv to bee great, and ambi<g ref="char:EOLhyphen"/>tion entred amongſt them, vvhich hath brought ſo many good policies and ſtates to ruyne and decay.</p>
+                  <p>The Romaines hauing ones got poſſeſsion of the continent that faceth this Iſle, coulde not reſt (as it appeareth) till they had brought the ſame alſo vnder theyr ſub<g ref="char:EOLhyphen"/>iection: and the ſooner doubtleſſe, by reaſon of the factions amongſt the Princes of the lande, vvhiche the Romaynes (through their accuſtomed skill) coulde turne very vvell to their moſte aduauntage. They poſſeſſed it almoſte fiue hundreth yeares, and longer might haue done, if eyther their inſufferable tiranny had not ta<g ref="char:EOLhyphen"/>ken avvay from them the loue of the people, aſvvell here as elſvvhere, either that their ciuill diſcorde aboute the chopping and chaunging of their Emperours, had not ſo vveakened the forces of their Empire, that they vvere not able to defende the ſame againſt the impreſsion of barbarous nations. But as vvee may coniecture by that vvhiche is founde in Hiſtories, aboute that tyme, in vvhiche the Romaine Em<g ref="char:EOLhyphen"/>pire beganne to decline, this lande ſtoode in very vveake ſtate: being ſpoyled of the more parte of all hir able menne, vvhiche vvere ledde avvay into forreine regions, to ſupplie the Romayne armies: and likevviſe perhaps of all neceſſarie armour, vvea<g ref="char:EOLhyphen"/>pon, and treaſure: vvhiche being perceyued of the Saxons, after they vvere recei<g ref="char:EOLhyphen"/>ued into the Ile to ayde the Britons againſt the Scottes and Pictes, then inuading the ſame, miniſtred to them occaſion to attempt the ſeconde conqueſt, vvhiche at length they brought to paſſe, to the ouerthrovv not onely of the Brittiſh dominion, but alſo to the ſubuerſion of the Chriſtian religion, here in this lande: vvhiche chanced as appeareth by Gildas, for the vvicked ſinnes and vnthankefulneſſe of the inhabitants tovvardes God, the chiefe occaſions and cauſes of the tranſmutations of kingdomes, <hi rend="print">Nam propter peccata, regna tranſmutantur à gente in gentem.</hi> The Saxons obteyning poſſeſsion of the lande, gouerned the ſame being deuided into ſundry kingdomes, and hauing once ſubdued the Brytons, or at the leaſtvviſe remoued them out of the moſt parte of the Iſle into odde corners and mountaynes, fell at diuiſion among themſelues, and oftentimes vvith vvarre purſued eche other, ſo as no perfect order of gouernement could be framed, nor the Kings grovv to any great puiſſance, eyther to moue vvarres abroade, or ſufficiently to defende themſelues againſt forreyne forces at home: as ma<g ref="char:EOLhyphen"/>nifeſtly vvas perceyued, vvhen the Danes and other the Northeaſterne people, being then of great puyſſance by ſea, beganne miſerably to afflict this lande: at the firſt in<g ref="char:EOLhyphen"/>uading as it vvere but onely the coaſtes and countreys lying neare to the ſea, but af<g ref="char:EOLhyphen"/>tervvardes vvith mayne armies, they entred into the middle partes of the lande: and although the Engliſhe people at length came vnder one King, and by that meanes
+<!--<pb facs="tcp:29044:5"/>-->
+vvere the better able to reſiſt the enimies, yet at length thoſe Danes ſubdued the vvhole, and had poſſeſsio<g ref="char:cmbAbbrStroke">̄</g> thereof for a time, although not long, but that the crovvne returned againe to thoſe of the Saxon line: till ſhortly after by the inſolent dealings of the gouernours, a deuiſion vvas made betvvixt the King and his people, through iuſte puniſhmente decreed by the prouidence of the Almightie, determining for their ſinnes and contempt of his lavves, to deliuer them into the handes of a ſtran<g ref="char:EOLhyphen"/>ger, and therevpon vvhen ſpite and enuie had brought the title in doubte, to vvhom the right in ſucceſsion apperteyned, the Conquerour entred, and they remayned a pray to him and his: vvho plucked all the heades and chiefe in authoritie, ſo cleare<g ref="char:EOLhyphen"/>ly vp by the rootes, as fevve or none of them in the ende vvas lefte to ſtande vp a<g ref="char:EOLhyphen"/>gainſt him. And herevvith altering the vvhole ſtate, hee planted lavves and ordi<g ref="char:EOLhyphen"/>naunces as ſtoode moſte for his auayle and ſuretie, vvhich being after qualified vvith more milde and gentle lavves, tooke ſuche effect, that the ſtate hath euer ſithence continued vvhole and vnbroken by vviſe and politike gouernement, although diſ<g ref="char:EOLhyphen"/>quieted, ſometime by ciuill diſſention, to the ruyne commonly of the firſte mouers, as by the ſequele of the hiſtorie ye may ſee.</p>
+                  <p>For the Hiſtorie of Scotlande, I haue for the more parte follovved Hector Boete, Iohannes Maior, and Iouan, Ferreri Piemonteſe, ſo farre as they haue continued it, interlaced ſometimes vvith other Authours, as Houeden, Fourdon and ſuch like, al<g ref="char:EOLhyphen"/>though not often, bicauſe I meante rather to deliuer vvhat I founde in their ovvne Hiſtories extant, than to correct them by others, leauing that enterprice to their ovvne countrey men: ſo that vvhat ſoeuer ye reade in the ſame, conſider that a Scot<g ref="char:EOLhyphen"/>tiſhman vvritte it, and an Engliſh man hath but onely tranſlated it into our language, referring the Reader to the Engliſh Hiſtorie, in all maters betvvixte vs and them, to be confronted therevvith as he ſeeth cauſe. For the continuation thereof I vſed the like order, in ſuche copies and notes as Maiſter VVolfe in his life time procured me, ſauing that in theſe laſte yeares I haue inſerted ſome notes, as concerned matters of vvarre betvvixte vs and the Scottes, bicauſe I gotte them not till that parte of the En<g ref="char:EOLhyphen"/>gliſh Hiſtorie vvas paſte the preſſe.</p>
+                  <p>For Irelande I haue ſhevved in mine Epiſtle Dedicatorie in vvhat ſorte, and by vvhat helpes I haue proceeded therein, onely this I forgotte, to ſignifie that Giraldus Cambrenſis, and Flatsbury, I had not till that parte of the Booke vvas vnder the preſſe, and ſo being conſtreyned to make poſte haſte, coulde not exemplifie out of them all that I vviſhed, neither yet diſpoſe it ſo orderly as had bene conuenient, nor penne it vvith ſo apte vvordes as might ſatisfie either my ſelfe, or thoſe to vvhoſe vevve it is novv like to come. And by reaſon of the like haſte made in the Impreſ<g ref="char:EOLhyphen"/>ſion, vvhere I vvas determined to haue tranſpoſed the moſte parte of that vvhiche in the Engliſhe Hiſtorie I had noted, concerning the Conqueſte of Irelande by Henry the ſeconde out of Houeden and others, I had not time thereto, and ſo haue lefte it there remayning, vvhere I firſte noted it, before I determined to make any particular collection of the Iriſhe Hiſtories, bicauſe the ſame commeth there vvell inough in place, as to thoſe that ſhall vouchſafe to turne the Booke it may appeare.</p>
+                  <p>For the computation of the yeares of the vvorlde, I hadde by Maiſter VVoulfes aduiſe follovved Functius, but after his deceaſſe Maiſter VVilliam Hariſon made mee partaker of a Chronologie, vvhiche hee had gathered and compiled vvith moſte exquiſite diligence, follovvyng Gerardus Mercator, and other late Chronologers, and his ovvne obſeruations, according to the vvhiche I haue reformed the ſame. As for the yeares of our Lorde, and the Kings, I haue ſette them dovvne accordyng to ſuche Authours as ſeeme to bee of beſte
+<!--<pb facs="tcp:29044:6"/>-->
+credite in that behalfe, as I doubte not but to the learned and skilfull in Hiſtories, it ſhal appeare<g ref="char:punc">▪</g> Moreouer, this the Reader hath to conſider, that I do beginne the yeare at the natiuitie of our Lorde, vvhiche is the ſureſt order in my fantaſie that can bee follovved.</p>
+                  <p>For the names of perſons, tovvnes and places, as I haue bene diligent to reforme the errours of other (vvhich are to be aſcribed more to the imperfect copies tha<g ref="char:cmbAbbrStroke">̄</g> to the Authours) ſo may it be that I haue ſomevvhere committed the like faultes, either by negligence or vvant of skill to reſtore them to their full integritie as I vviſhed, but vvhat I haue performed aſvvell in that behalfe, as others, the skilful Reader ſhall ea<g ref="char:EOLhyphen"/>ſily perceyue, and vvithal co<g ref="char:cmbAbbrStroke">̄</g>ſider (I truſt) vvhat trauel I haue beſtovved to his behofe in theſe tvvo volumes, crauing onely, that in recompence thereof, he vvill iudge the beſt, and to make a frendly co<g ref="char:cmbAbbrStroke">̄</g>ſtruction of my meanings, vvhere ought may ſeeme to haue eſcaped, either my penne or the Printers preſſe, othervviſe than vve could haue vviſhed for his better ſatisfaction. Many things being taken out as they lie in Au<g ref="char:EOLhyphen"/>thours may be thought to giue offence in time preſent, vvhiche referred to the time paſt vvhen the Authour vvritte, are not onely tollerable but alſo allovvable. There<g ref="char:EOLhyphen"/>fore good Reader I beſeech thee to vvay the cauſes and circumſtances of ſuch faultes and imperfections, and conſider that the like may creepe into a far leſſe volume than this, and ſhevv me ſo much fauour as hath bene ſhevved to others in like cauſes: and ſithe<g ref="char:cmbAbbrStroke">̄</g>ce I haue done my good vvil, accept the ſame, as I vvith a free and tha<g ref="char:cmbAbbrStroke">̄</g>kful minde do offer it thee, ſo ſhall I thinke my labour vvell beſtovved. For the other Hiſtories vvhiche are already collected, if it pleaſe God to giue abilitie, ſhall in time come to light, vvith ſome ſuch briefe deſcriptions of the forreyn regions, vvhere<g ref="char:EOLhyphen"/>of they treate, as may the better ſuffiſe to the Readers contentation, and vnderſtanding of the maters conteyned in the ſame Hiſtories, reduced into abridgements out of their great volumes. And thus I ceaſſe further to trouble thy pacience, vviſh<g ref="char:EOLhyphen"/>ing to thee (gentle Reader) ſo much profite, as by reading may be had, and as great co<g ref="char:cmbAbbrStroke">̄</g>
+                     <g ref="char:EOLhyphen"/>fort as Goddes holy ſpirite may endue thee vvith.</p>
+                  <trailer>FINIS.</trailer>
+               </div>
+               
+            </body>
+  </text>
+</TEI>

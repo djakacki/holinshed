@@ -198,7 +198,7 @@ def main():
     print("Searching for multiple names:")
     print("=" * 80 + "\n")
     
-    multiple_names = ["Elizabeth", "England", "Ireland", "Essex", "Queene"]
+    multiple_names = ["Elizabeth", "Marie", "Ireland", "Essex", "Queene"]
     results_multiple = find_names_in_file(xml_file, multiple_names, context_length)
     
     output_file_multiple = 'name_extraction/multiple_names_contexts.csv'
