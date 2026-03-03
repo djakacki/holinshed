@@ -6,8 +6,10 @@ track line numbers, and export to CSV
 
 import csv
 import re
+import sys
 from lxml import etree
 from typing import List, Tuple
+from pathlib import Path
 
 
 def parse_tei(file_path: str) -> etree._ElementTree:
@@ -137,7 +139,7 @@ def export_to_csv(results: List[dict], output_file: str):
     ]
 
     with open(output_file, "w", newline="", encoding="utf-8") as csvfile:
-        writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+        writer = csv.DictWriter(csvfile, fieldnames=fieldnames, lineterminator='\n')
         writer.writeheader()
 
         for row in results:
@@ -146,75 +148,76 @@ def export_to_csv(results: List[dict], output_file: str):
     print(f"Results exported to: {output_file}")
 
 
+def load_names_from_csv(csv_path: Path):
+    names = []
+    with open(csv_path, newline='', encoding='utf-8') as f:
+        reader = csv.reader(f)
+        for row in reader:
+            if row:
+                names.append(row[0].strip())
+    return names
 
-def main():
-    # Input file
-    xml_file = './holinshed_elizabeth_excerpt_analysis_s.xml'
-    
-    # Names to search for
-    names_to_find = ["Elizabeth"]
-    
-    # Context length (characters on each side)
-    context_length = 15
-    
-    print(f"Searching for names: {', '.join(names_to_find)}")
-    print(f"Context length: {context_length} characters on each side\n")
-    
-    # Find all occurrences
-    results = find_names_in_file(xml_file, names_to_find, context_length)
-    
+
+def main(xml_filename: str, names_csv_filename: str):
+
+    # Resolve paths dynamically
+    script_dir = Path(__file__).resolve().parent
+    xml_dir = script_dir.parent
+    xml_path = xml_dir / xml_filename
+    names_csv_path = script_dir / names_csv_filename
+
+    if not xml_path.exists():
+        print(f"XML file not found: {xml_path}")
+        return
+
+    if not names_csv_path.exists():
+        print(f"Names CSV not found: {names_csv_path}")
+        return
+
+    # Load names
+    names_to_find = load_names_from_csv(names_csv_path)
+
+    if not names_to_find:
+        print("No names found in CSV.")
+        return
+
+    print(f"Searching in: {xml_path.name}")
+    print(f"Loaded {len(names_to_find)} names from {names_csv_path.name}\n")
+
+    # Run extraction
+    results = find_names_in_file(str(xml_path), names_to_find)
+
     print(f"Found {len(results)} total occurrence(s)\n")
-    
-    # Show first 10 results as preview
+
+    # Preview
     print("Preview of first 10 results:")
     print("-" * 80)
     for i, result in enumerate(results[:10], 1):
         print(f"{i}. Paragraph {result['paragraph_number']}: '{result['full_context']}'")
-    
+
     if len(results) > 10:
         print(f"\n... and {len(results) - 10} more results")
-    
-    # Export to CSV
-    output_file = 'name_extraction/name_contexts.csv'
-    export_to_csv(results, output_file)
-    
-    # Also create a summary by name
+
+    # Export results
+    output_file = script_dir / f"{xml_path.stem}_name_contexts.csv"
+    export_to_csv(results, str(output_file))
+
+    # Summary
     print("\n" + "=" * 80)
     print("Summary by name:")
     print("=" * 80)
-    
+
     name_counts = {}
     for result in results:
-        name = result['name']
-        if name not in name_counts:
-            name_counts[name] = 0
-        name_counts[name] += 1
-    
+        name = result["name"]
+        name_counts[name] = name_counts.get(name, 0) + 1
+
     for name, count in sorted(name_counts.items()):
-        print(f"{name}: {count} occurrence(s)")
-    
-    # Optional: Search for multiple names and export to separate CSV
-    print("\n" + "=" * 80)
-    print("Searching for multiple names:")
-    print("=" * 80 + "\n")
-    
-    multiple_names = ["Elizabeth", "England", "Ireland", "Essex", "Queene"]
-    results_multiple = find_names_in_file(xml_file, multiple_names, context_length)
-    
-    output_file_multiple = 'name_extraction/multiple_names_contexts.csv'
-    export_to_csv(results_multiple, output_file_multiple)
-    
-    # Summary for multiple names
-    name_counts_multiple = {}
-    for result in results_multiple:
-        name = result['name']
-        if name not in name_counts_multiple:
-            name_counts_multiple[name] = 0
-        name_counts_multiple[name] += 1
-    
-    for name, count in sorted(name_counts_multiple.items()):
         print(f"{name}: {count} occurrence(s)")
 
 
 if __name__ == "__main__":
-    main()
+    if len(sys.argv) != 3:
+        print("Usage: python extract_names.py <xml_filename> <names_csv_filename>")
+    else:
+        main(sys.argv[1], sys.argv[2])
