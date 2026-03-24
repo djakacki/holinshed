@@ -1,0 +1,83 @@
+============================================================
+  Holinshed Chronicles — NER Summary Report
+============================================================
+
+Total index items processed : 10,215
+Items with ≥1 person name   : 6,966  (68.2%)
+Items with ≥1 place name    : 5,780  (56.6%)
+
+Total person name mentions  : 9,595
+Unique person names         : 3,704
+
+Total place name mentions   : 7,425
+Unique place names          : 2,291
+
+------------------------------------------------------------
+  Top 30 Persons by Frequency
+------------------------------------------------------------
+   442  Henry
+   347  Iohn
+   193  Edward
+   145  William
+   144  Richard
+   101  Robert
+    71  Henrie
+    70  Lewes
+    66  Arthur
+    59  Danes
+    57  Constantinus
+    57  Harold
+    52  Cnute
+    45  Thomas
+    42  Edmond
+    42  Henrye
+    39  Stephen
+    38  William Rufus
+    37  Adelstane
+    37  Brute
+    37  Thomas Becket
+    36  Egelredus
+    35  Alured
+    34  Edgar
+    33  Charles
+    33  Egbert
+    33  Ethelbert
+    33  Maude
+    31  Aulafe
+    29  Godwyn
+
+------------------------------------------------------------
+  Top 30 Places by Frequency
+------------------------------------------------------------
+   457  England
+   334  Britaine
+   203  London
+   173  Fraunce
+   134  Yorke
+   128  Normandie
+   127  Scotland
+   114  Rome
+   105  Ireland
+   100  Northumberland
+    89  Englande
+    86  Kent
+    84  Wales
+    83  Cantorburie
+    77  Mercia
+    67  France
+    64  Winchester
+    62  Canterburie
+    56  Chester
+    54  Oxford
+    53  Lincolne
+    48  Britayne
+    48  Flaunders
+    37  Westminster
+    36  Cantorbury
+    33  Durham
+    33  Gloucester
+    33  Normandy
+    29  Rochester
+    27  Britaines
+
+============================================================

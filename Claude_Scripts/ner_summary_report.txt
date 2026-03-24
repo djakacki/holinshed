@@ -1,0 +1,34 @@
+============================================================
+  Holinshed Chronicles — NER Summary Report
+============================================================
+
+Total index items processed : 10,215
+Items with ≥1 person name   : 4  (0.0%)
+Items with ≥1 place name    : 8  (0.1%)
+
+Total person name mentions  : 4
+Unique person names         : 3
+
+Total place name mentions   : 8
+Unique place names          : 8
+
+------------------------------------------------------------
+  Top 30 Persons by Frequency
+------------------------------------------------------------
+     2  William
+     1  Anselme
+     1  Martin
+
+------------------------------------------------------------
+  Top 30 Places by Frequency
+------------------------------------------------------------
+     1  Batteil
+     1  Englande
+     1  Hales
+     1  Lucresse
+     1  Mercia
+     1  Saint Albons
+     1  Westminster
+     1  Winchester
+
+============================================================
