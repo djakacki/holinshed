@@ -1,0 +1,26 @@
+cluster_id,type,canonical_normalized,canonical_provisional,variants,total_frequency,sources,identification,authority_ref,confidence
+1,person,Athelstan,Adelstane,Adelstan | Adelstane | Athelstan,3,vol4_index:3,"King of England, r.924-939, first king of a unified England.",viaf:268598898,high
+0,person,Anselm of Canterbury,Anselme,Anselm | Anselme,2,vol4_index:2,"Archbishop of Canterbury 1093-1109, scholastic theologian.",viaf:100187638,high
+2,person,William I,William,William | Willyam,2,vol4_index:2,"William the Conqueror, King of England 1066-1087.",viaf:58006279,medium
+3,person,Edward,Edwarde,Edward | Edwarde,2,vol4_index:2,One of several English kings named Edward; context needed for disambiguation.,,low
+8,person,Stephen of Blois,Stephan,Stephan | Stephen,2,vol4_index:2,King of England 1135-1154.,viaf:69169327,high
+9,person,Richard,Richarde,Richard | Richarde,2,vol4_index:2,One of several English kings named Richard.,,low
+4,person,Henry,Henrie,Henrie,1,vol4_index:1,One of several English kings named Henry; context needed for disambiguation.,,low
+5,person,Henry,Henry,Henry,1,vol4_index:1,,,low
+6,person,Matilda,Matilda,Matilda,1,vol4_index:1,"Empress Matilda, claimant to English throne, daughter of Henry I.",viaf:17230060,high
+7,person,Matilda,Maude,Maude,1,vol4_index:1,Likely Empress Matilda (also known as Maude).,viaf:17230060,medium
+23,place,Britain,Britaine,Britaine,2,vol4_index:2,The island of Great Britain.,tgn:7002445,high
+24,place,Thames,Thames,Thames,2,vol4_index:2,"River Thames, flowing through London.",tgn:7011262,high
+10,place,St Albans,Saint Albons,Saint Albons,1,vol4_index:1,"City in Hertfordshire, site of St Albans Abbey.",tgn:7012183,high
+11,place,Leominster,Lucresse,Lucresse,1,vol4_index:1,Possible identification; Early Modern spelling uncertain.,,low
+12,place,Mercia,Mercia,Mercia,1,vol4_index:1,Anglo-Saxon kingdom in the English Midlands.,tgn:7016808,high
+13,place,Westminster,Westminster,Westminster,1,vol4_index:1,Historic area in central London.,tgn:7011935,high
+14,place,England,Englande,Englande,1,vol4_index:1,The Kingdom of England.,tgn:7002444,high
+15,place,Halesowen,Hales,Hales,1,vol4_index:1,Town in the West Midlands.,tgn:7027601,medium
+16,place,Winchester,Winchester,Winchester,1,vol4_index:1,"City in Hampshire, former capital of Wessex.",tgn:7011527,high
+17,place,Battle,Batteil,Batteil,1,vol4_index:1,"Town in East Sussex, site of the Battle of Hastings.",tgn:7027937,high
+18,place,Northumberland,Northumberland,Northumberland,1,vol4_index:1,County in northeast England.,tgn:7008139,high
+19,place,Ireland,Irelande,Irelande,1,vol4_index:1,The island of Ireland.,tgn:1000078,high
+20,place,Scotland,Scotland,Scotland,1,vol4_index:1,The Kingdom of Scotland.,tgn:7002638,high
+21,place,Normandy,Normandie,Normandie,1,vol4_index:1,Historic region in northern France.,tgn:7002886,high
+22,place,London,London,London,1,vol4_index:1,Capital city of England.,tgn:7011781,high
