@@ -1,0 +1,1617 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+                 <div n="A" type="part">
+            <head>A.</head>
+            <list>              
+                <item>Aburgauennie lord arreigned at Westminster</item>
+               <item>Acton knight his rebellion, surprised, he and his complices condemned of treason and heresie,
+                  544, a 60, b 40</item>
+               <item>Adela married to Richard Henrie the second his son, 94, a 30</item>
+                  <item>Adnothus master of the horsse to king Harold slaine in fight 6, a 60</item>
+                <item>Agatha the mother of Edgar Etheling driuen by tempest into Scotland, 6, a 30</item>
+               <item>Agelmarus bishop of Theiford deposed and whie, 9, a 20</item>
+               <item>Agelnothus abbat of Glastenburie, 5, a 10</item>
+               <item>Alane earle of Britaine aduanced by duke William his vncle, 7, a 60</item>
+               <item>Alane the blacke earle, issulesse 7, b 20</item>
+               <item>Alane le Rous, issulesse, 7, b 20</item>
+               <item>Alan the son of Stephan, 7, b 30</item>
+               <item>Albemarle William, whose son should haue béene made king of England, 22, a 10</item>
+               <item>Alberike ruler of Northumberland, 13, a 40</item>
+               <item>Albertus de Lasco, &amp;c: his comming into England, 1353, b 40. Prepareth for his returne
+                  into Poland, 1354, b 60. Described, 1355, a 10. Interteined at Oxford, 50, 60, b 10. His departing
+                  thense, 20, ¶Sée Polander. </item>
+               <item>Aldgitha quéene, sister to Edwin &amp; Mercia sent to Chester, 1. a 30</item>
+               <item>Aldred archbishop of Yorke, 1, a 40. Crowneth duke William, 1, b 20. And Mawd quéene, 6, a 60.
+                  Dieth for griefe, b 60.</item>
+               <item>Alexander king of Scots deceasseth, the manner thereof, 283, a 10</item>
+               <item>Alexander bishop of Lincolne fled into Scotland, 8, a 30</item>
+               <item>Alice the daughter of erle Morieine sold for monie, 84, a 60,</item>
+                <item>Almiramumoli king of the Saracens feineth himselfe dead, 124, a 20</item>
+               <item>Amphibologie of this woord daughter, 156, b 10</item>
+               <item>Anne Askew</item>
+               <item>Anne Bullen</item>
+               <item>Anselme archbishop of Canturburie</item>
+              <item>Archbishop Geffreie bastard of Yorke</item>
+               <item>Arlet duke William Conquerors mother the daughter of a burgesse, 20, a 10</item>
+                <item>Armetrid the wife of Hugh Lou earle of Chester, 20, a 40</item>
+              <item>Arnalt knight his valiantnesse, 997, a 10, 40</item>
+               <item>Arthur made awaie by meanes of his vncle king Iohn, and whie, 7, b 30</item>
+               <item>Arthur the eldest and first son of Henrie the seuenth 0</item>
+               <item>Arthur Plantagenet </item>
+               <item>Arthur of Britaine. ¶ Sée Duke. </item>
+             <item>Audleie lord chéefe capteine of the Cornish rebels</item>
+               <item>Audleie knight lord chancellor, 929, b 20. Kéeper of the great seale, 928, b 20</item>
+            </list>
+         </div>
+         <div n="B" type="part">
+            <head>B.</head>
+            <list>               
+               <item>BAbington and his confederats. ¶Sée Traitors. </item>
+               <item>Bacon knight lord kéeper deceaseth, 1271, b 60. His epitaph in Paules, 1272, a 10. Sée more of
+                  him, 1286, b 40. ¶ Sée Chancellors. </item>
+               <item>Badbie his notable constancie, 536, a 60</item>
+              <item>Balioll king of Scots obteineth the kingdome of Scotland</item>
+               <item>Banister the duke of Buckingham seruant receiueth the duke in perill of life into his house,</item>
+              <item>Barnard of Newmarch a Norman, 17, a 60</item>
+               <item>Barnes doctor and two merchants of the Stilliard did penance at Paules crosse for heresie, 892, b
+                  60. For a sermon inuectiue against bishop Gardiner, asketh him forgiuenesse, 950, b 10. He and
+                  others executed, 952, b 30</item>
+               <item>Barton the Scotish pirat, 426, b 20. Incountreth the lord Howard, he is slaine, 811, a 20,
+                  &amp;c.</item>
+               <item>Bastard of Burgogne ambassadour into England, iusts betwixt him and the lord Sales, 669, a 10, 20</item>
+                <item>Baulbason a French knight valiant fighteth with Henrie the fift hand to hand, 577, a 10, 60</item>
+               <item>Becket Thomas archdecon of Canturburie, </item>
+                <item>Bedford castell besieged, 206, b 20. Deliuered to the barons, 185, a 60</item>
+               <item>Bele doctor an vndiscréet and seditious preacher, 841, a 10, 20</item>
+               <item>Bell a seditious préest </item>
+                <item>Berengaria daugther to the king of Nauarre, king Richard the firsts wife, 126, b 40 127, a
+                  40</item>
+               <item>Betrice Henrie the thirds daughter borne, 230, b 10</item>
+               <item>Beuchamps iournie to the holie land against the Saracens</item>
+               <item>Beuclerke Henrie why so called,</item>
+               <item>Beumont vicount his daughter married vnto the Scotish king, 110</item>
+               <item>Beaumont lord of Heinault: </item>
+               <item>Bishop of Beauuois taken prisoner, 150, b 50. An aduersarie to Richard the first, two of his
+                  chapleins come to Richard the first, to intreat that they might wait vpon their maister, but are
+                  denied, 151, a 10</item>
+               <item>Bishop of Carleill bold and faithfull, commended, 513, b 40. </item>
+               <item>Bishop earle of Kent, 13, a 60. Capteine of an armie, 7, b 40. Wiped of fiue thousand pounds by
+                  William Rufus: note, 20, b 10. Depriued of his staffe by the king, 21, a 40. ¶ Sée Herbert. One
+                  reuengeth anothers death, 12, b 20</item>
+               <item>Blackwell knight smothered to death in a throng, 319, a 10</item>
+               <item>Blacke Will a notorious murthering ruffian, 1063, a 50, b 40. Receiueth ten pounds in reward for
+                  murthering of Arden, 1065, a 10. Burnt at Flushing, 1066, a 20</item>
+               <item>Bleothgent king of Wales partaker with a rebell, 5, a 20</item>
+               <item>Blewbeard, capteine of rebels, 632, a 20</item>
+               <item>Bluet Robert bishop of Lincolne: note, 20, b 10</item>
+               <item>Blunt knight, his notable seruice against the French, 540, b 50</item>
+               <item>Bohune Iohn, his wife and issue, 20, a 50</item>
+               <item>Boier maior of Bodwin in Cornwall hanged: note, 1006, b 50, &amp;c: 1007, a 10</item>
+               <item>Boner bishop of London emploied about the controuersie of Henrie the eights vnlawfull marriage</item>
+                <item>Braie knight of the garter commended. 791, a 10</item>
+               <item>Brambre knight executed with an ax of his owne deuise, 464, a 10</item>
+               <item>Brandon knight standardbearer to the earle of Richmond slaine, 759, a 50. Knight his pompe at a
+                  iusts, 807, b 60. He is created vicount Lisle, 816, a 30</item>
+               <item>Bromleie esquire his manhood, 551, b 10</item>
+               <item>Bromleie knight his decease, 565, b 40. Made capteine of Dampfront, 563, b 30. The old armes of
+                  their house, 564, a 30. Knight lord chancellor, 1272, a 20, 1286, b 60</item>
+               <item>Brotherton Thomas K Edward the first his sonne, 309, a 60</item>
+               <item>Browne his seditious bookes procure losse of life, 1353, b 40</item>
+                <item>Brunkard Henrie. </item>
+               <item>Bruce Robert crowned king of Scotland, in armes against prince Edward and the English power</item>
+               <item>Bruistar and Marie Breame smoothered to death, 1353, a 60, b 10</item>
+               <item>Bucchanan reprouing and reproued, 112, a 30</item>
+               <item>Buckhurst lord made of the priuie councell, 1434, b 60. ¶Sée Sackuill. </item>
+               <item>Bullocke a mercilesse murtherer hanged within Bishopsgate: note, 1228, b 20, &amp;c. ¶Sée
+                  Murther. </item>
+               <item>Bulmer knight rebuked for refusing K. Henrie the eights seruice, and taking the seruice of the
+                  duke of Buckingham, 852, b 60, 853, a 10</item>
+               <item>Burchet gentleman of the middle temple hanged: note, 1259 a 30</item>
+               <item>Burdet knight his valiantnesse against the enimie; note, 590, b 40</item>
+            </list>
+         </div>
+         <div n="C" type="part">
+            <head>C.</head>
+            <list>
+               
+               <item>CAdwallon prince of Wales slaine, 103, b 20</item>
+               <item>Caldwell doctor in physicke founder of surgerie lecture in London: </item>
+               <item>Campeius refuseth to giue iudgement in the matter of Henrie the eight his vnlawfull mariage with
+                  quéen Katharine, 908, b 50, 60. ¶Sée Cardinall. </item>
+               <item>Campbell a Scotish pirat or rouer taken on the sea, 872, b 20</item>
+               <item>Canutus ment to haue attempted a subduing of London, and what hindered </item>
+               <item>Cardinall Campeius sent into England about Henrie the eight his vnlawfull mariage, </item>
+               <item>Careie George knight desirous of combat with the lord Fleming, his letter of challenge, and replie
+                  to a former answer, 1218, a 10, 30, b 30</item>
+               <item>Carew baron slaine with a bullet shot, 817, b 10. Knight taken of the French, 960, b 60.
+                  Beheaded: note, 946, a 60. Used as an instrument to appease rebellion in Deuon, 1015, b 30. Charged
+                  with the rebellion in Deuonshire, 1022 b 30. ¶Sée Dinham. </item>
+               <item>Carter an Englishman seruing among the French, but to their disaduantage, an hardie soldiour, and
+                  good seruitor, 997, a 20, b 10</item>
+                <item>Catesbie and his conditions described, 722, a 30</item>
+               <item>Cauendish lord chéefe iustice of England beheaded by the rebels, 434, b 10, 20</item>
+               <item>Cementarius and his mischéefous preaching, 173, b 60</item>
+               <item>Charles de Ualois chaseth the Englishmen, his returne into France, 294, a 40, b 60. Sent to
+                  Bruges, and disappointed of his preie, 304, b 40, 50, ¶Sée French king. </item>
+               <item>Charles Iames yoong prince of Scots christened, 1209, b 50</item>
+               <item>Chaucer the English poet in what kings time he liued, 541 b 50. ¶Sée Dukes. </item>
+               <item>Chaumount Hugh taken prisoner. 152, a 10</item>
+               <item>Chéeke knight his deserued commendation: note 1055, a 50, 60, b 10, &amp;c. His treatise
+                  shewing how gréeuous sedition is to a commonwealth: note, 1042, 1043, &amp;c, to 1055.</item>
+               <item>Cheinie knight, lord warden of the cinque ports, authorised by Henrie the eight to the christening
+                  of the Dolphins daughter, 973, b 50, 60. An enimie to Wiat: note, 1094, a 40. Henrie the eights
+                  letter to him for a prescript forme of demeanor in the English towards the French, 974, a 40,
+                  &amp;c. Lord warden of the cinque ports his death, his old seruices at home and abroad, much
+                  spoken to his praise and honor: note, 1171, a 30, 40, 50, 60, b 10, 20, 30.</item>
+               <item>Chisie William, a notable théefe hanged, 124, a 20</item>
+                <item>Christianus a bishop of the Danes, &amp; capteine in warre, 7, b 40</item>
+               <item>Christine a quéenes sister, a nun ¶Sée Margaret. </item>
+               <item>Cicill knight commissioner into Scotland, about an accord of peace, 1192, a 30. Created lord
+                  treasuror, 1238, a 50. His descent, 1255, b 30</item>
+               <item>Clinton lord admerall, sent against the rebels in the north, 1212, b 40. Sent out against Brest,
+                  1149, b 60. His seruice in Scotland, 986, 987, 988, 989, b 50. Deceaseth, 1378, b 50, 1379, a
+                  10</item>
+               <item>Clinton Gefferie, a noble man accused of treason, 43, b 50</item>
+               <item>Cobham lord with his new supplie of soldiors, valiant, 998, a 10, 40. Condemned: note, 493</item>
+               <item>Collingham a valorous gentleman of Sussex, 192, a 50</item>
+               <item>Conan the sonne of Alane earle of Britaine, married to a kings daughter, 7, b 30</item>
+                <item>Coniers knight, a capteine of Durham tower, 101, a 20. Of rare valiantnesse, 672, a 50</item>
+               <item>Conrade duke of Austrich. ¶Sée duke. </item>
+                <item>Constance the mother of duke Arthur. ¶Sée Duke. </item>
+               <item>Constance wife to Eustace sent home, 61, a 30</item>
+               <item>Constantia the daughter of Margaret countesse of Britaine, how married, 7, b 30</item>
+               <item>Cooke Anthonie. ¶Sée Iusts triumphant. </item>
+               <item>Coplan refuseth to deliuer his prisoner the king of Scots to anie except to the king of England, 376,
+                  a 60</item>
+               <item>Copsti slaine by Osulfe, 13, a 30</item>
+               <item>Cordes lord a Frenchman maketh aduantage of occasion, 770, a 60. His malicious and foolish words,
+                  771, a 20</item>
+                <item>Countesse of Prouance commeth ouer into England,</item>
+               <item>Countesse of Richmond and Derbie, &amp;c, mother to Henrie the seauenth, 678, a 60</item>
+               <item>Countesse of Salisburie beheaded, being the last of the right line and nauie of Plantagenet, 953,
+                  a 60</item>
+               <item>Countesse of Warwike taketh sanctuarie, 685, b 50</item>
+               <item>Courtneie lord, prisoner in the Towre, he hath priuie enimies, 1101, b 10, &amp;c, 1102, a 10,
+                  &amp;c.</item>
+               <item>Courtneie earle of Deuonshire goeth ouer into Italie, deceaseth, descended of the bloud roiall,
+                  1129, a 20, 30</item>
+               <item>Cox doctor the duke of Summersets ghostlie father at his death, 1069, a 40</item>
+               <item>Cranmer arreigned of treason, </item>
+               <item>Creichton a Scot apprehended with diuerse plots for inuasion of this realme, 1387, b 60</item>
+                <item>Crispine William taken prisoner, 33, a 40. ¶ Seé earle. </item>
+               <item>Crofts knight, generall of Hadington, 996, b 60 </item>
+               <item>Crotoie besieged by the duke of Burgognie, &amp; rescued, 616, b 10</item>
+               <item>Crome at Pauls crosse recanteth, 973, b 30, 40.</item>
+               <item>Cromwell sometimes cardinall Wolfes seruant, aduanced to Henrie the eights seruice, .</item>
+                <item>Crosbie knight his gift to the citie of London, 702, a 50</item>
+                <item>Culpepper vndermarshall of Calis, 819, b 30</item>
+                <item>Cumin Robert captein against the Northumbers in a rebellion, 6, b 10</item>
+               <item>Curcie Iohn Winneth Dun in Ulster, 100, a 30. His valiantnesse, 100, b 40</item>
+               <item>Curcie Robert slaine, 67, a 10</item>
+                <item>Curthose Robert, Henrie the first his brother, dieth for gréefe, 44, b 50</item>
+            </list>
+         </div>
+         <div n="D" type="part">
+            <head>D.</head>
+            <list>
+               
+               <item>DArcie lord knight of the garter, generall of a power sent against the Moores, 808, b 60. His
+                  companie readie at Plimmouth, honourablie receiued of the king of Aragons councell, discontented at
+                  a bishops declaration, 809, b 10, 40, 60. His returne out of Spaine. 810, a 40</item>
+               <item>Dacres lord arreigned, but found cléere to his great honor, 937, b 60. Arreigned for murther,
+                  executed at Tiburne: note, 954, a 40, 60. Rebelleth, 1213, a 20. Flieth into Scotland, 1213, a
+                  50</item>
+               <item>Dale pewterer his fault and releasment after long imprisonment: note, 968, b 30</item>
+                <item>Damport one of the gard hanged for robbing, 953, a 60, b 10</item>
+               <item>Darlington knight, lord gardian of London, remooued, 478, a 60, b 10</item>
+               <item>Daubeneie lord with others sent against the French king, his feats of armes, 770, b 10, &amp;c.
+                  Henrie the seauenths chéefe chamberleine, 779, a 60. Deceaseth, 795, b 10</item>
+               <item>Dauid of Wales reuolteth, and becommeth a rebell, 280, b 60. Condemned of treason, &amp;
+                  executed, 282, a 60, b 10</item>
+                <item>Denie Edward. ¶Sée Iusts triumphant. </item>
+               <item>Desmond Iohn his miserable end: note, 1366, a 10, &amp;c. ¶Sée more in earle of Desmond. </item>
+                <item>Digbie Edward. ¶ Sée Iusts triumphant. </item>
+               <item>Dimmocke knight his challeng at Richard the thirds coronation, 734, a 40. The kings champion, the
+                  manner of his tenure at a coronation, 802, a 20. His championlike office, 1180, a 40</item>
+               <item>Dinham esquier high treasuror of England, 650, b 30. Ualiant, 651, a 20. He and baron Carew with
+                  their powers come to Excester, 676, a 40.</item>
+               <item>Diram and Culpepper quéene Katharins paramors, arreigned at Guildhall, executed, 954. b 30, 60,
+                  955, a 10</item>
+               <item>Drake sir Francis. ¶ Sée Uoiage. </item>
+               <item>Drake sir Bernard knight, deceaseth, 1547, b 60, 1548, a 40</item>
+               <item>Drurie capteine his good seruice at the rebellion in Norffolke, 1038, a 40. Knight, his militarie
+                  seruice, his aduancement, 1216, b 10, 40</item>
+               <item>Duchesse Katharine. of Suffolke hated of Stephan Gardiner: note, 1142, a 60, b 10, &amp;c.
+                  Hir trouble, persecution, and voluntarie banishment, 1143, 1144, 1145. Of Glocester deceaseth, 514, b
+                  10. Of Yorke mother to Edward the fourth, deceaseth, 779, b 10. Of Salisburie beheaded, 703 b 10. Of
+                  Bedford deceaseth, 607, b 50 Of Burgogne hir appeale, 578, a 30. ¶See Margaret. Of Saxonie deliuered
+                  of a child, 106, a 10, 107, b 60. Of Sauoie, sends for aid to king Henrie the eight against the duke
+                  of Gelders, 810, a 50 Bestoweth new cotes on the English souldiors, 810, b 60. Of Angolesme meet about
+                  a tretise of peace, 909, b 60</item>
+                <item>Dudleie knight lord admerall setteth foorth from London towards Scotland, 961, b 40. Went into
+                  France to receiue the French kings oth, his interteinment, 975, a 10, &amp;c. Lord Howard
+                  impeacheth the French power, 1140, b 60. Lord Henrie slaine at the besieging of saint Quinuns, 1134,
+                  b 10, 20. Bishop of Durham of honorable descent deceaseth, 761, b 40. Robert, the creation of him
+                  baron of Denbigh, and earle of Leicester, 1207, a 60, b 10. ¶Sée Earle. </item>
+               <item>Duke Alan of Britain, 52, b 10, 51, b 60. Of Albanie leuieth an armie to inuade England, 875, b 20.
+                  Albert of Holland commeth into England, 556, b 60. An earnest mediator for peace, entreth in league
+                  with Henrie the fift, 557, a 10, b 20 </item>
+               <item>Duke of Alanson commeth into England, 1322, </item>
+               <item>Duke Alphonse of Calabrie made knight of the garter, 775, b 20</item>
+               <item>Duke Arthur of Britaine made knight, 160, a 10. </item>
+               <item>Duke of Aumarle constable of England, 495, b 50. Accused 512, a 10. His answere vnto <pb n="1491"/>
+                  Bagots bill, he is appealed of treason, chalengeth triall with the lord Fitzwater, 512, a 10,
+                  &amp;c.</item>
+               <item>Duke of Austrich whie he bore king Richard no goodwill, 136, a 10. Threatneth the English hostages
+                  with losse of life, 147, a 40. He catcheth a fall beside his horsse, &amp; dieth of the hurt, a
+                  60</item>
+               <item>Duke Beauford of Summerset son vnto him that was slaine, 645, a 10. Conan of Britaine deceasseth,
+                  75, a 10. Geffreie of Britaine his homage, 75, b 60. Guildebald of Urbin in Italie made knight of the
+                  garter, 795, b 10. Iohn the second &amp; Philip the second aduancers of the state, 1343, a 30.
+                  Philip of Burgognie surnamed the Hardie, 1343. Siward. ¶ Sée Siward. William of Aquitaine his feined
+                  fréendship, 67, b 20. William of Normandie his politike conquest of England, 1, a 10. ¶Sée William. </item>
+               <item>Duke of Bauier commeth to K. Henrie the fift with a number of horsemen, 577, a 50. He &amp; his
+                  troope departeth with king Henrie the fifts fauor, 578, b 10</item>
+               <item>Duke of Bedford against the lord Louell in armes, 764, b 10. Regent of England, 558, b 10.
+                  Calleth a parlement, 581, a 60. He rescueth Cosnie 582, b 60. Giueth the French a great ouerthrow
+                  by sea, 557, a 40. Returneth into France, 596, a 60. His endeuors in France where he was regent, 585,
+                  a 40, b 20, &amp;c. His decease: note, 612, a 50</item>
+               <item>Duke of Britaine pretendeth a right to the earledome of Westmerland, 513, b 60. Sendeth
+                  ambassadors to Henrie the fift, 582, b 60. His loue to the erle of Richmond and care of his safetie,
+                  748, b 20. In armes against the French K. 767, a 10, &amp;c: 768, a 10, &amp;c. The battell is
+                  tried, he dieth, a 60. Restored to his dukedome 422, b 20. A fréend to the Englishmen, 444, a 60. His
+                  dissimulation, he &amp; the French K. accorded, 427, b 50, 60. Commeth ouer into Britaine, 408, a
+                  40. Deceaseth, 367, b 40</item>
+               <item>Duke of Buckingham highlie commended, 737, b 40.  </item>
+               <item>Duke of Burbons practises to make the Englishmen reuolt from their owne king, 517, b 50. Incampeth
+                  néere Rone, slaine at the assalt, 895, b 30, 60. Dieth at London, 610, a 40</item>
+               <item>Duke of Burgognie chiefe dooer in France, 560, b 40. </item>
+               <item>Dukes of Burgognie issued out of the house of France, 1342, b 60, 1343, a 10, &amp;c.</item>
+               <item>Duke of Clarence lord Lionell, 395, b 50. Sent to aid the duke of Orleance, 539, b 60. Marcheth
+                  towards Guisnes, 540, a 20. Made a rode into Aniou, 579, b 60. He is betraied by Ferguse a Lombard,
+                  580, a 10. He and diuerse nobles slaine, a 20, 30. Before Paris with his armie, 570, b 20. Séeketh to
+                  make peace betwéene Edward the fourth and the earle of Warwike, 682, a 50. Weighing the inconuenience
+                  of discord, wareth wise, &amp; slow to aid the earle of Warwike, his dissimulation, 681, a 60, b
+                  1050, 60. He and the earle of Warwike soiourned at Excester to passe ouer the seas, they arriue on the
+                  English coasts, 676, b 10, 60. A conspirator against his brother Edward the fourth, he taketh the
+                  seas, 674, a 40. His promise to a damsell persuading him to peace, 675, a 10, 20, Drowned in a but of
+                  Malmescie, 703, a 40</item>
+               <item>Duke of Excester his pithie saieng, 546, a 60. Uncle to Henrie the fift, 560, a 30, 40. Capteine
+                  of Harflue, 556, a 60. His ouerthrow by the French, b 10 With a power at Newarke, 680, b 60. Left for
+                  dead but recouered: note, 685, a 60. Deceaseth, 596, b 60, 598, b 50. Found dead in the sea, 694, b
+                  10</item>
+               <item>Duke of Gelderlands letters to Richard second, 475, b 50. </item>
+               <item>Duke of Glocesters protestation vpon his oth, 458, a 10. Arested, 489, a 30. </item>
+               <item>Duke of Guise with a great armie commeth towards Calis, entreth the English frontiers, his
+                  policie, 1135, a 20, 40, b 10. His proclamation to bring in monie, plate, &amp;c, 1136, a 10.
+                  Marcheth to the towne and fort of Guisnes, 1137, a 40. And monsieur Dandelot with their powers, in a
+                  rage with his soldiors, a trumpetter from him to the lord Greie, they haue communication one whole
+                  houre, 1139, a 10, 30, b 30 Appointed to be a principall leader and executor of forren inuasion, 1371,
+                  b 30, 40, &amp;c, b 60</item>
+               <item>Duke of Hereford appealeth the duke of Northfolke of treason, 493, b 20. Beloued of the people,
+                  honourablie interteined with the French king, 493, b 30</item>
+               <item>Duke of Irelands passage stopped by the lords, his souldiors reuolt from him, he flieth from his
+                  armie, getteth him into Holland, letters found in his trunks, 421, a 10, 50, 60. He and his associats
+                  attainted of treason by parlement, 463, b 30</item>
+               <item>Duke of Normandie commeth downe into Britaine, 364, b 10</item>
+               <item>Duke of Northfolke in armes against Wiat, ariueth at Stroud 1094, b 50. He with the capteine of
+                  the gard put to their shifts, 1095, a 10. He and Suffolke elected into the order of S. Michaell,
+                  929, a 10. Ambassador into France, 950, a 50. Henrie the eights lieutenant, 942, b 60. Cõmeth with a
+                  power against the rebels in Suffolke, 891, b 40. He &amp; the earle of Surrie on Richard the
+                  thirds side, 755, b 20. His constancie &amp; allegiance to Richard third, he is slaine, 759, b 10.
+                  Accused of treson, 493 b 20. Obiections against him, 494, a 30. Committed to the Towre, atteinted, and
+                  the atteindor reuersed, 976, b 10, 50. Deceaseth, 514, a 60, b 10, 891, a 60, 1121, b 30. Inuested
+                  into the order of S. Michaell, 1209, a 20 Sent to the Towre, 1211, b 60. Remoued from the Towre to
+                  the Charterhouse, 1222, a 20. Cõmitted to the Towre, 1226, b 30. Arreigned, condemned, and iudged,
+                  1227, b 60. Beheaded, forren nations write therof, his attire, behauior &amp; spéech at his
+                  execution: note, 1229, a 50, 60, b 10, &amp;c: 1230</item>
+               <item>Duke of Northumberlands enterprise against the ladie Marie incouraged, 1085, b 50, 60. His words
+                  to the lords of the councell about quéene Iane, who adhered vnto him, he setteth forward with all
+                  speed, 1086, a 10, &amp;c: b 10, 20. Writeth for more succours, 1087, a 30. His sons released out
+                  of the Towre, 1127, a 10. Arrested by the earle of Arundell and committed to the Towre with his
+                  adherents, 1088, a 60, b 30. Arreigned, his request to vnderstand the opinion of the court in two
+                  points, 1089, b 40, 50, His foure requests after his iudgment to die, he with others are executed at
+                  Towre hill, 1090, a 10, 50</item>
+               <item>Duke of Orleance partaker with the duke of Britaine against the French king, 768, b 10. How long
+                  prisoner in England, his ransome and release, 618, b 20, 50. Chalenge, 524, b 60 He besieged Uergi in
+                  Guien, 525, a 20. Besiegeth townes in Gascoigne, 533, a 50. Commeth to the English armie, 540, b 30.
+                  Murthered, 537, a 60</item>
+               <item>Duke Richard his singular dissimulation, 731, b 10. He speaketh otherwise than he meaneth, 731,
+                  b 20. His electiõ hard to be preferred, 730, b 20. Preferred at last by voices of confederacie,
+                  730, b 60. Adiured by bishop Morton, their conference, he openeth himselfe and his secrets to the
+                  bishop, complaineth of lacke of preferment in K. Edwards daies, 738, all. His title to the crowne,
+                  with the office and dignitie of a king, he is commended to the people as worthie and sufficient, 730,
+                  a 20, 30. ¶Sée Duke of Glocester and Richard. </item>
+               <item>Duke of Richmond a martialist or warrior Henrie the eights base sonne, 929, a 10. Henrie Fitzroie
+                  Henrie the eights base sonne deceasseth, 941, a 10</item>
+               <item>Duke of Saxonie in disfauour and exile, 105, b 60. Commeth into England, his goodlie stature, 212,
+                  b 40. Pardoned and reuoked out of exile, 108, a 10</item>
+               <item>Duke of Suffolke created, 627, b 30. Winneth the goodwill of the quéen Dowager of France 836, b 10.
+                  They married togither, b 30. Entreth France with an armie, 879, a 50. Breaketh vp his armie
+                  &amp; commeth to Calis, 881, a 40. Chiualrie &amp; valiant seruice in France, he knighteth
+                  diuerse gentlemen, 879, b 60, 880, all. Hope hindered by cardinall Woolfeie, 839, a 60. And others
+                  sent into France to fetch the French quéene into England, 836. a 50. Incountereth with a strong and
+                  tall Almaine, 833, b 60. He foileth the Almaine, 834, a 10. Deceasseth, his iust commendation, 969, b
+                  30. The commons exclaime against him, 631, a 10, 20, 40. Committed to the Towre, his wretched dèth,
+                  632, a 10, 50. He with others brought to the Towre, 1099, a b 10. Committed to the Towre and released,
+                  1088, b 40. Goeth downe into Leicestershire, is a fauourer and furtherer of Wiats practises, he is
+                  kept out of Couentrie, apprehended, 1095, a 40, 60, b 10. Arreigned, condemned, beheaded, 1100, b 20,
+                  40, 50. What words he spake to the people at his death, b 60.</item>
+               <item>Duke of Summerset made regent of Normandie, and the duke of Yorke discharged, 625, b 30. Made
+                  capteine of Calis, 650, b 60. His valiantnesse, 619, a 30. Reuolteth from Edward the fourth, taken
+                  &amp; beheaded, 666, a 40, &amp;c: b 20, &amp;c. Made lord protector, 979, a 40, 50. His
+                  returne from Scotland, 992, a 60. Not desirous of slaughter, 988, b 20. With his power against
+                  Scotland, 980, a 30, &amp;c: b 30. Sendeth an herald to summon a castell, 981, a 10, 20. Answer to
+                  a Scotish herald at armes, 983, b 60. His diligence to further the fortification to Rockesburgh,
+                  991, b 10. His statelie stile with his epistle exhortatiue sent to the Scotish nobles, &amp;c:
+                  998, b 10, &amp;c. He &amp; the earle of Warwike outwardlie fréends, 1062, a 50. And others
+                  submit themselues to Edward the fourth, 665, b 60. Againe apprehended and committed to the Towre,
+                  1066, b 60 Charged sir Peter Carew with the rebellion, 1022, b 30. He and the earle of Deuonshire
+                  comfort quéene Margaret, 685, b 60. Politiké &amp; puissant, 687, b 60. More hardie than wise,
+                  687, b 60, 688, a 10, &amp;c. Striketh out the lord Wenlocks brains, 688, a 50. His
+                  infortunatnesse, 615, b 60. Arested, 642, a 20. Set at libertie, made deputie of Calis, 40, 50.
+                  Accuseth the earle of Yorke of high treason, 639, a 50. Burthened with all things that happened
+                  amisse, 643, a 40. He is slain, b 10. His displacing out of his protectorships consulted on, remoueth
+                  in hast with K. Edward sixt to Windsore, his letter to the lord priuie seale 1057, a 20, 50, 60. His
+                  letters to the lords, 1058, a 30. A proclamation with articles against him, b 20, 30, &amp;c.
+                  Prisoner, conmitted to the Towre, articles obiected against him, 1059, b 10, 30, 40, 1060, a 10,
+                  &amp;c. Released &amp; restored, 1060, b 10, 20. Deliuered out of the Towre, 1062, a 50.
+                  Arreigned both of fellonie &amp; treason, condemend of fellonie, people murmur at his
+                  condemnation, deliuerd to be executed, his behauior at his death, 1067, a 10, 30, 40, 50, b 40, 60.
+                  His words at his death, a sudden noise &amp; feare among the people assembled, 1068, a 10,
+                  &amp;c: 50, b 19, 1069, a 60. Described, b 10. Beheaded, 688, b 60</item>
+               <item>Duke of Surrie marshall of England, 493, b 50</item>
+               <item>Duke of Yorke lieutenant generall of England, 497, a 10. Misliketh the court &amp; goeth
+                  home, 496, a 60. </item>
+               <item>Duncane a Scot wasteth Kendall, 91, b 10</item>
+             </list>
+         </div>
+         <div n="E" type="part">
+            <head>E.</head>
+            <list>             
+               <item>Edgar Etheling where borne, 6, a 30.  </item>
+               <item>Edgar the K. of Scotlands sister wise to Henrie the first, 29, a 10</item>
+               <item>Edmund son to Henrie the third, 236, a 60. Shewed in parlement as K. of Naples, 255, b 10 Inuested
+                  king of Sicill &amp; Naples, 252, b 60. Created duke of Lancaster, 249, a 10</item>
+               <item>Edmund of Langlie borne, afterwards duke of Yorke, 363, a 30</item>
+               <item>Edmund the great, sonne to Harold, his exploits, 6, a 60</item>
+               <item>Edrike Syluaticus rebelleth in the absence of duke William, 5, a 10</item>
+               <item>Edward the first proclaimed king of England, his coronation and beginning of regiment, 277, </item>
+               <item>Edward the second borne, 282, b 20. </item>
+               <item>Edward the third borne, </item>
+               <item>Edward the fourth borne, 623, a 30.</item>
+               <item>Edward the fift his comming to London, .</item>
+               <item>Edward the sixt borne, 944, a 10 </item>
+               <item>Edward created prince, 365, a 40. Made knight, 660, b 60. Setteth forward into the holie land,
+                  274, b 60. Traitorouslie wounded, 275, </item>
+               <item>Edward called the Blacke prince borne, 348, b 20</item>
+               <item>Edward the third, son of Henrie the seuenth christened, 788 a 10</item>
+               <item>Egelsin abbat of S. Augustine his martiall mind, vnpatient of forced seruitude, 1, b 50, 2, a
+                  10</item>
+               <item>Egelwine abbat of Euesham </item>
+               <item>Egelwinus bishop of Durham flieth from Durham: note, 7 b 60. In armes against duke William, taken
+                  prisoner, and famished to death, 10 a 40, 50</item>
+               <item>Egmond countie lieutenant generall for king Philip in the low countries, his valiant onset vpon
+                  the French, 1150 a 60, b 20</item>
+               <item>Egremond knight a capteine rebell, 769, b 50. Flieth into Flanders, 770, a 10</item>
+               <item>Egremond lord Persie, 647, b 30 committed to Newgate, his escape, 645, b 60</item>
+               <item>Elenor countesse of Britaine deceaseth, 228, b 60</item>
+               <item>Elenor prince Edwards wife commeth to London, 252, a 60</item>
+               <item>Elenor K. Henrie the seconds daughter married to the king of Castile, 98, b 30</item>
+               <item>Elenor Cobham accused of treson: note, 622, b 60, 623. a 10. ¶ Sée Marriage, and Quéene. </item>
+               <item>Elisabeth second daughter to king Henrie the eight prisoner in the Towre, she hath heauie enimies
+                  of the clergie, 1101, b 10, &amp;c: 1102, a 10, 20, &amp;c. Hir bloud thirsted after by
+                  Gardiner, hir life preserued by master Briges lieutenant of the Towre, 1130, b 20, 30. The whole
+                  storie of hir troubles in the daies of quéene Marie, and how she was preserued, notable to read,
+                  1151, b 50, 60, 1152, 1153, 1154, 1155. Deliuered out of the Towre, hir words to Beningfield knight
+                  hir kéeper in the time of durance, 1117, b 40. Proclamed quéene the same daie that Marie died, 1160,
+                  a 40. And the ladie Anne of Cléeue ride togither in a rich chariot, 1091 a 30. ¶Sée Quéene. </item>
+               <item>Elisabeth wife to Henrie the seuenth hir birth, 668, b 50</item>
+               <item>Elisabeth Barton hir practises discouered with hir adherents, she is attainted, becommeth a nun,
+                  936, a 20, b 10, 60. Bishops giue credit to hir hipocriticall dooings, she is executed, hir
+                  confession at hir death, 937, a 10, 20, 30</item>
+               <item>Emperor Adulfe breaketh promise with the king of England and the earle of Flanders, 304, b
+                  60</item>
+               <item>Emperor of Constantinople commeth into England, 239, b 60, 519, a 20</item>
+               <item>Emperor Ferdinand deceaseth, foretelleth the vttermost daie of his death, his goodlie issue male
+                  and female, 1208, a 10, 20, 30</item>
+               <item>Emperor Charles, preparation for receiuing of him into England, 853, a 50. </item>
+               <item>Emperor Maximilian &amp; Henrie the eight méet roiallie, 820, a 10. Weareth a crosse of S.
+                  George as souldier to the king of England Henrie the eight, 821, a 50. Inuested into the order of the
+                  garter, 1210, a 60. Deceasseth, a description of his qualities, 851, a 10</item>
+               <item>Emperor Sigismund cometh into England, the strange maner of receiuing him at Douer, 556, b 30,
+                  40</item>
+               <item>Emperor concludeth a peace with the French king 965, a 40. Answereth the French kings letters,
+                  904 a 30. Gift to Philip prince of Spaine, 1120, a 20. Woone from the king of Englands fréendship,
+                  361, b 50. He offereth to be a meane to conclude a peace betwéen the two kings of England and France,
+                  361, b 60. Hath the electing and assigning of the pope, 24, b 20. Commandeth the English herald to
+                  leaue his oration behind him in writing, his words to the French herald, he giueth him his answer in
+                  writing, 902, a 10, b 10, 50. Defied by the two kings, the one of England the other of France, 905, b
+                  40. ¶ Sée Spanish king. </item>
+                <item>Empson and Dudlie with their promooters, 791, b 30. Rauening woolues and caterpillers to the
+                  commonwealth, 794, b 20, 30. Atteinted of treason, his words to the lords of the councell to find
+                  fauour, 803, b 40, 50, 60. Most of the lords of the councell against him, sometime recorder of
+                  Couentrie, indicted and found guiltie, condemned, 804, a 30, &amp;c. Committed to the Towre, 799,
+                  b 50. Beheaded, 809, a 10</item>
+               <item>Empson an obstinat moonke, the last moonke séene in that clothing in England till quéene Maries
+                  daies, 952, b 60.</item>
+               <item>Erle Aimer of Penbroke arrested, 332, a 50. </item>
+               <item>Erle Baldwin de Riuers of Ile of Wight, 224, a 60. His oration to king Stephans armie, 52, b 50.
+                  Belesme of Schrewesburie a factious man: note, 32, a 60. Subdued and banished, 30, a 60. Beauchampe
+                  of Warwike protector of England, 424, a 40. Of Warwike deceaseth, 519, b 60 405, a 10. Beauford of
+                  Surrie deceaseth, 536, b 10. Bigod of Northfolke a valiant chiefeteine, 47, b 60. Accorded with
+                  king Henrie the second, 92, a 60, 51, b 60. Bolinbrooke of Derbie afterwards king, 448, a 90.
+                  Bourchier of Essex deceaseth, 950, a 60</item>
+               <item>Erle Charles of Westmerland, sore iudgements of God vpon him: note, 1359, a 40. Charles of
+                  Flanders murthered and issulesse, 43, a 50. Clinton of Lincolne ambassador into France, the maner of
+                  his interteinment, 1229, a 10, 20. Courtneie of Denonshire the first destroier of Excester hauen,
+                  1008, a 40. Created, 1089, a 20. Crispine of Eureux woundeth Henrie the first, and is taken prisoner,
+                  40, a 60</item>
+               <item>Erle de Gaunt of Lincolne, 192, b 60. Dudleie of Warwike sent into Normandie with an armie, 1195,
+                  a 60</item>
+               <item>Erle Edmund of Lancaster sent into Gascoigne, his seruice in armes, his death, 296,  </item>
+               <item>Erle Ferreis of Derbie commeth to Chester with twentie thousand men, 269, a 60. </item>
+               <item>Erle Hastings of Penbroke. as he was learning to iust, is wounded to death, 467, b 20. Helias. ¶Sée
+                  Helias. Henrie of Essex dishonoured, 67, a 10. Henrie of Huntington his valiantnesse, 50, a 10.
+                  Herbert of Penbroke prepareth against the earle of Warwike, 672, a 60, b 10. Holland of Huntington,
+                  465, b 60. A great exploit doone by him against the French, 558, b 50, &amp;c. Holland of Kent in
+                  fauour with Henrie the fourth he marrieth a daughter of a lord of Millain, 532, a 40, 50. Sent to
+                  the sea with an armie, 534, b 20. Hugh of Chester deceseth, 105, b 10. Hugh of March commeth ouer to
+                  Henrie the third, and offereth him seruice, 209, a 10. Worketh to induce the Normans and Poictouins
+                  to fauour king Henrie the third, 210, a 40. Hugh of Montferrat taken prisoner, 42, b 20. Hubert de
+                  Burgh created earle of Kent, and whie, 209, b 60. In Henrie the thirds displeasure: note, 211, b 10.
+                  Escapeth out of prison, and taketh sanctuarie, 217, a 30, &amp;c. He is brought backe, restored
+                  to sanctuarie, rescrued, conueied into Wales, discharged of his office of chéefe iustice, taks
+                  sanctuarie, reléeued by the Londoners, apprehended, cast in prison, and banished, 215, a 50,
+                  &amp;c. Hubert of Morienne and his daughter sold for monie, 84, a 60, b 10</item>
+               <item>Erle Iasper of Penbroke, 678, a 60. Beheadeth Roger Uaughan, passeth ouer into Britaine with his
+                  nephue, 693, a 50, 60. Iohn of an ambitious nature, 132, a 40. No fréend to the bishop of Elie, 132,
+                  a 10. In armes to vsurpe the kingdome, 137, b 60. Purposed to seize vpon the kingdom in his brothers
+                  absence, 134, b 50. Submitteth himselfe to his brother Richard the first, and craueth pardon for his
+                  offense, 146, b 60. Pardoned of all his rebellions, 147, a 10. Iohn Scot of Chester poisoned by his
+                  wife, his foure sisters, 220, b 60. Iohn of Mortaigne licenced to returne into England, 121, b
+                  10</item>
+               <item>Erle Mandeuill of Essex licenced to go into the holie land, 101, a 10. William of Essex taken, 56,
+                  a 20. Marchar of Mercia. ¶ Sée Marchar. Marshall of Penbroke his oration in the assemblie of péeres,
+                  197, a 40, Recouereth his castelles taken by the prince of Wales, 205, a 30. Killed with a fall from
+                  his horsse, 228, b 60. Deceaseth, his buriall, 202, a 60, 213, b 60 Mathew of Bullongne, 87, b 10.
+                  Wounded and dieth, 88, b 40. Montacute of Salisburie a politike man and valiant, 598, b 60. Miles of
+                  Hereford, 51, b 10. Deceaseth, 56, a 10. Mortimer of March his good seruice in Ireland, 440, a 30.
+                  Slaine by the wild Irish, his issue, 448, b 10. Last erle of March of that name deceseth without
+                  issue: note, 590, a 10. Montgomerie. ¶Sée Montgomerie. Mowbraie. ¶ Sée Mowbraie. Mulbraie. ¶Sée
+                  Mulbraie. </item>
+               <item>Erle Neuill of Westmerland, &amp;c: Prepareth to resist the kings enimies, his subtill
+                  policie, 529, b 40, 50. Persuadeth king Henrie the fift vnto the conquest of Scotland, 546, a 40.
+                  Neuill of Salisburie his issue, 641, b 60</item>
+               <item>Erle Patrike of Salisburie slaine, 75, b 30. Persie of Northumberland created, 1133, a 60. Warden
+                  of the whole marches, 875, b 50. Sent to the seas, 455, a 50. Lieutenant of Calis, 475, b 10·
+                  Conspireth with Owen Glendouer, 521, b 50, 522, 523. Restored, 545, a 20. Beheaded at Yorke, 1257, a
+                  20. Murthered himselfe in the Tower, 1403, b 50 A quest of inquirie vpon the fact, 50, 1404, all.
+                  Buried in the Tower, b 20. The whole maner of killing himselfe, b 40, &amp;c: to 1419, a 10.
+                  Persie of Worcester leaueth the king and flieth to the duke of Lancaster, 500, a 10. Sent ouer into
+                  Gascoigne to appease the people, 518, a 10, 20. Petwike of Perch, 67, b 10. Philip of Flanders, 87, b
+                  10. A meane to make peace betwene the kings of England &amp; France, 114, a 60. His deuotion at
+                  Thomas Beckets toome, 100, b 60. Doth homage to the king of England, 103, b 60. His release made at
+                  Henrie the seconds request, 95, a 60. Plantagenet of Warwike son and heire to George duke of Clarence
+                  committed to the Tower, 762, a 10</item>
+               <item>Erle Rafe. ¶ Sée Rafe. Raimond of Barzelon, 67, b 10. Of Tripolis, 129. Ranulph of Chester taketh
+                  his wife the duchesse of Britaine prisoner, 150, b 20. Laieth séege to Montsorell castell, 199, a 60.
+                  He raiseth his séege, 199, b 20. Returneth from the holie land, 202, b 20. Goeth into the holie land,
+                  202, b 40. Deceaseth, thrise married, the partition of his lands, his exploits, 215, b 40. Reinold
+                  of Cornwall base sonne to king Henrie the first departed this life, 95. b 40. Reinold Greie of Kent.
+                  1227, b 40. Deceaseth, 1258, a 20. Richard obeieth his father Henrie. 109, a 60. Seizeth vpon his
+                  father Henrie the seconds treasure, 111, a 30. Is rebelled against, he inuadeth the earle of Tholous
+                  lands, 112, a 60. Reuolteth from his father vnto the French king, 113, a 50. Richard of Chester
+                  vnder king Henrie the firsts tuition, 32, b 10. He &amp; his wife drowned, 41, b 10. Richard of
+                  Clares submission, 92, b 20. Richard of Cornwall returneth out of Gascoigne, 209, a 40. Departeth
+                  from the court secretlie, ioineth himselfe with the erls of Chester and Penbroke, 209, a 60. King of
+                  Almaine, deceaseth, his buriall and issue, 275, a 60. His sonne murthered, b 20. Richard of Essex,
+                  961, a 60. Richard of Glocesters submission, 92, b 20. Richard of Glocester dieth, 95, b 50. Richard
+                  of Poitow king Henrie the seconds son, his victorie against the Brabanders, 98, b 50. His sharpe
+                  assalt of Talburgh, 104, a 10. Robert of Derbie, 92, a 20. Robert of Glocester Henrie the firsts base
+                  sonne, 37, a 50. An enimie to king Stephan, 48, b 50. Described, 53, a 10. Commeth to Glocester, 51, a
+                  60. Father in law to Iohn king Richards brother, 117, a 30. Taken prisoner, 54, a 50. Dieth, 56, b 50.
+                  Robert of Lecester famous and valiant, 134, a 50, 60. Put to flight, 89, a 30. Taken prisoner, 144, b
+                  40, 90, a 40. Offer for his ransome, 146, b 40. Robert Dudleie created baron and erle, 1207, a 60, b
+                  10. Inuested into the order of saint Michaell, 1209, a 20. ¶ Sée Erle of Leicester. Robert of Mellent
+                  rebelleth against king Henrie the first, 42, b 10. Robert of Richmond against the Frenchmen, his
+                  martiall acts, in danger to be slaine, 359, b 10, &amp;c: 60. Robert de Belesme of Shrewesburie
+                  rebelleth, 30, a 30. Robert de Uéere owner of Hidingham castell, 190, b 50. Robert passeth ouer into
+                  Normandie, 55, a 20. Roger Fitzmiles of Hereford, 66, a 10</item>
+               <item>Erle Saier de Quincie of Winchester 199, a 60. Seimor of Hereford lieutenant of the North goeth
+                  against the Scots, 961, b 30. His answer to the prouost of Edenborough, 962, a 30. Simon of Hampton,
+                  51, b 60, 52, b 20. Dieth, 60, b 10. Simon of Huntington dieth, 108, a 20. Simon of Leicester maried
+                  with Henrie thirds sister, 222 ball. Maketh his possessions into monie and goeth into the holie
+                  land, 224, a 60, b 10, 225, b 40. Fled ouer into France, 223, b 30. Stanlie of Derbie deceaseth, his
+                  life, death, and qualities, 1257, a 60, b 10. Stephan of Bullongne sworne to the succession of the
+                  crowne, 43, a 10. ¶Sée Stephan. Strangbow marieth Dermutius his daughter, 81, a 50. Confined,
+                  séeketh king Henrie the seconds fauor, and is pardoned, 81, a 50, 60. He maketh surrender to king
+                  Henrie the first, b 20. Strangbow of Straguill, 81, a 10. Summerset of Worcester sent into France
+                  robbed vpon the sea, 1257, b 40, 50, 60</item>
+               <item>Erle Talbot of Shrewesburie and his son manfullie slaine, 639, a 60, b 50. Sent into France with an
+                  armie, 817, 840. Theobald of Champaigne his descent in armes against the French king, 39, b 20. His
+                  countrie inuaded by the French king, 40, b 20. Theodorike of Flanders, 66, b 60. Tiptoft of Worcester
+                  beheaded, 678. Turketillus. ¶Sée Turketillus. </item>
+               <item>Erle Ualeran of saint Paule put to flight, 528, b 20. Uéere of Oxford, his charge to his bands of
+                  men, his valiantnesse, 759, a 10, 20. Yéeldeth himselfe to king Edward the fourth, sent ouer sea, and
+                  kept prisoner twelue yeares, 693, b 20. Made marquesse of Dublin, 448, a 60. Created duke of Ireland,
+                  451, b 60. Duke of Ireland, to be safelie conducted to the kings presence by the shiriffe of
+                  Cheshire, 460 b 60. Deceaseth in miserable necessitie: note, 479, b 60. His corps conueied from
+                  Louaine into England and there roiallie buried, 485, a 60. Séeketh to be diuorced from his lawfull
+                  wife: note, 458, a 10. Sent ouer into Gascoigne, 294, b 60. His valiantnesse, 684. b 20. Geiteth out
+                  of prison, and he with others go to the erle of Richmond, 749, a 10, 20. He liuieth a power
+                  &amp; commeth into England, his valor and chiualrie, a 50, 60. He submitteth himselfe and
+                  yéeldeth to the king, b 50. The erle of Richmond is glad of him and his companie, b 60. Deceaseth,
+                  950, a 60.</item>
+               <item>Erle Walter of Essex saileth into Ireland, 1258, b 60. Deceaseth, 1263, a 40. The place of his
+                  birth, 60. His praise in sundrie respects, b 20. Disposed to inlarge his nobilitie, 60 ¶ Sée Erle of
+                  Essex. Waltheof. ¶Sée Waltheof. Warren, 51, b 60. Warren of Surreie his words to Edward the first,
+                  280, b 10. Of Shrewesburie warden of the Welsh marches, 42, a 40. William of Arundell ambassador to
+                  the French king, 72, a 50. Dieth, 98, b 20. William of Kent, William de Ypresse, 54, a 30. William
+                  sonne to duke Robert erle of Flanders, 43, a 50. Dieth of wounds, 43, b 20. Duke Robert of Normandies
+                  son by Sibill, 34. a 10. William named de Longspée with others go into the holie land, 241, b 50.
+                  William of Mortaigne and Bullongne, 68, a 20, 66, b 50. A factious man, 32, a 60. His wilfulnesse and
+                  malcontentment, b 10. William of Salisburie inuadeth the countries about London, 89, b 30.</item>
+               <item>Erle of Albemerle, 52, a 10, 52, b 10. </item>
+               <item>Erle of Bedford and his sonne the lord Russell deceaseth, 1413, b 10. Of Blois his son made bishop
+                  of Winchester, 42, a 60. Of Britaine assisted against the French king, he submitteth himselfe, 219, a
+                  10, 20. Of Buckingham sent into Britaine to and the duke against the French king, 425, b 60. </item>
+               <item>Erle of Caerleill raiseth an armie, put to death for treason, 333, a 10, b 20. His iudgment and
+                  constancie at his death, 334, a 60. Of Cambridge returneth out of Portingale, 441, b 20. His sonne
+                  affianced to the king of Portingals daughter, 441, b 20, 40. He and other lords apprehended for
+                  treason, 548, b 10. Executed, 50. The effect of his indictment, 549, a 30, &amp;c. Of Chaster
+                  described, 53, a 10. His exploits being the kings lieutenant, 212, b 20. Withstood the gathering of
+                  tenths for the pope, 211, a 50. Bare S. Edwards sword before Henrie the third at his mariage, 219, b
+                  40. His oration to the erle of Glocester, 52, a 10. His right and title thereto, and priuileges, his
+                  foure barons vnder him: note, 20, a 20. Dieth, 60, b 10. Of Cornwall marrieth the countesse of
+                  Glocester, 213, b 50. Elected emperour, 254, b 10. Stands against the K. his brother for grant of a
+                  subsidie, 251, b 40. He lendeth the king monie, 252, a 20. Elected king of Almaine, taketh his leaue
+                  of the king his brother, 256, a 20. And king of Almaine, his protestation to the English ambassadors,
+                  he commeth ouer into England, receiueth an oth not to infringe the statuts of Oxford, <pb n="1497"/>
+                  261, a all. An intercessor for peace to be had betwixt the pope and the emperour, 226, b 10</item>
+               <item>Erle of Derbies exploits in France and his taking of townes, 368, b 40, &amp;c: 369, a 10,
+                  &amp;c. Assembleth an armie, winneth townes, and is victorious, 375, a 30, &amp;c. His
+                  exploits against the infidels, 473, b 10. Kéepeth Newland bridge, 377, b 20. Ambassador into France,
+                  his interteinement, 1380, a 50, 60, &amp;c: 1381, all, 1382, a 10, &amp;c. Of Desmond a
+                  rebell and others brought to order by the earle of Surrie &amp; his power, 855, b 60. His strange
+                  and miserable end, 1365, b 60. His head set on London bridge, 1356, a 20</item>
+               <item>Erle of Essex capteine generall of Uister, in Ireland, 1259, </item>
+                <item>Erle of Flanders his oth, 91, a 10. Assisteth king Sweine to inuade England, 14, a 50. </item>
+               <item>Erle of Kent a bishop, 18, a 60. Dispossessed of his lands, but pardoned of life, but excluded from
+                  libertie, 216, a 60, b 10. ¶ Sée Odo. Of Kildare restored to his deputiship in Ireland, 878, b 10,
+                  20. Made deputie of Ireland, 883, b 30. Committed to the Towre by cardinall woolseis meanes, 855, b
+                  20. Executed, 943, b 50. Of Kime otherwise Angus beheaded, 666, b 40</item>
+               <item>Erle of Lancaster vntrulie</item>
+               <item>Erle of Leicester brother to the earle of Mellent, 58, b 60. </item>
+               <item>Erle of Leicester baron Denbigh, passeth, ouer sea to the low countries as the quéens lieutenant,
+                  1419, a 20. Arriueth at Flushing, 1424, a 20. Saileth towards Middleborough, b 40. His
+                  interteinment there, 50. Honourablie feasted in Christmasse time of the states, 1425, a 20. He
+                  feasteth them againe, 40 Landeth at Williamstat, 60. Entreth into Dort, b 10. Commeth to
+                  Rotherdam, 50. Entreth into Delfe, 60. Magnificent interteinment of the quéene, and the bountifull
+                  fare he kept for his attendants, in progresse, 1299, a 30. On the right hand of the prince Dolphin,
+                  1337, b 30. Kéepeth saint Georges feast solemnlie at Utricht, 1433, b 20. Inuested with the robes of
+                  the order, 60. Commeth to Utricht, and how receiued, 1431, a 60, b 10. A placard conteining the
+                  authoritie giuen him by the states of the low countries, 1428, b 10, &amp;c, 1429, </item>
+               <item>Erle of March duke of Yorke, 659, b 60. The great hope of the people conceiued of him, he is
+                  elected king, he taketh vpon him the regiment, 661, a 60, b 10, 40. His badge: note, 660, a 20</item>
+               <item>Erle of Mellent, 51, b 60, 52, b 10. Discontented with the bishops in an assemblie, 36, a 60, b
+                  10, 20. A councellor to Henrie the first, to hold the title of inuestitures of prelats, 32, a 30.
+                  Taken prisoner, 42, b 20. His sonnes praised for their learning: note, 44, a 60. Of Mortaigne taken
+                  prisoner, 33, a 40. Mortimer. ¶Sée Mortimer. </item>
+               <item>Erle of Northumberland charged by the duke of Lancaster with sundrie crimes, the Londoners are his
+                  fréends, they are accorded 439, a 60, b 10.  </item>
+               <item>Erle of Ormond high treasuror of Ireland, 883, b 30. Of Oxford. ¶Sée earle Uéere. </item>
+               <item>Erle of Pearch slaine, 200, a 60. Of Penbroke passeth ouer into Ireland, he is taken prisoner, his
+                  death, 218, a 60, b 10. In danger of taking he is rescued, 217, b 40 Lord warden of Scotland, 312, b
+                  10. Diligent: note, 201, a 20. Ualiant manhood, 672, b 60. Discontented, waiteth for aduantage,
+                  667, a 60. Conductor of the earle of Richmonds companie, 748, a 20. Generall of quéen Maries armie
+                  against Wiat and his companie, they incounter. 1098, a 30, 60. Deceaseth, his epitaph, 1213, b
+                  10</item>
+               <item>Erle of Richmond causeth his men to put on armor, he setteth them in order, and appointeth
+                  chiefteins, 755, b 20, 40.  </item>
+               <item>Erle of Tholouze lands inuaded by earle Richard, 112, a 60</item>
+               <item>Erle of Warwike made gouernor of king Henrie the sixt, 596, a 50. </item>
+               <item>Erles of Chester the true and famous genealogie, 221, a 10 Tooke end in Iohn Scot, 221, a 10. Of
+                  Leicester from the first to the last by succession, set downe in a collection, 1419, a 40,
+                  &amp;c: vnto 1424, b 10. Of Richmond line that first bare their title of honor of the said castle
+                  and towne, 7, b 20</item>
+               <item>Erminfred bishop of Sion or Sitlen a chéefe commissioner from pope Alexander, 8, b 60.</item>
+               <item>Ermingard vicount Beaumonts daughter married to William king of Scots, 110, a 60</item>
+               <item>Espeke Walter, the first that brought the order of white monks into England, 26, a 60</item>
+               <item>Estouteuille Robert taken prisoner. 33, a 40</item>
+               <item>Euers, constable of Douer castell, &amp;c, 480, a 20. Lord that now liueth, his noble
+                  ancestrie 412, b 50. Knight his good seruice in the North, 942, b 30. His prowesse and valiant
+                  seruice, 962, b 30. Slaine, 968, a 60</item>
+                <item>Eustace earle of Bullongne, against William Rufus, 17, b 60. Sonne to king Stephen duke of
+                  Normandie, 48, a 40. Angrie with his father, 60, a 60. He dieth ¶Sée Moonke. </item>
+                <item>Exton knight a murtherer of king Richard the second 517, a 10. </item>
+            </list>
+         </div>
+         <div n="F" type="part">
+            <head>F.</head>
+            <list>            
+                <item>Farrer an haberdasher of London a sore enimie to the ladie Elisabeth, 1159, b 20, 30,
+                  &amp;c:</item>
+                <item>Fergusa a Lombard betraieth the duke of Clarence, 580, a 10</item>
+               <item>Ferdinando archduke of Austrich made knight of the garter, 882, a 60</item>
+               <item>Ferrers knight William taken prisoner, 33, a 40</item>
+               <item>Fescampe William, his deuises of a plaine song whereabout was strife, 13, b 30</item>
+               <item>Fitzalan William a conspiraor 49, a 10</item>
+               <item>Fitzarnulfe a Londoner procureth the citizens to reuenge their cause by rebellion, he is
+                  apprehended and executed, 204, a 40</item>
+               <item>Fitzbaldrike shiriffe of Yorke, 10, a 10</item>
+               <item>Fitzempresse Henrie, his returne into England 58, a 20. and is knighted, 40</item>
+               <item>Fitzsergus Gilbert killed his brother: note, 98, b 40</item>
+               <item>Fitzgeffreie chamberleine vnto king Richard the first, 128, a 60. His death, b 60</item>
+               <item>Fitzhammon Robert his tale to William Rufus, 26, b 20</item>
+               <item>Fitziohn Eustace a conspirator, 49, a 10. Slaine, 67, a 10</item>
+               <item>Fitzleo Peter an vsurping pope, 44, a 50</item>
+                <item>Fitzmoris his miserable end, 1365, b 60</item>
+               <item>Fitzosbert his vnnaturall ingratitude, and complaint to K. Richard the first against the citie of
+                  London, 149, a 40. Whie he ware his long beard, his oration to the people, he is called before the
+                  archbishop of Canturburie lord chéefe iustice &amp; president of the realme, he flieth into the
+                  church of saint Marie Bow, he is attached, his concubines, 149, all. Is executed, the archbishop of
+                  Canturburie euill spoken of for his death, an old whoremonger and new saint 150, a 10, 20</item>
+               <item>Fitzosborne William earle of Hereford, &amp;c: gouernor of England in duke Williams absence, 5,
+                  a 10</item>
+               <item>Fitzroie Oliuer sonne to king Iohn, 202, a 20</item>
+               <item>Fitzscroope Richard in armes against Edrike the rebell, 5, a 10</item>
+               <item>Fitzwalter lord deceaseth in Spaine, 450, b 10. Appealeth the duke of Aumerle of treason, 512, a
+                  60. He is mainprised, 513, b 60. Earle of Sussex, his seruice against the Scots, he is in great
+                  danger: note, 986, a 20</item>
+               <item>Fitzwilliams recorder of London his wisedome in a dangerous case. 730, b 30</item>
+                <item>Fléetwood recorder of London made sargent at law, ¶Sée Sargents at law. </item>
+               <item>Fleming bishop of Lincolne, founder of Lincolne college in Oxford, 604, a 20</item>
+               <item>Fleming knight maister of the ordinance, 991, b 50</item>
+               <item>Forster doctor of physicke first reader of surgerie lecture in London, 1349, a 20, 30, &amp;c:
+                  his faithfull and fréendlie epitaph vpon doctor Caldwell deceased, 1370, a 20</item>
+                <item>Fouks de Brent a man of great stomach and rashnesse, 202, a 10. An enimie to rest and quietnesse,
+                  206, a 40. His fowle end, 206, b 40. ¶Sée Erle. </item>
+               <item>Foulgier Rafe a valiant man, assistant to prince Henries rebellions, 886, b 60. Taken by sir
+                  Francis surnamed the Arragonois, 628, b 60</item>
+               <item>Francis knight slaine in Deuonshire rebellion, 1024, a 20, 60</item>
+               <item>Francis de Ualois, &amp;c. ¶Sée Duke of Alanson. </item>
+               <item>Frederike abbat of saint Albons a rich &amp; a puissant prelat: note, 9, b 60, 10, a
+                  10</item>
+               <item>Frederike the emperor alied to king Henrie the third, 219, a 60. ¶Sée pope Alexander. </item>
+               <item>Fulco a French préest his admonition to Richard the first: note, 156, b 10.</item>
+            </list>
+         </div>
+         <div n="G" type="part">
+            <head>G.</head>
+            <list>
+                <item>Gardiner bishop of Winchester made lord chancellor, 1089, a 10. An enimie to the ladie Elisabeth,
+                  examined of him, 1154 a 30, 40. Derided: note, dog in a rochet, 1143, a 20. The talke betwéene the
+                  ladie Elisabeth and him, 1158, b 20, 40. Crowneth quéene Marie, 1091, b 30. His tale in the star
+                  chamber against the ladie Elisabeth, 1102, a 20, &amp;c: Preacheth at Paules crosse: note, 1126,
+                  a 60. His practise against ladie Elisabeth, 1101, b 40. His old hatred against the duchesse of
+                  Suffolke: note 1142, a 60, b 10, &amp;c: 1143, a 10, &amp;c: His death, visited with the
+                  sudden stroke of God, a hunter for the life of ladie Elisabeth, 1130, a 40, 60, b 20: note, </item>
+               <item>Gaston de Bierne noted for vnthankfulnesse, 240, a 30. Attempteth to take the citie of Baion,
+                  250, a 30. Submitteth himselfe vnto king Henrie the third, 242, a 60</item>
+                <item>Geffreie sonne to king Henrie the second, 7, b 30</item>
+               <item>Geffreie king Henrie the seconds fourth sonne borne, 67, b 10. Marrieth the duchesse of Britaine,
+                  75, a 20</item>
+               <item>Geffreie bishop of Constance in armes against the earle of Camber, 11, a 50</item>
+               <item>Geffreie bishop. ¶Sée Bishop. </item>
+               <item>Geffreie a kings brother rebelleth, 66, a 30</item>
+               <item>Gerard de Cambill charged with felonie and treson, 143, a 10</item>
+                <item>Gifford William bishop of Winchester commended, 28, b 20</item>
+               <item>Gifford doctor of physicke president of the college of physicians, 1349, b 40</item>
+                <item>Gilbert de Gaunt taken prisoner and put to his ransome, 7, a 20</item>
+               <item>Gilbert capteine of Tunbridge castell, 17, b 40</item>
+               <item>Gilbert knight his voiage to Norimbega, it hath not wished successe, he is seuered from his
+                  companie, dead, and neuer heard of, 1369, a 50, 60, b 10</item>
+               <item>Gilford knight, his message of thanks from king Henrie the seuenth to the Kentishmen, 780, a 10.
+                  Maister of the horsse vnto king Henrie the eight, 822, b 60</item>
+               <item>Gilford lord Dudleie executed on the Tower hill, 1099, b 30 ¶Sée Sands. </item>
+               <item>Gita the sister of Sweine king of Denmarke escapeth into Flanders, 6, b 20</item>
+                <item>Goche his valiant seruice, 587, b 50, 60. Taken prisoner by the loundering of his horsse, 611, b
+                  30. A Welshman, his escape, 630, a 40. Slaine vpon London bridge, 635, a 30</item>
+                <item>Gospatrike earle of Northumberland is sent against king Malcolme of Scotland: note, 10, a 60, From
+                  whome duke William taketh the erledome of Northumberland, &amp; whie, 10, b 50. How he came to be
+                  earle of Northumberland, 13, a 30. ¶ Sée Malcolme. </item>
+               <item>
+                  Grafton Richard slandered by a Scot and defended, 112, a 30. Defended against
+                     Buchanans slander, 298, b 10, &amp;c.</item>
+                <item>Grandmesuill Hugh set all vpon the spoile, 17, a 50</item>
+               <item>Greie lord committed vnto the Tower, 952, b 10. Indicted and beheaded, 953, b 60</item>
+               <item>Greie lord of Wilton deputie of Bullen, the letter of king Henrie the eight vnto him, 875, b 40,
+                  50, 60. His seruice verie honorablie accepted of the king, 976, a 40. His request vnto the duke of
+                  Summerset, 985, a 20. Receiueth possession of Hume castell, 990, b 60</item>
+               <item>Greie lord Iohn duke of Suffolkes brother arreigned, condemned, pardoned, released, beheaded,
+                  1117, b 60</item>
+               <item>Greie lord capteine of Guisnes, taketh the French at a sléepie aduantage, commendeth his soldiors,
+                  1137, a 50, 60, b 50 The danger that he escaped sitting vpon a forme with two gentlemen, hurt by
+                  mischance, he consulteth with the Englishmen, 1138, a 30, b 40, 50, 60. His words to his soldiors,
+                  being ashamed of their timorousnes, agréeth with the <gap extent="1" unit="letter">
+                     <desc>illegible</desc>
+                  </gap>nimie vpon articles, 1140, a 20, 40</item>
+               <item>Greie lord generall of the quéenes armie in Scotland, 1187, a 30. His message to the Frenchmen.
+                  1188</item>
+               <item>Greie Arthur hurt in the shoulder by shot, 1189, a 10</item>
+               <item>Greie lord of Wilton deceaseth, 1198, a 50</item>
+               <item>Greie Henrie. ¶Sée Iusts triumphant. </item>
+               <item>Greies familie aduanced, 668, a 30, 40</item>
+               <item>Gréene, one of Richard the thirds merciles instruments to murther two innocent princes, 734, b
+                  50</item>
+               <item>Gréenfield knight, sir Walter Raleighs lieutenant for the voiage to Uirginia, 1401, b 50. Singled
+                  from his companie, arriueth in Hispaniola, 60. His valiantnesse against the Spaniards, 1402, a 10. In
+                  danger of shipwracke, 20. Chaseth and surpriseth a Spanish ship, 50</item>
+               <item>Gresham knight suddenlie deceaseth: note, 1310, b 50</item>
+               <item>Greuill Fulke. ¶ Sée Iusts triumphant. </item>
+               <item>Griffin ap Rées dooth much hurt on the marches, 38, a 60</item>
+               <item>Griffin king of Wales departeth this life, 152, a 60</item>
+               <item>Griffin of Wales breaketh his necke, 228, b 20</item>
+               <item>Griffin beheaded at Towre hill, 928, a 10</item>
+               <item>Guido earle of Britaine his father and his thrée sonnes erls of Britaine, 7, b 20</item>
+               <item>Guenhera and the nobles of Wales make a league with Henrie the third, 226, b 50</item>
+               <item>Guie of Warwike deceaseth, 323, a 10</item>
+                <item>Gurguint builder of Norwich castell, 1288, a 10. </item>
+            </list>
+         </div>
+         <div n="H" type="part">
+            <head>H.</head>
+            <list>              
+                <item>Harding Stephan moonke of Shireborne, 26, a 60</item>
+               <item>Harleston knight his notable exploit: note, 422, a 20</item>
+               <item>Harold king of Man knighted, 238, b 60. ¶ Sée Canutus. </item>
+                <item>Harueie de Yuon his surrender to king Henrie the second, 75, b 60. ¶Sée Bishop. </item>
+               <item>Hastings lord his counsell to all his acquaintance, 675, b 10. Chamberleine maligned of the king
+                  and quéene, 713, a 30. Described, 723, b 60. His life and déeds laid open, 724, a 40, &amp;c.
+                  Beheaded. 723, a 20</item>
+               <item>Hastings lord discharged out of the Towre, 1088, b 30</item>
+               <item>Haukesford knight his practise to kill himselfe, 677, a 10, &amp;c.</item>
+               <item>Henrie the first when he began his reigne, 28, a 10. </item>
+               <item>Henrie the second crowned king, where and by whome. 65. a 10. Offended with the bishops, 70, a 30.
+                  Knighteth the king of Scots, 76, a 30. Inuadeth the earle of Aluergnes land, 75, a 40, </item>
+               <item>Henrie the third borne at Winchester, 171, b 60. .</item>
+               <item>Henrie the fourth duke of Lancaster, proclamed king, 507, b 30 </item>
+               <item>Henrie the fift, his title, the beginning of his reigne, his coronation daie verie tempestuous,
+                  he altereth his life &amp; maners, 543. </item>
+               <item>Henrie the sixt borne, 581, a 60, b 10. Crowned in Paris, </item>
+               <item>Henrie the eight, duke of Yorke, and afterwards king, his birth, 775, b 60. </item>
+               <item>Henrie, the first sonne to Henrie the eight deceaseth, 808, b 50</item>
+               <item>Henrie Fitzroie, K. Henrie the eights base son: note, 892, a 40</item>
+               <item>Henrie the empresse hir son lord Henrie came into England to sée his mother, 55, b 50. Knighted in
+                  England, 58, a 40. Marrieth the duchesse of Aquitain, 58, b 60. Returneth into England, he besiegeth
+                  Malmesburie castell &amp; is forced to raise his siege, 59, b 40. Passeth into Normandie, his
+                  puissance, a peace betwéene him and the French king, 54, a 60, b 10</item>
+               <item>Henrie son to the erle of Cornwall, and king of Almaigne murthered, 275, b 50</item>
+               <item>Henrie the emperour dead at Utrecht, 42, b 60</item>
+               <item>Herbert bishop of Thetford why depriued of his bishops staffe 21, a 40. He came to it by simonie,
+                  26, a 50</item>
+               <item>Herbert knight of gret power among the Welsh: note, 752, b 60</item>
+                <item>Elisabeth Barton. </item>
+                <item>Howard knight made lord admerall in his brothers roome, 817, a 10, 20. Incountereth with the earls
+                  of Leneux and Argile, 828, b 20. Atteinted of treason, dieth prisoner, 940, b 50. In the Towre, 944, b
+                  60.</item>
+               <item>Howard lord gentle and fauourable to the ladie Elisabeth, 1158, b 10. Priuie seale deceaseth,
+                  1257, b 40. ¶ Sée Earle of Surrie. </item>
+               <item>Hubert de Burgh assaileth the French fléet, 201, a 50</item>
+               <item>Hugh earle of Chester his exploits against the Welshmen, 23, a 40. Despaireth of life, 28, a
+                  10</item>
+               <item>Hugh earle of Shrewesburie &amp; Arundell his exploits, 23, a 40. Slaine by a rouer: note, 23,
+                  a 50</item>
+                <item>Hunsdon lord his descent, he presenteth the order of the garter to the French king, 1206, a 60. He with others go against the rebels in the north, 1212, b
+                  20. Made lord chamberleine, 1413, a 50</item>
+             </list>
+         </div>
+         <div n="I" type="part">
+            <head>I.</head>
+            <list>           
+               <item>Iacke Straw &amp; his adherents executed, 436, a 50. His confession at the time of his deth,
+                  438, b 10</item>
+               <item>Iane the daughter of K. Iohn married to the erle of March, 182, b 60</item>
+               <item>Iane de Ualois sister to the French K. treateth for peace, 360, a 30</item>
+               <item>Iane ladie Gilford proclamed quéene, 1084, b 10. Hath the kéeping of the keies of the Towre, 1087,
+                  a 40. Cõmitted to the Towre with hir husband the lord Gilford, 1088, b 50. Hir behauior at hir
+                  execution, the words which she spake on the scaffold, 1099 b, 40, 50, 60, 1100, a 10,
+                  &amp;c.</item>
+               <item>Iaques Arkeneld purposeth the destruction of Gerard Deruse, his house bé<gap extent="1" unit="letter">
+                     <desc>illegible</desc>
+                  </gap> set, &amp; he slaine, 368, a 30, &amp;c.</item>
+               <item>Iennie a notorius knowne traitor &amp; conferrer with Francis Throckmorton, 1371, b 10</item>
+                <item>Iohn of Gaunt borne, 357, a 60 Meried, 392, a 20. Duke of Lancaster, 395, b 30 Buried, and his
+                  daughter Blanch</item>
+               <item>Iohn the king proclamed king of England, 157, a 20, b 40, 158 a 10. </item>
+               <item>Iohn a Chamber a notorious northerne rebell, 769, b 40, &amp;c. 770, a 10, &amp;c. Hanged
+                  like an archtraitor, 770, a 10</item>
+               <item>Ione de Are pusell de Dieu, 600, 10, &amp;c, 603, b 50. Taken prisoner, &amp;c:
+                  note, 604, a 50, 60, b 10.</item>
+               <item>Isabell daughter to the earle of Glocester maried vnto Iohn K. Richards brother, 117, a 30</item>
+               <item>Isabell the second wife of king Iohn, &amp; what issue she broght him, 161, b 60. Crowned, 162,
+                  a 30</item>
+               <item>Isabell Henrie the thirds mother deceaseth, 239, a 50</item>
+               <item>Isabell countesse of Cornwall deceaseth, 225, b 60</item>
+               <item>Isabell wife to emperor Frederike, deceaseth, 229, a 10</item>
+               <item>Isabell de Boulbec. ¶ Sée Countesse. </item>
+                <item>Isleie knight, all his apparell not woorth foure shillings, 1099, b 20</item>
+               <item>Iudge Morgan fell mad: note, 1099, a 60. ¶Sée Iustice. </item>
+            </list>
+         </div>
+         <div n="K" type="part">
+            <head>K.</head>
+            <list>             
+                <item>Katharine daughter to the earle of Huntleie maried to Perkin the rebell, 780, a 40. Presented to
+                  Henrie the seuenth, 784, b. 10</item>
+               <item>Katharine the daughter of Ferdinando sent ouer into England out of Spaine, 788, b 40, &amp;c.
+                  Married to king Henrie the eight, 801, a 10. ¶Sée quéene Katharine &amp; Henrie the eight. </item>
+               <item>Kelwaie Thomas. ¶Sée Iusts triumphant. </item>
+               <item>Ket, his rebellion, a capteine there, 1028, b 50, 60, to 1042, &amp;c. He meant to haue talked
+                  with the earle of Warwike, 1037, a 60. Power increaseth 1032, b 60. Apprehended, examined, 1039, 50,
+                  60. Both brothers executed, 1240, a 50, 60.</item>
+               <item>Kingston knight is sent to fetch vp Woolseie arested of treason to Henrie the eight, talke betwixt
+                  the said sir William and him, 916, b 30, 50. Prouost marshall, execution of marshall law: note, 1006,
+                  b 60, his ill iustice, 1007, a 10. Accused of treason, his decease, 1132, a 40.</item>
+               <item>Kiriell sir Thomas, a valiant capteine, 630, a 20.</item>
+               <item>Kneuet knight arreigned for striking in the court, iudged to loose his hand, he is pardoned, 953,
+                  b 10, &amp;c.</item>
+               <item>Kneuet sir Henrie knight deceseth, 974, b 60.</item>
+               <item>Kneuet Edmund knight, his seruice in Norffolke rebellion 1031, b 30.</item>
+               <item>Knolles knight sent with an armie into France, 405, a 20. Borne in Cheshire, his counsell not
+                  followed, 405, b 60. The feare that the enimies had of him, 406, b 50. His seueritie, 445, b 10.
+                  Deceaseth, remembrances of him, 533, b 40</item>
+               <item>Knolles Francis knight sent ouer to view the state of Newhauen, 1202, b 30. His foure sonnes in a
+                  triumphant shew, 1319, b 60. ¶ Sée Auxerre, and Iusts triumphant. </item>
+            </list>
+         </div>
+         <div n="L" type="part">
+            <head>L.</head>
+            <list>              
+               <item>Lacie Hugh, and of king Henrie the seconds gift vnto him, 82, b 30. Slaine in Ireland, 109 b 60.
+                  His puissance and contempt, his diligence to inlarge his possessions in Ireland, 110, a 10</item>
+               <item>Lacie Robert constable of Chester hangeth two for spite, 133 b 40</item>
+               <item>Lacie Roger a Norman, 17, a 60</item>
+               <item>Lacie Walter in armes against the rebels, 11, a 50</item>
+               <item>Lambe esquier, a good common wealths man, deceaseth, his acts and déeds full of charitie: note,
+                  1311, a 60, b 10, &amp;c: 1312, his epitaph, 1313, a 40</item>
+               <item>Lambert earle of Lens, 11, b 10</item>
+               <item>Lanfranke an Italian the thrée and thirtith archbishop of Canturburie, 9, a 20. His authoritie
+                  great among all the lords of England, 16, a 30. His counsell to William Rufus to winne the nobles
+                  fauor, 16, a 10. Diligent care for the safetie of William Rufus, 17, b 20. In fauor with pope
+                  Alexander, 9, a 40. Assisteth duke William in armes against the rebelles, 9, b 50. Calleth a councell
+                  of the clergie, 11, b 60. Praised for holding with the moonks, 18, b 10. Enuied for his prosperities
+                  sake, 17, a 10, 20. His death, 18 a 40, with a description of certeine his qualities, and diuerse of
+                  his acts and déeds, 18 40, a 50</item>
+               <item>Leigh knight. ¶Sée Iusts triumphant. </item>
+                <item>Leolin prince of Wales summoned to come and doo his homage, 278, a 10. And the Welsh rebels
+                  accurssed, 281, a 20. His wife taken from him, he beginneth to make wars, maketh sure for peace, 278,
+                  a 50, 60. Restored to hir husband, 279, b 10. He sueth for peace, 278, b 10. Beginneth new warres,
+                  279, b 60. Inuadeth Edward the firsts fréends, 281, b 10. Discomfited, 205, a 30. Inuadeth the
+                  English borders, 213, b 60. His courage, 214, a 10. Spoileth the marches of England, 217, a 20. Made
+                  cuckold and how he reuenged it, 211, b 60. Wasteth and spoileth all the marches betwixt Wales and
+                  Shrewesburie, 218, a 30. Deceaseth, 224. Slaine, his head presented to Edward the first, 281, b 40,
+                  60</item>
+               <item>Lewin a Welshman hanged: note his treacherie, 299, b 60, 300, a 10, &amp;c,</item>
+               <item>Lewis the French king inclineth to peace with Henrie the third, 201 b 10. Deceaseth 208, b 60,
+                  209, a 10. His sons intituled to the kingdome of England, 201, b 20. Sendeth to his father for aid,
+                  200, b 60. An armie prepard in France to succour him, 201, a 10 His faire, 200, b 10. Mainteineth his
+                  title pretended to the crowne of England, 191, a 50 ¶ Sée French king. </item>
+               <item>Lewis le grosse, 34, b 60</item>
+                <item>Longland doctor misliketh of Henrie the eights marriage with his brothers wife, 906, b 20</item>
+               <item>Lou Hugh how he became earle of Chester. 20, a 10, His death and what issue he had, 20, a 40</item>
+                <item>Louell William held the castell of Carie, 48, b 60. Lord, his rebellion, he escapeth, 764, a 60 b
+                  30. Arriueth in Flanders, continueth conspiror against Henrie the seuenth. 766, a 20. Knight, sent
+                  ouer to Calis with a power, 831, b 40, 50</item>
+               <item>Lucie Richard lord chiefe iustice of England deceaseth, 103, a 50</item>
+               <item>Lumleie lord founder of surgerie lecture in London: note, 1349, a 20</item>
+             </list>
+         </div>
+         <div n="M" type="part">
+            <head>M.</head>
+            <list>
+                 <item>Malcolme king of Scots destroieth manie places in the north parts, 10, a 60. </item>
+                <item>Manners knight lord Roos created earle of Rutland, 892, a 50</item>
+               <item>Manners Thomas knight his militarie seruice in Scotland, 1216, b 40, &amp;c. ¶ Sée Erle, and
+                  Rutland. </item>
+               <item>Manwood lord chéefe baron of the excheker a good commonwelths man: note his déeds, 1377,
+                  1378</item>
+               <item>Mallet William shiriffe of Yorke and his familie taken prisoners and put to ransome, 7, a
+                  20</item>
+               <item>Marchades a valiant capteine, 154, b 30. 155, b 40. A good seruitor in warres, 158, b 30</item>
+               <item>Marcher earle of Mercia flieth into Scotland, 6, a 30. Imprisoned by William Rufus, 16, a 30.
+                  Reconciled vnto king William, 9, b 40. Withdraweth from the battell against duke William, 1, a 30.
+                  Flieth into Elie for defense against duke William, 10, a 40</item>
+               <item>Margaret Dowglasse prisoner in the Tower, 940, b 50. Pardoned, released, 945, a 10</item>
+               <item>Margaret the wife of K. Henrie whie not crowned, 76, b 60</item>
+               <item>Margaret sister to earle Hugh of Chester, married to Iohn Bohune, 20, a 40</item>
+               <item>Margaret and Christine, the sisters of Edgar Etheling, 6, a 30</item>
+               <item>Margaret the daughter of king William of Scotland maried to earle Conan, 7, b 30</item>
+               <item>Margaret daughter to the quéene of Scots and of the earle Angus borne, 838 a 10</item>
+               <item>Margaret daughter vnto the French king affianced vnto Henrie the kings sonne of seuen yeres old,
+                  68, a 50. Crowned quéene, 82, b 60</item>
+               <item>Margaret duchesse of Salisburie beheaded, 703, b 10</item>
+               <item>Margaret sister to Edward the fourth, sent ouer to the duke of Burgogne: note, 669, b 30,
+                  &amp;c.</item>
+               <item>Margaret countesse of Leneux sent to the Towre, 1208, b 20, Deliuered out of the Towre, 1209, b
+                  60</item>
+               <item>Margaret duchesse of Burgogne, sister to Edward the fourth, malicious to Lancaster house, 765, b
+                  10. Hir malice against the line of Lancaster, 776, a 10. Hir new counterfet of Richard
+                  Plantagegenet, 775, a 60</item>
+               <item>Margraue of Baden and his wife great with child come to London, 1208, b 40. She is deliuered of a
+                  child, b 50. The quéene giueth the name, 60. ¶Sée Marquesse. </item>
+               <item>Marie the eldest daughter vnto Henrie the eight borne, 838, a 30. Remooueth to Fremingham castell,
+                  1085, b 40. To Keninghall in Northfolke, hir letters to the councell, with hir chalenge vnto the
+                  crowne by right of succession, 1084, b 30, 40. With their answer, 1085, a 40. Assembleth hir powers
+                  against the duke of Northumberland, 1086, b 40, 50, &amp;c. Wind and wether helpe hir 1087, a 20.
+                  Proclamed quéene by the nobilitie, for feare of afterclaps, 1087, a 50. ¶ Sée Quéene. </item>
+               <item>Marie quéene of Scots. ¶Sée Quéene of Scots. </item>
+               <item>Marie countesse of Perch, Henrie the first his daughter, drowned, 41, b 10</item>
+                <item>Marleswine and Gospatrike nobles of Northumberland, flie into Scotland, 6, a 30</item>               
+               <item>Marquesse of Baden returneth into his owne countrie, 1209, a 30. Ualiant in chiualrie, 833 </item>
+               <item>Martine Sward a valiant capteine of the Almans assistant to the erle of Lincolne against Henrie
+                  the seuenth a péereles warrior, 766, a 60, b 50. Is slaine, 767, a 10</item>
+                <item>Matreuers lord, capteine of Baieux, 560, b 60</item>
+               <item>Maud borne, afterward empresse, 30, a 30. Besieged in Oxford, 55, a 60. She escapeth, b 10.
+                  Flieth by night out of London, 54, a 10. Armie put to flight, 54, a 30. Goeth to Bristow, 51, b 30.
+                  Followeth the victorie, she commeth to London, 53, b 40. Besieged in Arundell castell, 51, b 10.
+                  Landed in England, and what power she brought, 51, a 50. Married to the earle of Aniou, 43, a 50. True
+                  to the crowne of England, 43, a 10. Confesseth hir selfe to bée naught of hir bodie, 63, b 50. Hir
+                  deceasse, 75, a 60</item>
+               <item>Maud duke Williams wife, the daughter of earle Baldwine, earle of Flanders, 15, a 60. Crowned
+                  quéene, 6, a 60. Hir deceasse, 15, a 40</item>
+               <item>Maud daughter and heire to Robert Fitzhammon, Henrie the first his base sonne, 37, a 50</item>
+               <item>Maud the wife of Henrie the first, a professed nun, 29, a 10</item>
+               <item>Maud Henrie the first his daughter affianced to the emperor Henrie, 35, a 10</item>
+               <item>Maud quéene deliuered of a daughter after hir own name, 30, a 30, ¶Sée Quéene. </item>
+               <item>Maximilian king of Romans, prisoned at Bruges by the townesmen, 770, a 40. He and Henrie the seuenth
+                  agrée to plague the Frenchmen, the cause of his malice, he dealeth dishonestlie with the king of
+                  England to his great vexation, breaketh promise with him, 774, a 60, b 20, 30. Incourageth his men
+                  to plaie the men, 822, a 40</item>
+                <item>Melune vicount discouereth the purpose of Lewis and the English barons, his death, 193, b 10</item>
+               <item>Melune besieged by king Henrie the fift, 576, b 60. Yéelded vp to Henrie the fift, 577, b
+                  20</item>
+               <item>Mendoza the Spanish Ambassador. ¶Sée Throckmorton Francis. </item>
+                <item>Meulone a strong towne yéelded to the English, 571, b 60</item>
+                <item>Midleton knight proclameth himselfe duke, 323, a 60</item>
+               <item>Mildmaie knight founder of Emanuell college in Cambridge: note, 1396, a 10</item>
+                <item>Miles Couerdale preacher in the time of Deuoushire rebellion, 1023, b 60</item>
+               <item>Miles, vicar of saint Brides slaine, and the partie executed, 914, b 30</item>
+               <item>Minsterworth knight executed as a traitor, 411, b 10.</item>
+                <item>Molineux constable of Chester castell, 460, b 60. Knight slaine: note, 461, b 10</item>
+               <item>Monsieur Thermes capteine of Calis, his seruice, his determination to spoile king Philips
+                  countries, sicke of the gowt, 1150, a 10, 30, 50</item>
+                <item>Moore knight late vndershiriffe of London, now of Henrie the eight his priuie councell, 841, b 50,
+                  The paines he tooke to appease ill Maie daies riot, 842, a 10, 20. Speaker for the commons, his
+                  oration and behauiour in parlement, 876, a 50, 60. Answereth the oration of Faber in Henrie the
+                  rights behalfe, 895, a 10. Lord chancellor, his oration in the parlement, 910, b 10, &amp;c. An
+                  enimie to protestants, 913, b 60. Deliuered vp the great seale, 928, b 10. Beheaded, a iester and
+                  scoffer at the houre of his deth, 938, b 10, 30. In some sort commended, deuoutlie giuen, in his
+                  kind, 939. a 20, 40.</item>
+               <item>Moris his deuise for conueiance of Thames water, &amp;c. 1348, b 50</item>
+               <item>Morleie lord appealeth the erle of Salisburie, 513, a 50. He is mainprised, b 60. Slaine in battell
+                  against the French, 770, b 50</item>
+                <item>Morton doctor an old English fugitiue, a stirrer vp of rebellion in the north, 1361, b 30. His
+                  secret ambassage from Rome, 1362, a 30. ¶ Sée Bishop Morton, &amp; Archbishop. </item>
+               <item>Mortimer and Audleie banished, 269, b 10</item>
+               <item>Mortimer Hugh against Henrie the second, 66, a 10</item>
+               <item>Mortimer king Henrie the thirds lieutenant in Wales, 255, a 30. His reuenge against the Welshmen,
+                  263, b 50</item>
+               <item>Mortimer lord ofWigmore proclamed traitor, 338, a 30. In what fauour with Edward the seconds wife,
+                  340, a 50</item>
+               <item>Mortimer earle of March proclamed heire apparent to the crowne, 448, a 60, b 10. He ruleth all
+                  things at his pleasure 347, b 60. Enuieth Henrie the fourths aduancement, 511, a 30. His good seruice
+                  in Ireland, 440, a 30. Apprehended in Nottingham castell, 348, b 50. Beareth the blame of euill
+                  counsell, 347, b 20. Attainted, and fiue articles obiected against him, 349, a 40. Committed vnto
+                  prison in the Towre, 349, a 10. Breaketh out of the Towre: note, 334, b 60. Shamefullie executed, 349,
+                  a 60</item>
+               <item>Mortimers restored to the title and possessions of the earledome of March, 381, b 60</item>
+                <item>Mountfort Robert, combattant, 67, a 20</item>
+               <item>Mountgomerie Roger earle of Shrewsburie, his wasting and spoiling, 17, a 50, 60, Reconciled to K.
+                  William Rufus, 17, b 30. Knight passed ouer the sea vnto the French king, his reward 701, a 50,
+                  60</item>
+               <item>Mountioie lord made generall of Tornaie, 837, b 40. His stratagem, 965, b 50</item>
+               <item>Mulbraie Robert earle of Northumberland highlie commended, 13, a 40, 50</item>
+               <item>Murcherdach king of Ireland, 22, a 30. His reuerence to Henrie the first: note, 45, b 30</item>
+             </list>
+         </div>
+         <div n="N" type="part">
+            <head>N</head>
+            <list>
+               <item>Neuill bastard Fauconbridge, 689, a 50. A maister of mischéefe, 60. b 10, &amp;c. Beheaded,
+                  693, a 30</item>
+               <item>Neuill knight executed for rebellion, 953, a 60</item>
+               <item>Newbolt a yeoman of the gard hanged, 812, b 10</item>
+               <item>Nicholson <hi>aliàs</hi> Lambert burned, 946, a 10</item>
+               <item>Nightinghale parson of Crondall in Kent, his blasphemie in the pulpit, punished by God: note, 1128, b 60.1129, a 10</item>
+                <item>Norris generall with thrée and twentie ensignes, 1350, b 20 Taketh the sconse of Lite, 1431, b 60.
+                  Other exploits by him doone against the enimie, 1432, a 10, &amp;c. b 30</item>
+             </list>
+         </div>
+         <div n="O" type="part">
+            <head>O.</head>
+            <list>
+               <item>Odo bishop of Baieux, gouernor of England in duke Williams absence, 5, a 10 In armes against the
+                  earle of Cambridge, 11, a 50. Conspireth against his nephue William Rufus, 17, a 20. Erle of Kent,
+                  13, a 60.18, a 60. In arms against king Williams freends in Kent, 17, a 30. Is sent into
+                  Northumberland to reuenge Walkers death, 12, b 20. Glad to submit himselfe for lacke of vittels, 18, a 10 Lost his liuings in
+                  England and returneth into Normandie, 18, a 10</item>
+                <item>Oldcastell knight accused of heresie, scapeeth out of the Tower, 544, a 20, 50. Shifteth from
+                  place to place, he is laid in wait for to be taken, 560, a 60. Taken and wounded, executed, 561, b
+                  20, 40</item>
+               <item>Oneile the great of Ireland made knight, 808, a 50</item>
+                 <item>Osmond bishop of Salisburie, made the seruice after Salisburie vse, 15, b 50</item>
+                <item>Otho the emperor commeth ouer into England, 170, b 60 ¶ Sée Odo. </item>
+               <item>Otuell an earls sonne, tutor to K. Henrie the first children 20, a 40</item>
+               <item>Owen prince of Wales slaine, 39 b 10</item>
+             </list>
+         </div>
+         <div n="P" type="part">
+            <head>P</head>
+            <list rend="interpol">
+               <item>Paget lord. ¶Sée Throckmorton Francis, and Erle Persie of Northumberland. </item>
+                <item>Palmer knight beheaded, his words at his death, 1090, a 50 60</item>
+                <item>Pandulph the popes legat, a practiser of much mischiefe against king Iohn, 175, a 10, b 40.177, a
+                  10. Made bishop of Norwich, 202, a 60</item>
+                <item>Parker afterwards archbishop of Canturburie, preacheth to the rebels of Northfolk, 1030 b 30, 40,
+                  50. They threaten him, he conueieth himselfe from among them, 1032, a 10 ¶Sée Archbishops of
+                  Canturburie. </item>
+                <item>Pateshull a frier Augustine &amp; a Wickleuist, forsaketh his profession, preacheth openlie
+                  against his order, publisheth a libell against his brotherhood, his fauourers, 455, a 60, b 10.</item>
+               <item>Patrike an Augustine frier, seditious, and an enimie vnto Lancaster house, 787, a 20</item>
+               <item>Panier a contemner of the gospell and his shamefull end: note, 935, a 60</item>
+               <item>Paule abbat of S. Albons commended, 18, a 60</item>
+               <item>Paulet sir Hugh knight his answer vnto the constable of France, at the siege of Newhauen, 1203, b
+                  10</item>
+               <item>Paulet William treasuror deceaseth, his ancient &amp; honorable seruice, blessed in his
+                  children, 1228, a 30</item>
+               <item>Peers Alice is banished the realme: note, 418, b 50. ¶Sée Perers. </item>
+               <item>Péers Gaueston earle of Cornwall, 318, b 40. Edward the seconds lewd companion, 318, 50. Married,
+                  318, b 40. Accursed, 319, b 60. Hated of the noble men, and whie, 319, b 10. Banished the realme, b
+                  60. The king his fauour towards him, made deputie of Ireland, placed in Banburgh castell, banished
+                  into Flanders, 320, a 10, 40, b 60. His sawcie abusing of the nobles, they assalt and take him, hée is
+                  brought vnto Warwike and beheaded, the king displeased at his death, 321, a 20, &amp;c.</item>
+               <item>Penbroke coniuror. ¶ Sée Sorcerer. </item>
+               <item>Pendleton doctor preaching at Paules crosse hath a gun shot at him, 1117, b 50</item>
+               <item>Penker doctor lost his voice in his sermon, &amp;c: note, 725, b 40</item>
+                <item>Perers Alice Edward the third his concubine: note, 410, b 20 Banished the realme, 418, b 50</item>
+               <item>Perkin Warbecke was a long time taken for the yoonger of the two princes whome Richard the third
+                  murthered, 734, b 10. The counterfet duke of Yorke, his redie wit to learne all that made for his
+                  preferment vnto honour, hée ariueth in Ireland, saileth into France </item>
+                <item>Perot sir Thomas knight ¶Sée Iusts triumphant. </item>
+                <item>Peters William knight deceaseth, his charitie, 1227, b 50</item>
+               <item>Peuerell William disherited, 65 b 40</item>
+               <item>Philip the hardie and whie so surnamed, 401, b 60.</item>
+               <item>Philip of Austrich, afterwards K. of Castile or Spaine, landeth in west parts of England, 792, b
+                  40. His honorable interteinment, his bow inuiolablie kept, his deth and description, 793, a 10, 50,
+                  60</item>
+               <item>Philip the French king bribed to procure peace betwéene William Rufus and Robert. 21, b 10. Setteth
+                  Robert the sonne against his father William, duke of Normandie, 12, a 30. His iest at duke William
+                  lieng sicke, 14, b 20. His death, 34, b 60, 205, a 60. ¶ Sée French king. </item>
+               <item>Philip king Richard the firsts base sonne, slue the vicount of Limoges. 160, b 60</item>
+               <item>Philip quéene of England: ¶ Sée Quéene. </item>
+               <item>Philpot a worthie citizen of London and alderman, 419, b 60. Discloseth treasons, 428 a 60</item>
+               <item>Physician Lewes sheweth to quéene Elizabeth the whole conceit and deuise of vniting the house of
+                  Lancaster and Yorke in one, 741, b 50</item>
+                <item>Poinings knight lieutenant of Turnaie. 825. a 10. Discharged of keeping it, 837. b 40 A valiant
+                  captaine sent into Flanders, 772. a 60. Sent into. Ireland with an armie, his valiantnes and successe,
+                  779. a 60. b 10. &amp;c. His decease 969, b. 20.</item>
+               <item>Pope Adrian, 274. a 40. An Englishman borne. 66. a 50 His election to the popedome wondered and
+                  whie, he commeth to Rome, 871. b 30.50. His creation, corruption of the cardinals in his election
+                  corrupted with manie vices, 767. a 40, 50. b 21. His pride: note, 69. a 40. His grant to make Iohn
+                  king of Ireland, 101. a 30. Maketh profit of his great pardon or heauenlie grace, 788. a 60. Letters
+                  for the reliefe of the Holie land, 104. b 50. Fatherlie words to archbishop Lanfranke: note 9. a 50.
+                  Depriueth bishops and restoreth them, 9 a 40. Heareth the contention for the primasie betweene the
+                  archbishops, 9. a 30. Sent commissioners into England, 8. b 60. He and the emperor Frederik at
+                  debate, 75. b 10. His answer to Beckets complaint, 73. a 30.</item>
+               <item>Pope Boniface prohibiteth Edward the first further to vex the Scots, 309. b 30.</item>
+               <item>Pope Calixius held a councell at Reimes, and consecrateth the archbishop of Canturburie with his
+                  owne hands, 40 a 50. A sutor for archbishop Thurstane 40. b 40. His cursse against both archbishops
+                  of Canturburie and Yorke. 42. a 10.</item>
+               <item>Pope Calestine a friend to archbishop Geffreie of Yorke, 130. b 20. Maketh an archbishop of
+                  Canturburie legat of all England, 147, b 50.</item>
+               <item>Pope Clements reformation in England, 315. b 40. And what summes of monie are had of the archbishop
+                  of Yorke: note 315. a 30. Procureth a peace for one yeare betwixt the two kings of England and France,
+                  379. b 40. Sent two cardinals to accord the two kings of England and France, 377. b 50. Letters in
+                  fauor of the bishop of Elie, and how he defendeth his chapleins, 132. a 60. Sendeth Henrie the eight a
+                  golden rose, 883. a 60. Pretended a title to the realme of Sicill, 124. b 60. Requireth Henrie the
+                  eight personallie to appeare at a generall councell, 930. a 10. Taken prisoner by the emperors armie.
+                  1365. a 30. Deceseth, more infortunat than fortunat, 935. b 10. His death preiudiciall, 131. b
+                  60</item>
+               <item>Pope Eugenie sendeth a legat to treat a peace betweene the two kings of England and France, 607. a
+                  50</item>
+               <item>Pope Gelasius the second his death. 40. a 10</item>
+               <item>Pope Gregorie sendeth the bishop of Rauenne to treat a peace betwixt England and France, 408. b 50. Messengers sent to him about
+                  reseruations of benefices, b 60.409 &amp;c. Denied to be true pope: note, 225. a 60. Sendeth
+                  cardinall Otho into England, 221. b 30. His meanes to mooue the people to a iorneie against the
+                  Saracens, 209. b 40. Disgraced by the cardinall of Burgis, 514. b 60 His plaine song, whereabouts was
+                  great flie, 13. b 30. His bull against the hearing of a married priests masse, 11. b 60 Deposed by king
+                  Henrie the seuenth, 1364. b 10. His faculties granted to Parsons and Campian for England, 1362, b 60.
+                  Parries letters to him, &amp; wherto they tended, 1389. a 50. A lewd sermon and full of
+                  papisticall adulation made at his funerals. 1397. b 40. &amp;c. 1398. &amp;c. vnto 1400.
+                  Deceaseth, 1397. a 20. His new kalendar touched, 30.40. &amp;c.</item>
+               <item>Pope Honorius, his legat a bawdie knaue sent into England about reformation, 42. b 40. His legat
+                  to king Henrie the third, 208, a 10. Mainteiner of king Iohns cause, 193. b 50</item>
+               <item>Pope Hildebrand the first that made warre against the emperor, 1364. a 40</item>
+               <item>Pope Innocent summoneth a generall councell, 236. b 20 His request for maintenance of the warres
+                  against the Turks, 164. a 20. Offereth to king Henrie the third the kingdome of Sicill, 250. b 20. And
+                  hath England tributarie, 177. b 20. Would not confirme archbishop Reignolds of Canturburies
+                  election, and whie, 169. a 60. His answere to the English ambassadors, 187. a 60. b 10. His licence to
+                  king Richard the first to gather riches, 120. a 60. Commandeth that the church of Lameth should be
+                  raced, 154 a 30. His councell held at Cleremont, 44. a 50. He findeth fauor at king Henrie the first
+                  his hands, and is thankfull, 44. a 50. Sendeth cardinals about a treatie of peace, 391. a 30. Aided
+                  with monie by king Henrie the third against the emperor, 224. b 30. Deceaseth, 193. b 50. 274. a
+                  30</item>
+               <item>Pope Iulies election, a description of his qualities, and how he came to the popedome, 811, b 30.
+                  &amp;c. Sendeth king Henrie the eight a cap of maintenance, &amp;c. Compared to Anteus, his
+                  purposes and death, a malcontent, 830. b 10. &amp;c. Intituleth king Henrie the eight
+                     <hi>Christianissimo</hi>, his daughters request, a description of his properties, 831. a
+                  20.50.60. Gaue cardinall Pooles authoritie apostolike, 1123. b 10. Dieth, a porkish pope, his
+                  monstrous blasphemie against God about a pecocke, 1128. a 10. &amp;c, 50.</item>
+               <item>Pope Leo the tenth his creation, 831. b 60. His coronation, a poore prisoner on the same daie
+                  twelue moneth of his election and inthronization 832. a 10. 30. He soliciteth all the princes of
+                  christendome against the Turke, 846. a 10. Receiueth two elephants for a present: note, 837. b 10.
+                  His craftie feare, 845. b 30. His decease supposed by poison, the maner and order of his death. 871. a
+                  40 &amp;c</item>
+               <item>Pope Martine legateth the bishop of Winchester &amp; vnlegateth him againe, 602. a 60. b
+                  60</item>
+               <item>Pope Othobone named Adrian the fift, 274. a 40</item>
+               <item>Pope Paschall his bulles vnto Anselme of Canturburie, 27. b 60. Grieued bicause his authoritie is
+                  not regarded in England, 37. b 20. Courteouslie receiueth the English <pb n="1520"/> ambassadors, 31.
+                  b 20. Authoriseth Anselm to order things to his owne liking, 34. a 10. His stout words to bishop
+                     War<gap extent="1" unit="letter">
+                     <desc>illegible</desc>
+                  </gap>wast touching the inuestiture of churches, 31. b 50. Hath the determining of the strife about
+                  bishops inuesting and consecrating, 31. b 10. Writeth most courteouslie to king Henrie the first in
+                  Anselms behalfe, 32. a 10 Sicke at Beneuento, dieth, 40. a 10</item>
+               <item>Pope Paule a Romane borne created, 935, b 60</item>
+               <item>Pope Pius, an ambassage to him out of England, certeine notes concerning him. 794. b 50.60. His
+                  bull against queen Elisabeth, the effect thereof, 1359, a 60. The practises of traitors to execute it,
+                  b 10.20 Harts confession of the interpretation thereof, 1363. a 10. His bull seditious hanged on the
+                  bishop of Londons gate, 1221. a 20 &amp;c. A tresonable action, 1366. b 20</item>
+               <item>Pope Sixtus Quintus successor to Gregorie the thirteenth, excommunicateth princes, and is by them
+                  defied, 1401. a 10</item>
+               <item>Pope Urban in mislike with king William Rufus, and whi<gap extent="1" unit="letter">
+                     <desc>illegible</desc>
+                  </gap>: note, 24. b 30. His legat for the crowning of erle Iohn king of Ireland, 110. b 20. Whie he
+                  could not redresse the English enormities, 18. b 40, Calleth a councell at Cleremont and whie, 22. a
+                  40. Giueth faculties to a frier Carmelite, 455. a 60. His beneficiall pardons to such as would
+                  fight against Clement antipape: note 441. a 60. b 60.442. a 40, Sendeth to Richard the second for aid
+                  against an antipape, 421. a 50</item>
+               <item>Pope Wibteth aduanced by the emperor against pope Urban, 24. b 20</item>
+                </list>
+         </div>
+         <div n="Q" type="part">
+            <head>Q.</head>
+           <list rend="interpol">      
+              <item>Queene Adelicia second wife to Henrie the first, descended of the dukes of Loraine, barren, 41. b
+                 60</item>
+              <item>Queene Aldgitha sent to Chester, and whose sister she was, 1. a 30</item>
+              <item>Queene Annes coronation proclamed, &amp; the same celebrated with great pompe, 930. a 40.
+                 &amp;c. 931.932.933.934. With child. 929. b 40. Brought a bed of queene Elisabeth, 934. b 20.
+                 Committed to the tower, hir imprecation at the towre gate, she is arreigned, hir words at hir death,
+                 940. a 10. 20.60</item>
+              <item>Queene Anne wife to king Richard the third and daughter to Richard earle of Warwike, 733, b
+                 60</item>
+              <item>Queene Anne wife to king Richard the second deceaseth, 481, a 20</item>
+              <item>Queene Berengaria crowned, the wife of Richard the first, 128. a 40</item>
+              <item>Queene Elenor Richard the firsts mother returneth home into England, 127. a 50</item>
+              <item>Queene Elenor king Iohns mother an enimie to hir nephue Arthur, 158. a 60. Brought a bed of a
+                 daughter, 69. a 40. Sendeth for speedie succour to king Iohn, 164. b 10. Studieth to mainteine the
+                 strife betwixt hir sonnes, 86. b 60.87, a 10. Committed to close prison, 92 b 50. Set at libertie
+                 after long imprisonment, 117. a 50. Deceaseth, 167. b 60</item>
+              <item>Queene Elenor the wife of Henrie the third, 219. Passeth into Normandie, 158, b 10. Forsaketh the
+                 world, and becommeth a nun, 283. b 50. Deceaseth, hir praise, 285. b 30. Hir buriall, 288. b
+                 20</item>
+              <item>Queene Elisabeth crowned and annointed queene, 768. a 60. Deliuered of hir first sonne, 769. b 10.
+                 Forward and redie to further the vniting of the two houses of Lancaster and Yorke, 742. a 1020.30.
+                 Taketh sanctuarie, 715. b 60. Hir desolut estate, 716. a 30</item>
+              <item>Queene Elisabeth, late wife to Edward the fourth, 615. b. 30 Adiudged to forfeit all hir lands for
+                 promise breaking. 765 b 40. She liueth a miserable and wretched life, she erected a college in
+                 Cambridge, b 50.60. Inconstant, she allureth hir sonne the marquesse Dorsset home out of France, 750
+                 b 20.30. The cardinall thought the fittest man to deale with hir for the surrendring of hir sonne,
+                 reasons whie it was thought meet to fetch him out of sanctuarie, the duke of Buckinghams words vnto
+                 hir, 717. a 40. b 10.40. Hir answers to the persuaders, she is loth to part with hir sonne, hir
+                 mistrust of the lord protector, she faleth to a resolution touching hir sonnes deliuerie, 719. a 60. b
+                 10.30</item>
+              <item>Queene Elisabeth Greie, wife to Edward the fourth, 668. a 40. Hir father and brother beheaded:
+                 note, 673. a 30. Deliuered of a prince, the same christened like a poore mans child, 677. b 10</item>
+              <item>Queene Elisabeth surnamed the good deceaseth, 791. a 10</item>
+              <item>Queene Elisabeth of Castile dieth with issue male, 792. b 20</item>
+              <item>Queen Elisabeth second daughter to Henrie the eight, borne and christened, the statelie order
+                 thereof: note, 934. b 20. Proclamed queene, the beginning of hir reigne, hir remooue from Hatfield,
+                 the flourishing estate of this land vnder hir reigne, 1170, b 10.20.40.50.  </item>
+              <item>Queene Iane proclamed with sound of trumpet queene of England, 1084. b 10. ¶See Iane. </item>
+              <item>Queene Iane deceseth, 544 b 40</item>
+              <item>Queene Ione late wife to king Henrie the fourth arrested by the duke of Bedford and committed.
+                 568. b 10</item>
+              <item>Queene Isabell the wife of king Edward the second, 318. b 60 319. a 10</item>
+              <item>Queene Isabell the second wife of king Iohn. 162. a 30</item>
+              <item>Queene Isabell wife vnto king Richard the second transported into France, 519. a 60. And conueied
+                 to Paris, hir second marriage, b 10.20</item>
+              <item>Queene Isabell married vnto Hugh Brune erle of March 202. a 60</item>
+         <item>Queene Katharine, hir coronation, the wife of king Henrie the fift, 578. b 60. Solemnitie
+            thereat, 579. a 10. Saileth into France. 581 b. 60.</item>
+         <item>Queene Katharines coronation, traine, and sumptuousnesse, 801. b. 20. &amp;c. Deliuered of
+            hir first sonne named Henrie, 807. a 20. Chooseth lawiers in hir behalfe to iustifie hir marriage, hir
+            lamentable speech in presence of the court, she auoucheth the coniunction good, she departeth out of the
+            court &amp; is called againe, 907. a 10. 50. Procureth a cursse against king Henrie the eight and his
+            realme from the pope, 936, a 60. Hir words vpon the motion of a diuorse, standeth stiffe in the lawfulnesse
+            of hir mariage, 927. a 10. &amp;c. b. 60. Accuseth cardinall woolseie, hath communication with the
+            cardinall in hir priuie chamber, refuseth to make sudden answer to a diuorce, 908. a 30. b 10. 20. Is
+            diuorced from king Henrie the eight, 929. b 60, 930, a.10. Princesse Dowager, 929. b 30. Deceaseth, 939. b.
+            20. </item>
+         <item>Queene Katharine, hir paramors detected of incontinent liuing, 954. b. 30. 40. &amp;c. She is
+         atteinted by parlement, sent to the Tower and beheaded, 955. 30.40. &amp;c. 50. </item>
+              <item>Quene Marie commeth vnto London, 1088. b 50. </item>
+              <item>Queene Marie king Henrie the rights sister crowned queene of France: note, with what pompe, 833. a
+                 60. b 10. &amp;c. <pb n="1523"/> Dowager of France. ¶ Sée Duke of Suffolke. </item>
+              <item>Quéene Marie Dowager of Scotland deceaseth, 1192, a 10</item>
+              <item>Quéene Margaret the wife of Henrie the sonne of Henrie the second, 82, b 60. Brought a bed, 101, b
+                 20</item>
+              <item>Quéene Margaret wife to Edward the first, deliuered of Thomas Burtherton hir first sonne, 309, a
+                 50</item>
+              <item>Quéene Margaret Henrie the sixt his wife lieth at Couentrie, she is a better capteine than hir
+                 husband the king, 654, a 50. Described, she taketh vpon hir the gouernement, &amp; dischargeth
+                 the duke of Glocester, 626, b 40, 60 With hir sonne goeth into Wales, 665, a 60. She returneth out of
+                 France, 666, a 10 Fortunat in hir two battels: note, 660, b 50. Sendeth to the maior of London for
+                 vittels, some sent by the maior &amp; staid by the commons, she returneth northward, 661, a 10,
+                 20, &amp;c. Hir flight, she is robbed, 655, a 10. Commeth to Ambois to sée the earle of Warwike,
+                 674, b 50. She with hir son prince Edward land with a power out of France, 685, b 20, She is comforted
+                 by the nobles of England, b 60. The feare which she had for hir sonne, 686, a 10. Taken prisoner,
+                 688, b 60</item>
+              <item>Quéene Maud deliuered of a sonne called William, 31, a 30 Departeth this life, 39, b 10</item>
+              <item>Quéene Maud wife to king Stephan sueth for the release of hir husband to the emperor, 53, b
+                 50</item>
+              <item>Quéene Philip wife to king Edward the third, 348, b 20 Deliuered of Iohn of Gaunt hir fourth sonne,
+                 357, a 60 Brought a bed of Edmund Langleie afterwards duke of Yorke, 363, a 30. Deceaseth, hir thrée
+                 petitions of the king, hir praise, 404, a 20</item>
+            </list>
+         </div>
+         <div n="R" type="part">
+            <head>R.</head>
+            <list>
+               <item>Radington knight lord warden of London, 478, b 10</item>
+               <item>Rafe the kings collector or proctor his extortions or pollings of the people, 24, a 20</item>
+               <item>Rafe bishop of Durham committed to the Tower &amp; whie, 28, b 30. Brake out of prison, and
+                  his persuasion to duke Robert, 29, b 40</item>
+               <item>Rafe Wilford. ¶Sée Wilford, </item>
+               <item>Raier founder of S. Bartholomews by Smithfield, 31, a 30</item>
+               <item>Raleigh knight his voiage for the discouerie of that land which lieth betwéene Norimbega and
+                  Florida, 1369, a 20. His preparation for a second voiage, 40. He sailed as far as Cape de Uerde, and
+                  arriueth in safetie at Plimmouth, 60. His chargeable voiage to Uirginia, 1401, b 40 &amp;c. An
+                  English colonie established there, 1402, a 50. His resolution vpon an other voiage for the supplie
+                  of those that were left there, 50</item>
+               <item>Ramelius ambassador out of Denmarke honorablie interteined both in court and elsewhere: note,
+                  1561, b 20</item>
+                <item>Ranulfe bishop of Chichester onlie held with Anselme against the king: note, 26, a 20</item>
+               <item>Ranulfe de Meschines how he came to be earle of Chester, 20, a 10</item>
+               <item>Ratcliffe knight a fauorer and coadiutor of Richard the third, 725, a 60</item>
+                <item>Rées king of Wales slaine in battell, 20, b 50</item>
+               <item>Rées ap Meridoc accused and executed, 288, b 30</item>
+                <item>Remigius bishop of Dorchester depriued of his crosier &amp; ring 9, a 40.</item>
+                <item>Richard the first crowned king of England, 117, a 10. In armes against the French king, 146, a 60.
+                  His bastard sonne Philips reuenge: note, 160, b 60. His practises to get monie, 143, b 60. 144, a 10,
+                  20 Marieth the ladie Berengaria, 128, a 40. His letter to the states of England for the deposing of
+                  the bishop of Elie, 132, a 30. </item>
+               <item>Richard the second borne, 397, b 60. Counterfeited: note, 515, a 50. Created prince of Wales, 411,
+                  a 10. Prince of Chester, 492, b 40. Beginneth his reigne, the Londoners commend themselues to his
+                  fauour before the death of king Edward, 415, a 40, b 40. The solemne maner of his coronation: note,
+                  416, a 60. &amp;c. Maried, the solemnitie therat, 487 a 10, 50, 60. &amp;c. </item>
+               <item>Richard the third described, the maner of his natiuitie, his qualities, 712, a 60, b 10.
+                  Dispraised, 737, b 60. Beginneth his vsurped reigne, 732, a 20, b 20. He createth seuentéene knights
+                  of the Bath, what péeres and estates were attendant on him at his coronation, the solemne ceremonies
+                  vsed thereat, his wife quéene Anne and hir traine, 733, all. Practiseth the murthering of his nephues,
+                  734, b 20, 30, &amp;c. </item>
+               <item>Richard the second sonne of K. Iohn, 173, a 10</item>
+               <item>Richard the base sonne of king Iohn beheadeth moonke Eustace, 201, a 60</item>
+               <item>Richard Henrie the second his sonne affianced to earle Raimonds daughter. 67, b 20. Prepareth to
+                  resist his father, 94, a 10. Despaireth of good successe, 94, a 10. Submitteth himselfe to his
+                  father. 94, a 10</item>
+               <item>Richard, king Henrie the third his brother maried, 231, b 50 ¶Sée Archbishop of Canturburie. </item>
+                <item>Ridlie doctor persuadeth the people in a sermon at Paules crosse in the title of quéene Iane, 1087,
+                  a 40. He and Latimer examined for their doctrine, 1129, b 60.1130, a 10. Whie he was more
+                  rigorouslie handled than the residue of the bishops, 1089, a 40. His sermon of mercie and charitie
+                  before Edward the sixt how effectuall: note, 1081, b 20</item>
+               <item>Riuers Richard. ¶ See Mellent. </item>
+               <item>Robert generall of the Normans slain by the Northumbers, and whie, 6, b 30</item>
+               <item>Robert rebelleth against his father duke William, and how it came to passe, 12, a 20. Duke of
+                  Normandie, solicited to come into England to claime the crowne, 29, b 20. Arriueth at Portsmouth, his
+                  mild nature, 29, b 60. Commeth into England to visit his brother Henrie the first, 32, a 50.
+                  Proclamed after the deceasse of his father, 16, b 20. Arriueth at Southhampton 17, b 50. </item>
+               <item>Robert earle of Northumberland refuseth to come to king William Rufus, 21, b 30. Inuironeth king
+                  Malcolme, 20, b 60, Taketh sanctuarie, 21, b 60. Prisoner in Windsor castell, <pb n="1526"/> and the
+                  cause of his conspiracie, 22, a 10</item>
+               <item>Robert the base sonne of Henrie the first married, &amp; made earle of Glocester, 37, a 50.
+                  ¶Sée Erle. </item>
+               <item>Robert the onelie sonne &amp; heire of Robert earle of Leicester deceaseth, 1375, b 40</item>
+               <item>Roch knight sent to the Fléet: note, 968, a 40</item>
+               <item>Rodorke king of Ulster vanquished, 100, a 30</item>
+               <item>Roger earle of Hereford conspireth against duke William, 11, a 40</item>
+                 <item>Rookesbie shiriffe of Yorkeshire, his hardie courage to fight, 534, a 40</item>
+                <item>Rosamund the faire, concubine to Henrie the second, where buried, 196, a 30. Hir cofer, hir death
+                  and epitaph, 115, b 50</item>
+               <item>Ros lord reuolteth vnto the Scots, his brother continueth faithfull vnto the king of England, 297,
+                  b 40</item>
+               <item>Ros a noble man of France accused, 251, a 30, &amp;c.</item>
+               <item>Rous knight, a valiant capteine, 421, b 30</item>
+                <item>Rufus William his promises to purchase the peoples fauour, 8, b 4. ¶See William Rufus. </item>
+               <item>Russell knight his sober and discréet vsage in seruice commended, 879, b 50</item>
+               <item>Russell lord deliuerer of the citie of Excester: note, 1022, a 60, b 10. Distrusteth himself and
+                  is vpon departing out of Deuonshire, he marcheth against the rebels towards Excester, 1023, a 20,
+                  &amp;c. 1024, L. priuie seale his letters to the L. protector, 1057, b 20, a 10 He sueth for peace
+                  betwéene the lords, 1058, a 10. ¶Sée Erle of Bedford. </item>
+               <item>Rutland earle lord Edward ambassador into Scotland: note, 1562, a 40</item>
+            </list>
+         </div>    
+         <div n="S" type="chapter">
+            <head>S.</head>
+            <list rend="interpol">
+               <item>Sackuill knight ambassador to the French king, 1224, b 30. His interteinment verie honorable, 40.
+                  The first place of his audience, his liberalitie, 60. His return into England 125, a 10, 20. ¶Sée
+                  Buckehurst. </item>
+               <item>Sadler sir Rafe knight, treasuror of the English armie, 980, b 40. His seruice against the Scots
+                  commended, 988, b 30</item>
+               <item>Salisburie the traitor. ¶Sée Babington. </item>
+                <item>Samuell moonke of saint Albons made bishop of Dublin, 22, a 30</item>
+               <item>Sanders doctor a mainteiner of the popes bull, 1361, b 30. His miserable end, 1365, b 60</item>
+               <item>Sands knight a whip vnto the Frenchmen, 874, b 10</item>
+               <item>Sands doctor his trouble, persecution, and voluntarie banishment, 1145, b 50, &amp;c. 1146,
+                  1147, 1148, 1149</item>
+               <item>Sawtrie a priest burnt for religion, 519, a 30</item>
+               <item>Scales lord his chiualrie, 669, a 20, &amp;c. Slaine most cruellie: note, 654, b 60</item>
+                <item>Sebastian Gabato his voiage, 1083, a 50. His discouerie of an Iland of rich commodities, 785, a
+                  30. Bringeth strange men from the new found Ilands, 789, b 50</item>
+               <item>Segraue lord in armes against the Scots, taken, wounded, and rescued, 311, b 30 &amp;c.</item>
+                <item>Selun prince of Turkes his ambition and tyrannie against his father and affines, he ouerthroweth
+                  the Sophie of Persia, 846, a 10, 20, 30. Deceaseth, and Soliman dooth succéed, 847, b 20. ¶Sée
+                  Saracens. </item>
+                <item>Semor knight sent vnto the Tower, atteinted and beheaded, 996, a 60</item>
+               <item>Sempringham William deceaseth, 113, b 20</item>
+                <item>Sentlow knight sent vnto the Tower, 1152, b 60</item>
+                <item>Serle maior of London in a riot not estéemed or regarded, 204, a 40</item>
+               <item>Serle, one of king Richard the second his chamber, noiseth abrode that king Richard is aliue, he
+                  is apprehended, examined for the duke of Glocesters death, drawne through euerie good towne, executed
+                  at London, 525</item>
+                <item>Shandois lord his false report in the Starchamber against ladie Elisabeth, 1102, a 20. Deceaseth,
+                  1258, a 20</item>
+               <item>Shane Oneale of Ireland discomfited by the English power, 1209, b 30. Mangled and hackt in
+                  péeces, 1210, a 30 50</item>
+               <item>Shaw maior of London a proud man and a fauourer of king Richard the third, 725, b 40</item>
+               <item>Shaw doctor his sermon that lost him his honestie and his life: note, 725, b 40. Commended by the
+                  duke of Buckkingham, 729, b 40. He was taught his lesson yer he came into the pulpit, 727, b 10,
+                  &amp;c. 40</item>
+               <item>Shefféeld lord is lamentablie slaine in the Norfolke rebellion, 1034, b 30. Laid to the rebels
+                  charge, 1046, b 60 1047, a 10</item>
+               <item>Shellie how he was affectioned to Throckmortons treasons, 1372, b 20. An actor in the
+                  conspiracie of the earle of Northumberland, 1407, b 10</item>
+                <item>Shordich knight his words to the pope, and the popes to him, 365, b 40, 50</item>
+                <item>Sidneie sir Henrie knight sent ambassador into France 1195, a 40. The historie of his life and
+                  death, 1548, b 10, &amp;c.</item>
+               <item>Sidneie sir Philip knight dead of a wound, right honourablie reported of beyond and on this side
+                  the seas: note, 1554, a 60, &amp;c.</item>
+               <item>Sidneie ladie, the said knights mother deceaseth, hir godlie end, 1553, b 30</item>
+                <item>Simenell the counterfeit earle of Warwike, 763, a 20. He is honourablie receiued into Ireland, a
+                  60. Proclamed king of England, 766, a 10 </item>
+                <item>Siward duke of Northumberland, 5, a 10</item>
+                <item>Smith Thomas esquire and customer, a good commonwealth man: note, 1539, a 20</item>
+               <item>Smith doctor his recantation. 980, a 10</item>
+               <item>Soldan king of Soria and Egypt his state, by whose election they were chosen, two of them slaine,
+                  and all Soria &amp; Egypt subdued, 846, a 60, b 10, &amp;c.</item>
+               <item>Soliman Ottoman besiegeth and taketh Rhodes, 876, b 20. It is yéelded vp vnto him, his contempt of
+                  christian religion, 877, a 10, 20. Successour after Selims deceasse, 847, b 20.</item>
+               <item>Southwell knight his words in the parlement house touching quéene Maries child yet vnborne, 1124,
+                  a 50</item>
+               <item>Southwell the archbishop of Yorke his manor, 35, b 30</item>
+                <item>Spenser ladie committed vnto ward: note, 527, b 20, 30. </item>
+                <item>Stafford knight taken out of sanctuarie and executed, 764, b 40. </item>
+               <item>Stafford lord slaine by sir Iohn Holland: note 447, a 50. Beheaded, 673, a 40. </item>
+               <item>Staffords slaine by Iack Cade, 634, a 60. </item>
+               <item>Stanhope knight committed to the Towre, 1066, b 60. Hee and others beheaded, 1081, a 60. </item>
+               <item>Stanelie knight, a fauourer of Perkine warbecke, coniectures of his alienated mind from Henrie
+               the seuenth, 778, b 40, 50, 60. He is beheaded, 779, a 10. He and his archers breake the Scots arraie, 828,
+               b 50. </item>
+               <item>Stanelie lord his deuise to auoid suspicion of king Richard the third, and to saue his owne life,
+               754, a 20. Setteth the crowne on the earle of Richmond his head, his bold answer to king Richard his
+               purseuants, 760, a 50, 60. His faithfulnesse, 673, a 10. 674, a 30. </item>
+                <item>Stephan when and by whome hee was crowned king, 46,</item>
+               <item>Stephan earle of Britaine, 7 b 20. ¶Sée Erle. </item>
+               <item>Stephan Gardiner his oration to the councell touching quéene Marie hir mariage, he commendeth the
+                  Spanish king, 1093, a 50, 60. ¶Sée Bishop Gardiner. </item>
+               <item>Stigand archbishop of Canturburie hated, and whie duke William refused to bée crowned at his
+                  hands, 1, b 20. His stout message vnto duke William, 2, b 10. Flieth into Scotland, 8, a 30. His
+                  martiall mind, and vnpatient of forren seruitude, 1, b 50, 2, a 10. Capteine of an armie of
+                  Kentishmen, 2, a 10. Depriued for thrée speciall causes, 8, b 60. Kept in perpetuall prison and
+                  there ended his life, 9, a 20</item>
+               <item>Storie doctor impudent and sawcie, his words in the parlement house, 1180, b 20, 40. An enimie
+                  vnto ladie Elisabeth, 1159, b 60.1160, a 10. Executed for treason, his education and birth, a
+                  persecutor and exquisite tormentor of Gods seruants, apprehended, conueied himselfe ouer seas,
+                  continuing there a persecutor, a commissioner to search for English bookes, intended the ouerthrow of
+                  England, searched the Engglish ships, apprehended by a wile, conueied into England, indicted,
+                  arreigned, executed as a traitor: note, 1225, a 40, &amp;c. </item>
+                <item>Stukelie a defamed person and faithlesse beast: note, 1359, a 50</item>
+               <item>Sturton lord committeth a shamefull murther, hée is hanged, 1133, a 10, 20</item>
+             </list>
+         </div> 
+          <div n="T" type="part">
+            <head>T.</head>
+            <list>
+               <item>Talbot William defendeth Hereford in Wales, 48. b 60</item>
+               <item>Talbot knight with his six score archers, 770, b 30.</item>
+               <item>Talbot lord saileth into France 608. b 60.609. a 10. A valiant capteine. 597. b 10. Ransomed by
+                  exchange, 606, b 30. Created erle of Shrewesburie, 623. b 10. ¶ See Erle. </item>
+                <item>Tame lord of Tame his gentle hart to the ladie Elisabeth, 1156, a 10.20.50</item>
+               <item>Thomas archbishop of Yorke, whie depriued, 9. a 60. A canon of Bayeux the fiue and twentith archbishop of Yorke, 9. a 20. Depriued of his crosier and ring,
+                  ibid.</item>
+                <item>Throckmorton sir Nicholas knight arriueth at Newhauen, 1199. b 40. Arreigned of high treason, the
+                  whole manner thereof, with his purgations: note, 1104. b 10. &amp;c, 1105. to 1117. Eight of his
+                  iurie appeare in the starchamber, hard iudgement against them, 1121. b 40. Extreamelie dealt
+                  withall, b 60. 1122. a 10. Fiue of his iurie released, 1126. b 40</item>
+               <item>Throckmorton Francis esquire, some great secrets betweene the Scotish queene and him, 1373, a 10.
+                  What mooued him to denie his confessions at his arreignement, 30. His letter of submission to queene
+                  Elisabeth, 60. With a declaration of all his practises treasonable against hir, b 50.60.1374. a 10,
+                  &amp;c. Surprised and put to a narrow shift, 1372. a 40. What mind he caried towards queene
+                  Elisabeth, b 60. His treasons communicable to the erle of Northumberland, 1406. all. Arreigned and
+                  condemned of high treason, the whole declaration thereof, with the manner of proceeding against him.
+                  1370. a 40.50.60. &amp;c. 1371. &amp;c, to 1375</item>
+               <item>Throckmorton Iohn of Norwich a conspirator, executed as a traitor, 1222. a 10. ¶See Traitors. </item>
+               <item>Thurstan abbat of Glastenburie, and the moonk<gap extent="1" unit="letter">
+                     <desc>illegible</desc>
+                  </gap> of that house at strife, and whie, a lewd man: note, 13. b 30. Deposed, returneth into
+                  Normandie, 13. b 40. Bu<gap extent="1" unit="letter">
+                     <desc>illegible</desc>
+                  </gap>eth his plac<gap extent="1" unit="letter">
+                     <desc>illegible</desc>
+                  </gap> againe for fiue hundred pounds, 13. b 60. Refuseth to obeie king Henrie the seconds pleasure,
+                  38. b 10</item>
+               <item>Tiberio an Italian, his valiantnesse, 965. b 20</item>
+                 <item>Tiler Wat beginner of the rebellion in Dertford in Kent: note, 429. b 20. &amp;c. His proceedings,
+                  430 &amp;c. A verie craftie fellow, his proud sawcinesse, he is thrust through and slaine, 432.
+                  a 30. b 10.40.</item>
+                <item>Tirrell sir Walter killeth William Rufus with an arrow in hunting, by chance: note, 26. b
+                  30</item>
+               <item>Tirrell knight described, 734. b 60. He receiueth the keies of the Tower, purposeth to destr<gap extent="1" unit="letter">
+                     <desc>illegible</desc>
+                  </gap>ie the two princes, dispatcheth the action, sheweth the whole maner thereof to Richard the
+                  third, the murther confessed, he is beheaded for treason, 735. all.</item>
+                 <item>Trenchulle lord William, a man of great power, 67. b 60</item>
+                <item>Tresham knight made lord of saint Iohns of Ierusalem, 1134. b 60</item>
+               <item>Tresham William. ¶ See Iusts triumphant. </item>
+               <item>Tresilian, chiefe iustice descried by his owne man &amp; executed at Tiborne, 463. b 50</item>
+               <item>Turnham Stephan committed to prison. 117. a 20</item>
+             </list>
+         </div>
+         <div n="V" type="part">
+            <head>V.</head>
+            <list>
+                <item>Ueere Henrie constable of Gisors, 110. b 10</item>
+               <item>Ueere brother to the earle of Oxford, slaine, 772. b 10. ¶See erle Ueere of Oxford. </item>
+               <item>Uernon sir Warren baron of Shipbrooke, 20, a 30</item>
+                <item>Umfreuill knight his exploits in Scotland, 536. b 10. Surnamed Mendmarket, 536.</item>
+                <item>Urswike, king Henrie the seauenths chapleine ambassadour into France, 768. a 30.
+                  &amp;c.</item>
+             </list>
+         </div>
+         <div n="W" type="part">
+            <head>W.</head>
+            <list>
+                <item>Walon lord came to serue Henrie the eight 818. b 60</item>
+               <item>Wallop knight his martiall acts in Normandie, 831. b 40</item>
+               <item>Walkhelme bishop of Winchester 9. a 20</item>
+               <item>Walkeher bishop of Durham had the whole rule of Northumberland, 13. a 40. A furtherer of
+                  monasteries to be erected, 11. a 20. Slaine by the Northumbers, &amp; whie: note, 12. b 20</item>
+               <item>Walteof sonne of Siward, 5. a 10 Ualiant, reconciled into the kings fauor, 7. a 50. Earle of
+                  Northumberland, Northhampton and Huntington, 11 b 20. Maried duke Williams neece, and his issue, 11.
+                  b 10. He and Gospatrike depriued, 10, b 50. Beheaded as a rebell though he disclosed the same: note,
+                  11. a 60. Described, and where he was buried, 11. b 10</item>
+               <item>Walter bishop of Hereford submitteth himselfe to duke William, 1, a 50.</item>
+                <item>Warham doctor of lawes, the sum of his speach to the archduke of Burgognie, 777. b 10</item>
+               <item>Warke castell burned by the Scots, 444. b 60</item>
+               <item>Weiland lord cheefe iustice of the kings bench, his storie, 284. b 40</item>
+               <item>Wentworth lord deputie of Calis sendeth to the French to demand parlee, 1135. b 50. Taken
+                  prisoner, 1136. a 50. Arreigned and acquited, 1184. a 50</item>
+               <item>Weston doctor the duke of Suffolks ghostlie father, 1100, b 50. Against the ladie Elisabeth, the
+                  lord maiors iudgement of him, 1101, b 40.50. resigneth the deanrie of Westminster by compulsion, and
+                  is recompensed, 1134, b 40</item>
+               <item>Wharton lord Thomas deceaseth, 1238. a 50</item>
+               <item>Wiat knight his insurrection, his proclamation at Maidstone, he commeth to Rochester, meeteth
+                  with his adherents, causeth much trouble, 1093. b 10.30.40.50.60. Soliciteth certeine gentlemen to
+                  adhere vnto him, an herald of armes sent vnto him, the lord warden desirous to be tempering against
+                  him, 1094. a 10.40, &amp;c. A proclamation that none should keepe in his house anie of his
+                  faction, he is sent to the Tower, hardlie delt with all at the lieutenants hands, the furniture of his
+                  bodie, 1099 a 60. b 10. Marcheth with his power and executeth  eats of armes against the aduerse parts, preuaileth against the lord Cobham, 1095. b 40.50.60.
+                  His requests, 1096. a 20. Marcheth to Detford Strand, suffereth his prisoners to go abrode vpon their
+                  word, commeth to Southworke, his desperat attempt, he and his complices fall to consultation, at his
+                  wits end, 1097, all. He marcheth to Kingstone, commeth vnto the parke corner, and skirmisheth with the
+                  queenes power, marcheth alongst the wall of S. Iames toward London, submitteth himselfe to the
+                  queene, 1098. all. Arreigned, the effect of his indictment, he answereth not directlie to the
+                  question guiltie or vnguiltie, his exhortation to loialtie, altereth his mind touching the mariage,
+                  his answers to diuerse speaking at his arreignment, 1103. all. His confession, and execution, 1104. a
+                  20.60</item>
+               <item>Wicliffe a secular preest his conclusions, the cheefest articles that he preached, 411, b 40,
+                  &amp;c. He and his fellowes mainteined by certeine lords, 412. a 10 His doctrine, 428. b. 50.440.
+                  a 30. Fauoured of the Londoners. 440. b 20. Mainteined by the learned, sentence pronounced against
+                  his books 535. b 50.60. Euill spoken of and his followers reproched, 419, a 20</item>
+                <item>William duke of Normandie, when he began his reigne, 1. a 10. Crownd king on Christmas daie, 1. b
+                  20. Sworne at his coronation, with the sum of his oth, 1. b 30. whie he refused to be crowned at
+                  archbishop Stigands hands, 1. b 20. Tooke an oth and hostages of the nobles and lords of England, 1.
+                  b 10. His conditions and qualities, 15. a 20. His deuise to disburthen himselfe of souldiours wages,
+                  14. a 60. What he beareth to his armes. 15. a 10. His descent, 1. a 10. Uanquisheth the English
+                  power, 1. a 10. And wasteth certeine countries, a 20.30. Seizeth vpon the Englishmens lands, and
+                  renteth them out by the yeare, 8, a 40. His couetous dealing and exactions: note, 8. b 50. Maketh a
+                  lamentable waste of the north countries, 7. b 40.50.60. Hateth the Englishmen more than euer he did
+                  before, 8, a 10. Subdueth certeine rebels that fled to Elie for defense, 10. a 40.50. Glad to deale
+                  with the Danes by promises and faire proffers, 7. b 40.50. Present at a synod, wherein note his malice
+                  against the English, 9. a 10. Saileth ouer sea, and besiegeth Doll castle in Britaine, 11. b 40.
+                  Pitcheth his tents and fighteth against the Danes, and putteth them to flight, 7. a 45. In a
+                  perplexitie and glad to creepe in fauour with the English: note, 10. a 10. His oth and promise, with
+                  his crueltie and abusing of peace, 10. a 20. Goeth with an huge armie against Malcolme king of Scots,
+                  and whie, 10. b 30. His iustice in restoring the right heire, 10. b 50. Taketh awaie from the English their armor, 6. a 40. Subdueth the rebels of Excester 6. b 10.
+                  And Wales, 12. a 20. Goeth ouer into Normandie, leauing guides ouer England, 5. a 10. Forced to
+                  yeeld to the Kentishmens request, 2. b 20. Hateth the English nobilitie euen in the time of peace, 6.
+                  a 20. His three sonnes, their names and places of their birth, 6. a 60. His foure sons, and what he
+                  bequeathed to them, 15. a 60. And fiue daughters, b 10. Returneth into England and waxeth rigorous
+                  against the English 5. a 30. b 10. In possession o<gap extent="1" unit="letter">
+                     <desc>illegible</desc>
+                  </gap> London and his promised couetesie, 1. b 10. What strangers came in with him at the conquest,
+                  their names, 2. b 40. His charter granted to the citie of London, 15. a 60. He is politike,
+                  painefull, and tyrannicall against the English, 6. a 10. Ouerthrowne and wounded in battell by his
+                  son Robert, 12. a 40.50.60 Falleth sicke in Normandie: note, 14. b 20. In despaire of his life by the
+                  Kentishmen, 2. a 40. Departeth this life, in what yeare of his age, 14 b 40 His sepulchre opened, his
+                  stature and epitaph. 1<gap extent="1" unit="letter">
+                     <desc>illegible</desc>
+                  </gap>. b 60.</item>
+               <item>William Rufus when he began his reigne, 16. a 10. Crowned king, and of his munificence 16. a 40.
+                  What means he vsed for to purchase the noble mens fauour. 16 a 10. Giuen to sensuall lust and
+                  couetousnesse, 18. b 10. In armes against the Normans, 17. b 20 Inuadeth Wales but to little effect
+                  23. a 10. Goeth ouer into Normandie, 23. b 20. A bitter enimie to the popes of Rome, 24. b 20,
+                  &amp;c. Renounceth archbishop Anselme for his subiect, 25. a 60. Farmeth archbishopriks,
+                  bishoprikes, and abbeies, 26. a 40. Passeth into Normandie, and whie, 19. a 10. Against his brother
+                  Robert, 21. a 50. Depriueth bishops 21. a 40. His great courtesie to the English to win their
+                  fauours, 17. b 30. In armes against the Welshmen but with little successe, 22. a 20. Suspected of
+                  infidelitie 27. b 20. Falleth sicke at Glocester, 20. a 50. Where buried, his conditions,
+                  proportion and no issue, 26. b 60.27. all.</item>
+               <item>William the sonne of Henrie the first made duke of Normandie. 38. a 30. Drowned, and how he might
+                  haue escaped, 41. b 10.30</item>
+               <item>William king of Scotland alied to the earles of Britaine, 7. b 30</item>
+               <item>William bishop of Durham the kings houshold chapleine in armes against the king, 17. a 60. Founder
+                  of vniuersitie colledge in Oxford, 13. a 60. Besieged at Durham, forced to yeeld and exiled, 18. a 10.
+                  Restored, and dieth for sorrow, and whie, 18. a 30</item>
+               <item>William earle of Ew renounceth Robert, and becommeth king William Rufus man, 22. a 10</item>
+               <item>Willoughbie lord ambassador into Denmarke, his oration in Latine to the king, inuesteth the king
+                  into the order of the g<gap extent="1" unit="letter">
+                     <desc>illegible</desc>
+                  </gap>rter, returneth and arriueth in England, 13 48. a 20, &amp;c.</item>
+               <item>Willoughbie knight found frozen to death in his ship: note, 1083. a 60.</item>
+               <item>Willoughbie capteine honourablie buried, 1428. a 60</item>
+               <item>Winchester, an erls sonne bishop there, 42. a 60. ¶See Bishop. </item>
+               <item>Winter sir William knight, and viceadmerall, saileth towards Sotland, 1187. a 10.</item>
+                <item>Wooduile lord aideth the duke of Britaine without Henrie the seauenths consents, 768. a 40. Slaine,
+                  768. b 40</item>
+          <item>Wolstan bishop of Worcester and others resist the erle of Hereford rebelling, 11, a 50. Refuseth
+                  a place of safegard against the Normans, 17, a 60 b 10. Like to haue béene deposed for his
+                  insufficiencie of learning, 12, a 10. His miracle whereby he kept his bishoprike, 12, a 10.
+                  Submitteth himselfe to duke William, 1, a 50. Dieth, 27, b 60.</item>
+                <item>Wotton embassador into Scotland, of an ancient familie: note, 1402, b 30, &amp;c. 1403,
+                  &amp;c.</item>
+            </list>
+         </div>
+         <div n="Y" type="part">
+            <head>Y.</head>
+            <list>
+                <item>Ypres William warlike, 43, b 30 52, a 10. A Fleming, earle of Kent, 54, a 30. Departeth the realme,
+                  65, b 20</item>
+             </list>
+         </div>
+      </body>
+  </text>
+</TEI>
