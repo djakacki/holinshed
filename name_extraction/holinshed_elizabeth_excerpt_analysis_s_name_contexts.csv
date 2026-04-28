@@ -1,8 +1,4 @@
 paragraph_number,name,start_offset,end_offset,left_context,right_context,full_context
-12,name,1212,1216,whose,was Nicholas,whose name was Nicholas
-14,name,1819,1823,thys,,thys name
-14,name,3097,3101,that,", the","that name , the"
-14,name,3194,3198,that,French,that name French
 14,Ferdinando,3029,3039,Empire of,the first,Empire of Ferdinando the first
 14,Henrie,665,671,King,the eight,King Henrie the eight
 14,Henrie,3150,3156,raigne of,the,raigne of Henrie the
@@ -12,35 +8,13 @@ paragraph_number,name,start_offset,end_offset,left_context,right_context,full_co
 14,Queene Marie,249,261,Ladie,", which","Ladie Queene Marie , which"
 15,Marie,136,141,Poole.,", Reginalde","Poole. Marie , Reginalde"
 21,Charles,228,235,for,the seuenth,for Charles the seuenth
-22,name,435,439,that,. She,that name . She
 22,Philip,813,819,King,,King Philip
 33,Queene Anne,1541,1552,Ladye,", wise","Ladye Queene Anne , wise"
 33,Anne,1548,1552,Queene,", wise","Queene Anne , wise"
-36,name,343,347,written the,and title,written the name and title
-37,name,56,60,Maiesties,. For,Maiesties name . For
-37,name,385,389,,was Elizabeth,name was Elizabeth
-37,name,838,842,Maiesties,moued,Maiesties name moued
-38,name,965,969,of hir,", according","of hir name , according"
-41,name,302,306,agreeyng in,with,agreeyng in name with
-43,name,546,550,conteyned hir,and title,conteyned hir name and title
-44,name,47,51,writte the,and title,writte the name and title
-44,name,1430,1434,apparell and,dyd agree,apparell and name dyd agree
-52,name,428,432,proper,of the,proper name of the
-53,name,516,520,letters the,of the,letters the name of the
 59,Iohn,1192,1196,commaunding Sir,Parrat,commaunding Sir Iohn Parrat
-61,name,220,224,hys,", whiche","hys name , whiche"
-62,name,509,513,whose,also,whose name also
-63,name,427,431,whose,was,whose name was
-63,name,762,766,sette hir,and title,sette hir name and title
-63,name,996,1000,proper,", which","proper name , which"
 64,Iohn,216,220,by Sir,Parrat,by Sir Iohn Parrat
-73,name,884,888,,thereof,name thereof
-73,name,1149,1153,whose,and ryth,whose name and ryth
 76,Henrie,1892,1898,king,the eight,king Henrie the eight
 76,Henrie the eight,1892,1908,king,hir graces,king Henrie the eight hir graces
-79,name,202,206,in the,of the,in the name of the
-85,name,266,270,,tooke,name tooke
-85,name,370,374,his,whom,his name whom
 85,Henrie,147,153,king,the eight,king Henrie the eight
 85,Henrie the eight,147,163,king,. A naturall,king Henrie the eight . A naturall
 96,Dimmocke,84,92,Edwarde,. sir,Edwarde Dimmocke . sir
@@ -50,7 +24,6 @@ paragraph_number,name,start_offset,end_offset,left_context,right_context,full_co
 102,Grafton,164,171,,.,Grafton .
 108,Smith,276,281,for a,to open,for a Smith to open
 110,Iohn,745,749,Iugge and,Cawood,Iugge and Iohn Cawood
-113,name,7840,7844,distinctly by,", requyred","distinctly by name , requyred"
 113,Robert,4888,4894,by one,,by one Robert
 113,Winchester,7042,7052,Bishop of,and his,Bishop of Winchester and his
 113,Winchester,8846,8856,Bishoppes of,and Lyncolne,Bishoppes of Winchester and Lyncolne
@@ -68,11 +41,9 @@ paragraph_number,name,start_offset,end_offset,left_context,right_context,full_co
 132,King Edward,283,294,brother,.,brother King Edward .
 137,Sanders,435,442,Captayne,", brought","Captayne Sanders , brought"
 143,Iohn,177,181,Mary and,", standing","Mary and Iohn , standing"
-145,name,177,181,that,", King","that name , King"
 145,Margaret,484,492,Lady,of,Lady Margaret of
 147,Parker,7,13,Doctor,Archebyshop,Doctor Parker Archebyshop
 148,Winchester,39,49,Marques of,", Lorde","Marques of Winchester , Lorde"
-152,name,425,429,some,Catholique,some name Catholique
 157,William,20,27,maister,Winter,maister William Winter
 157,William,39,46,"Winter,Sir",Winter,"Winter,Sir William Winter"
 157,William Winter,20,34,maister,",Sir William","maister William Winter ,Sir William"
@@ -95,7 +66,6 @@ paragraph_number,name,start_offset,end_offset,left_context,right_context,full_co
 193,Howard,549,555,George,", and","George Howard , and"
 195,Howard,250,256,George,", and","George Howard , and"
 196,Howard,149,155,George,", went","George Howard , went"
-205,name,133,137,men of,",","men of name ,"
 209,Howard,50,56,George,", returned","George Howard , returned"
 211,Howard,42,48,George,", and","George Howard , and"
 219,Winter,105,111,maister,", vpon","maister Winter , vpon"
@@ -120,7 +90,6 @@ paragraph_number,name,start_offset,end_offset,left_context,right_context,full_co
 284,Thomas,503,509,,Hesketh,Thomas Hesketh
 284,Thomas,602,608,"Wood,",Fitton,"Wood, Thomas Fitton"
 289,Browne,150,156,,", came","Browne , came"
-295,name,175,179,tooke,of him,tooke name of him
 297,Carew,29,34,Peter,.Wednesday,Peter Carew .Wednesday
 297,Carew,95,100,,came,Carew came
 297,Peter,23,28,Sir,Carew,Sir Peter Carew
@@ -180,9 +149,7 @@ paragraph_number,name,start_offset,end_offset,left_context,right_context,full_co
 352,Adrian,1081,1087,him Sir,Poinings,him Sir Adrian Poinings
 352,Poinings,1088,1096,Adrian,the,Adrian Poinings the
 353,Duke of Guise,160,173,the,", and","the Duke of Guise , and"
-357,name,129,133,made in,of the,made in name of the
 372,William,278,285,and,Twedie,and William Twedie
-373,name,908,912,presente hys,and person,presente hys name and person
 374,Iohn,79,83,"Portesmouth,Sir",Portinatie,"Portesmouth,Sir Iohn Portinatie"
 374,Iohn,178,182,came Sir,Portinarie,came Sir Iohn Portinarie
 376,Iohn,18,22,"daye,Sir",More,"daye,Sir Iohn More"
@@ -207,10 +174,6 @@ paragraph_number,name,start_offset,end_offset,left_context,right_context,full_co
 425,Iohn,386,390,Captayne,Warde,Captayne Iohn Warde
 425,Nicholas Throckmorton,70,91,Sir,Knight,Sir Nicholas Throckmorton Knight
 425,Throckmorton,79,91,Nicholas,Knight,Nicholas Throckmorton Knight
-432,name,101,105,made in,of the,made in name of the
-433,name,73,77,dogs,.There,dogs name .There
-433,name,116,120,made in,,made in name
-434,name,1244,1248,Lieutenants,", the","Lieutenants name , the"
 434,Adrian,23,29,sir,Poynings,sir Adrian Poynings
 434,Adrian,94,100,Sir,Poynings,Sir Adrian Poynings
 439,Hugh,198,202,Sir,Paulet,Sir Hugh Paulet
@@ -255,7 +218,6 @@ paragraph_number,name,start_offset,end_offset,left_context,right_context,full_co
 483,Hugh,76,80,Sir,Paulet,Sir Hugh Paulet
 483,Hugh Paulet,76,87,Sir,Knighte,Sir Hugh Paulet Knighte
 483,Paulet,81,87,Hugh,Knighte,Hugh Paulet Knighte
-487,name,142,146,in his,", which","in his name , which"
 487,Hugh,23,27,Sir,Paulet,Sir Hugh Paulet
 487,Hugh,69,73,appoynted sir,,appoynted sir Hugh
 487,Hugh Paulet,23,34,Sir,.The Lord,Sir Hugh Paulet .The Lord
@@ -267,7 +229,6 @@ paragraph_number,name,start_offset,end_offset,left_context,right_context,full_co
 509,Hugh Paulet,330,341,Sir,", Captayne","Sir Hugh Paulet , Captayne"
 509,Iohn,404,408,Captaine,Shute,Captaine Iohn Shute
 509,Paulet,335,341,Hugh,", Captayne","Hugh Paulet , Captayne"
-514,name,682,686,should,.,should name .
 520,Oliuer,54,60,maister,Maners,maister Oliuer Maners
 524,Edward,348,354,where of,Randolfe,where of Edward Randolfe
 526,Darcie,246,252,Auerie,brother,Auerie Darcie brother
@@ -300,7 +261,6 @@ paragraph_number,name,start_offset,end_offset,left_context,right_context,full_co
 551,Knolles,345,352,Francis,",","Francis Knolles ,"
 551,Margaret,147,155,Ladie,cou,Ladie Margaret cou
 555,Barnes,589,595,diuerse,", Chimneys","diuerse Barnes , Chimneys"
-556,name,1222,1226,childe to,Edwardus,childe to name Edwardus
 556,Baden,34,39,Margraue of,",The Margraue","Margraue of Baden ,The Margraue"
 556,Baden,67,72,Marques of,. with,Marques of Baden . with
 556,Margraue,22,30,Prince and,of Baden,Prince and Margraue of Baden
@@ -311,18 +271,15 @@ paragraph_number,name,start_offset,end_offset,left_context,right_context,full_co
 558,Robert,117,123,,Thomas,Robert Thomas
 558,Thomas,77,83,Robert,slaine,Robert Thomas slaine
 558,Thomas,124,130,Robert,", maister","Robert Thomas , maister"
-560,name,282,286,that,", with","that name , with"
 560,Charles,239,246,king,the,king Charles the
 560,Robert,643,649,and,Earle,and Robert Earle
 560,Thomas,613,619,inuested,Duke,inuested Thomas Duke
 563,Baden,15,20,Marques of,", and","Marques of Baden , and"
 563,Baden,89,94,Marques of,returneth,Marques of Baden returneth
 563,Cobham,360,366,Lorde,", an","Lorde Cobham , an"
-564,name,549,553,,of the,name of the
 564,Gresham,637,644,Thomas,knight,Thomas Gresham knight
 564,Thomas,630,636,worshipfull sir,Gresham,worshipfull sir Thomas Gresham
 570,Edward,22,28,Captaine,Randolfe,Captaine Edward Randolfe
-571,name,96,100,that,", sonne","that name , sonne"
 571,Charles,64,71,ened.,Iames,ened. Charles Iames
 571,Charles,441,448,"were,",king,"were, Charles king"
 571,Charles Iames,64,77,ened.,", the","ened. Charles Iames , the"
@@ -338,7 +295,6 @@ paragraph_number,name,start_offset,end_offset,left_context,right_context,full_co
 579,miles,122,127,viij.,from,viij. miles from
 580,Alexander,1216,1225,conducting of,,conducting of Alexander
 580,Henrie,394,400,of sir,Sidney,of sir Henrie Sidney
-582,name,55,59,that,", being","that name , being"
 582,Cobham,507,513,Henrie,esquier,Henrie Cobham esquier
 582,Henrie,500,506,"knight,",Cobham,"knight, Henrie Cobham"
 582,Maximilian,24,34,Emperour,the seconde,Emperour Maximilian the seconde
@@ -366,7 +322,6 @@ paragraph_number,name,start_offset,end_offset,left_context,right_context,full_co
 604,Howard,64,70,Thomas,duke,Thomas Howard duke
 604,Neuill,258,264,Henrie,being,Henrie Neuill being
 604,Thomas,57,63,Tower.,Howard,Tower. Thomas Howard
-606,name,1300,1304,highnesse,", to repayre","highnesse name , to repayre"
 606,Charles,1080,1087,with,,with Charles
 606,Thomas,87,93,rebelled.,Percey,rebelled. Thomas Percey
 611,Moore,168,173,Clifford,",The number","Clifford Moore ,The number"
@@ -405,7 +360,6 @@ paragraph_number,name,start_offset,end_offset,left_context,right_context,full_co
 630,Drurie,499,505,William,Marshall,William Drurie Marshall
 630,miles,644,649,twelue,distant,twelue miles distant
 630,William,491,498,,Drurie,William Drurie
-631,name,1308,1312,made in,of the,made in name of the
 631,Forster,28,35,Iohn,.The same,Iohn Forster .The same
 631,Forster,76,83,Iohn,warden,Iohn Forster warden
 631,Iohn,23,27,Sir,Forster,Sir Iohn Forster
@@ -424,9 +378,7 @@ paragraph_number,name,start_offset,end_offset,left_context,right_context,full_co
 650,Drurie,130,136,maister,the Marshall,maister Drurie the Marshall
 651,Drurie,379,385,maister,two myles,maister Drurie two myles
 652,Drurie,141,147,maister,vnto,maister Drurie vnto
-653,name,437,441,Englands,", pulled","Englands name , pulled"
 655,William,277,284,named,God saue,named William God saue
-660,name,477,481,Maiesties,",","Maiesties name ,"
 660,Drurie,56,62,William,the Marshall,William Drurie the Marshall
 660,William,48,55,maister,Drurie,maister William Drurie
 662,Drurie,149,155,William,ye Marshall,William Drurie ye Marshall
@@ -470,12 +422,9 @@ paragraph_number,name,start_offset,end_offset,left_context,right_context,full_co
 678,Fleming,316,323,Lorde,", made","Lorde Fleming , made"
 678,William,23,30,Sir,Drurie,Sir William Drurie
 679,Fleming,160,167,Lorde,", the","Lorde Fleming , the"
-680,name,1650,1654,,", sounde","name , sounde"
 680,Fleming,87,94,,.LOrd,Fleming .LOrd
 680,Fleming,100,107,LOrd,", if eyther","LOrd Fleming , if eyther"
-681,name,2296,2300,honorable,as ye,honorable name as ye
 681,miles,2002,2007,English,from,English miles from
-682,name,2856,2860,honorable a,for you,honorable a name for you
 682,Fleming,6,13,LOrde,", often","LOrde Fleming , often"
 684,Moore,191,196,on the,before,on the Moore before
 684,William,362,369,of Sir,Drury,of Sir William Drury
@@ -485,7 +434,6 @@ paragraph_number,name,start_offset,end_offset,left_context,right_context,full_co
 686,William,262,269,"him,Sir",Drury,"him,Sir William Drury"
 688,Thomas,443,449,,Maners,Thomas Maners
 688,William,187,194,whom Sir,Drury,whom Sir William Drury
-690,name,327,331,whose,was Gawen,whose name was Gawen
 690,Morton,44,50,and,with,and Morton with
 690,Morton,134,140,Lenox and,. The,Lenox and Morton . The
 694,William,22,29,Maye sir,Drury,Maye sir William Drury
@@ -553,10 +501,7 @@ paragraph_number,name,start_offset,end_offset,left_context,right_context,full_co
 799,Thomas,206,212,said,Chamber,said Thomas Chamber
 801,Iohn,44,48,deceassed,Iewell,deceassed Iohn Iewell
 802,William,173,180,by M.,Foulkes,by M. William Foulkes
-803,name,864,868,find by,as Principall,find by name as Principall
 803,William,62,69,London sir,Allin,London sir William Allin
-804,name,428,432,persons of,", Mahemet","persons of name , Mahemet"
-810,name,678,682,Gentlemen of,", as wel","Gentlemen of name , as wel"
 810,Iohn,499,503,"estimation,",Cardone,"estimation, Iohn Cardone"
 811,Iohn,309,313,was Don,de Austria,was Don Iohn de Austria
 811,Sebastian,386,395,"there,",Veniero,"there, Sebastian Veniero"
@@ -631,7 +576,6 @@ paragraph_number,name,start_offset,end_offset,left_context,right_context,full_co
 845,Iohn,26,30,"Nouember,",Hall,"Nouember, Iohn Hall"
 846,winter,42,48,sharpe,.This,sharpe winter .This
 847,William,137,144,"Ianuarie,",Lorde,"Ianuarie, William Lorde"
-850,name,729,733,childe to,,childe to name
 850,William,80,87,"Ianuarie,",,"Ianuarie, William"
 851,William,783,790,charge of,Holstock,charge of William Holstock
 851,William,1785,1792,sayde,Holstocke,sayde William Holstocke
@@ -646,7 +590,6 @@ paragraph_number,name,start_offset,end_offset,left_context,right_context,full_co
 855,Drurie,176,182,Anne,", that","Anne Drurie , that"
 855,Iohn,497,501,him and,Bean,him and Iohn Bean
 855,Iohn,556,560,but,Bean,but Iohn Bean
-856,name,1244,1248,owne,at Rochester,owne name at Rochester
 856,Browne,33,39,"doing,",sent,"doing, Browne sent"
 856,Browne,789,795,that,was sought,that Browne was sought
 856,Clement,103,110,Roger,(among,Roger Clement (among
@@ -680,8 +623,6 @@ paragraph_number,name,start_offset,end_offset,left_context,right_context,full_co
 862,Thomas,155,161,,Cecill,Thomas Cecill
 862,Thomas,455,461,,Sutton,Thomas Sutton
 862,William,42,49,sayde sir,Dunrie,sayde sir William Dunrie
-863,name,1962,1966,in his,", immediately","in his name , immediately"
-863,name,2224,2228,Maiesties,interpone,Maiesties name interpone
 863,William,4,11,Sir,Kirkaudie,Sir William Kirkaudie
 868,Neuill,27,33,maister,a Pencioner,maister Neuill a Pencioner
 870,Clement,1058,1065,Burford and,Wood,Burford and Clement Wood
@@ -694,7 +635,6 @@ paragraph_number,name,start_offset,end_offset,left_context,right_context,full_co
 875,Drurie,243,249,William,,William Drurie
 875,William,82,89,sayde sir,Drurie,sayde sir William Drurie
 875,William,235,242,sayde sir,Drurie,sayde sir William Drurie
-878,name,447,451,the,of the,the name of the
 878,Drurie,63,69,William,", our","William Drurie , our"
 878,William,55,62,of sir,Drurie,of sir William Drurie
 880,Barton,1358,1364,Thomas,.,Thomas Barton .
@@ -739,12 +679,10 @@ paragraph_number,name,start_offset,end_offset,left_context,right_context,full_co
 901,Charles,164,171,London for,,London for Charles
 914,Bell,942,946,The,in the,The Bell in the
 916,Marie,389,394,virgin,.,virgin Marie .
-919,name,299,303,,of his,name of his
 921,Parker,157,163,Mathew,", Doctour","Mathew Parker , Doctour"
 929,Margaret,312,320,"Marie,",", and","Marie, Margaret , and"
 929,Marie,305,310,"Elizabeth,",", Margaret","Elizabeth, Marie , Margaret"
 935,William,2291,2298,"y, &",Godard,"y, & William Godard"
 940,Walter,0,6,,Deueroux,Walter Deueroux
-942,name,527,531,,of both,name of both
 943,Grafton,181,188,Richarde,", and","Richarde Grafton , and"
 943,Iohn,231,235,,Stow,Iohn Stow
