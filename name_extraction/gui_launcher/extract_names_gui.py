@@ -34,6 +34,8 @@ class ExtractNamesLauncher:
         self.root = root
         self.root.title("Holinshed Name Extraction")
         self.root.resizable(True, False)
+        self.root.geometry("1100x240")
+        self.root.minsize(900, 220)
 
         self.result_queue: queue.Queue[tuple[str, str]] = queue.Queue()
         self.worker: threading.Thread | None = None
