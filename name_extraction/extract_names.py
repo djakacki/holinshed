@@ -89,29 +89,56 @@ def find_names_in_file(file_path: str, names: List[str], context_length: int = 5
         # Extract clean visible text only
         paragraph_text = "".join(p.itertext())
 
+        candidates = []
         for name, pattern in patterns.items():
             for match in pattern.finditer(paragraph_text):
-
                 start = match.start()
                 end = match.end()
-
-                left, right = expand_to_word_boundary(
-                    paragraph_text, start, end, context_length
-                )
-
-                left_context = paragraph_text[left:start].strip()
-                matched_name = paragraph_text[start:end]
-                right_context = paragraph_text[end:right].strip()
-
-                results.append({
-                    "paragraph_number": para_index,
-                    "name": matched_name,
+                candidates.append({
+                    "name": match.group(0),
                     "start_offset": start,
                     "end_offset": end,
-                    "left_context": left_context,
-                    "right_context": right_context,
-                    "full_context": f"{left_context} {matched_name} {right_context}".strip()
+                    "match_length": end - start,
                 })
+
+        # Prefer the longest match at a given location and suppress shorter
+        # overlapping matches such as "Henrie" inside "Henrie the eight".
+        candidates.sort(key=lambda c: (c["start_offset"], -c["match_length"], c["name"].casefold()))
+
+        accepted = []
+        occupied_spans: List[Tuple[int, int]] = []
+        for candidate in candidates:
+            start = candidate["start_offset"]
+            end = candidate["end_offset"]
+            overlaps = any(start < span_end and end > span_start for span_start, span_end in occupied_spans)
+            if overlaps:
+                continue
+            occupied_spans.append((start, end))
+            accepted.append(candidate)
+
+        accepted.sort(key=lambda c: c["start_offset"])
+
+        for candidate in accepted:
+            start = candidate["start_offset"]
+            end = candidate["end_offset"]
+
+            left, right = expand_to_word_boundary(
+                paragraph_text, start, end, context_length
+            )
+
+            left_context = paragraph_text[left:start].strip()
+            matched_name = paragraph_text[start:end]
+            right_context = paragraph_text[end:right].strip()
+
+            results.append({
+                "paragraph_number": para_index,
+                "name": matched_name,
+                "start_offset": start,
+                "end_offset": end,
+                "left_context": left_context,
+                "right_context": right_context,
+                "full_context": f"{left_context} {matched_name} {right_context}".strip()
+            })
 
     return results
 
