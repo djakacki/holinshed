@@ -11,6 +11,9 @@ from lxml import etree
 from typing import List, Tuple
 from pathlib import Path
 
+SCRIPT_DIR = Path(__file__).resolve().parent
+REPO_ROOT = SCRIPT_DIR.parent
+
 
 def parse_tei(file_path: str) -> etree._ElementTree:
     parser = etree.XMLParser(remove_comments=True, recover=True)
@@ -185,28 +188,42 @@ def load_names_from_csv(csv_path: Path):
     return names
 
 
-def main(xml_filename: str, names_csv_filename: str):
+def resolve_input_path(raw_path: str | Path, preferred_base: Path) -> Path:
+    candidate = Path(raw_path).expanduser()
+    if candidate.is_absolute():
+        return candidate
 
-    # Resolve paths dynamically
-    script_dir = Path(__file__).resolve().parent
-    xml_dir = script_dir.parent
-    xml_path = xml_dir / xml_filename
-    names_csv_path = script_dir / names_csv_filename
+    search_roots = [
+        Path.cwd(),
+        REPO_ROOT,
+        SCRIPT_DIR,
+        preferred_base,
+    ]
+
+    for root in search_roots:
+        resolved = (root / candidate).resolve()
+        if resolved.exists():
+            return resolved
+
+    # Fall back to the preferred base so error messages point somewhere predictable.
+    return (preferred_base / candidate).resolve()
+
+
+def run_extraction(xml_path: Path, names_csv_path: Path) -> Path:
+    xml_path = Path(xml_path).resolve()
+    names_csv_path = Path(names_csv_path).resolve()
 
     if not xml_path.exists():
-        print(f"XML file not found: {xml_path}")
-        return
+        raise FileNotFoundError(f"XML file not found: {xml_path}")
 
     if not names_csv_path.exists():
-        print(f"Names CSV not found: {names_csv_path}")
-        return
+        raise FileNotFoundError(f"Names CSV not found: {names_csv_path}")
 
     # Load names
     names_to_find = load_names_from_csv(names_csv_path)
 
     if not names_to_find:
-        print("No names found in CSV.")
-        return
+        raise ValueError(f"No names found in CSV: {names_csv_path}")
 
     print(f"Searching in: {xml_path.name}")
     print(f"Loaded {len(names_to_find)} names from {names_csv_path.name}\n")
@@ -226,7 +243,7 @@ def main(xml_filename: str, names_csv_filename: str):
         print(f"\n... and {len(results) - 10} more results")
 
     # Export results
-    output_file = script_dir / f"{xml_path.stem}_name_contexts.csv"
+    output_file = SCRIPT_DIR / f"{xml_path.stem}_name_contexts.csv"
     export_to_csv(results, str(output_file))
 
     # Summary
@@ -242,9 +259,24 @@ def main(xml_filename: str, names_csv_filename: str):
     for name, count in sorted(name_counts.items()):
         print(f"{name}: {count} occurrence(s)")
 
+    return output_file
+
+
+def main(xml_filename: str, names_csv_filename: str) -> int:
+    xml_path = resolve_input_path(xml_filename, REPO_ROOT)
+    names_csv_path = resolve_input_path(names_csv_filename, SCRIPT_DIR)
+
+    try:
+        run_extraction(xml_path, names_csv_path)
+    except Exception as exc:
+        print(exc)
+        return 1
+    return 0
+
 
 if __name__ == "__main__":
     if len(sys.argv) != 3:
         print("Usage: python extract_names.py <xml_filename> <names_csv_filename>")
+        raise SystemExit(1)
     else:
-        main(sys.argv[1], sys.argv[2])
+        raise SystemExit(main(sys.argv[1], sys.argv[2]))
