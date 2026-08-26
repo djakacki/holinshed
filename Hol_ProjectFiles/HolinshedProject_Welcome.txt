@@ -1,0 +1,57 @@
+Welcome to the texts of Holinshed's Chronicles of England, Scotland and Ireland
+The site displays the two editions of the Chronicles, published in 1577 and 1587.
+
+The two editions are significantly different, and those new to Holinshed may benefit from the discussion of some of those differences elsewhere on this site. Hitherto comparison between the editions has been difficult because of their immense size (2.5 million words in 1577, 3.5 million words in 1587), and the dispersal of copies.
+
+The material for the mounting of both editions has been derived from the Early English Books On-Line Text Creation Partnership transcriptions. The 1577 edition was keyed especially for this project, using the Harvard University Library copy (STC 13568b); the copy of the 1587 text used is located in the Henry E. Huntington Library, San Marino, California (STC 135689).
+
+Both transcriptions had a substantial number of illegible passages: these have been filled manually, using the British Library editions of the texts, and are distinguished by being displayed in grey text.
+
+Note on referencing
+Both the 1577 and 1587 versions are characterised by a number of inconsistencies between the physical composition of the volumes and their paratextual apparatus. Among the confused and confusing practices of those charged with the physical production of the books are the use of internal title pages, different methodologies of pagination, and multiple pagination sequences, halting or continuing within and across volumes according to no reliable logical pattern. Such inconsistencies have, in their turn, directly affected the two subsequent reproductions of the Chronicles: the 1807 reprint of the 1587 text and the current dual-text, online edition at the Holinshed Project. The relationship between the various systems of referencing and the original volumes are explained in a note by Tim Smith-Laing, research student at Merton College, Oxford. He has also prepared a table of the arrangement of the signatures.
+
+What you can do on this site
+Readers can navigate each of the editions in a number of ways:
+
+By using the original volume and chapter structure adopted by the original compilers
+By using the subsection headings we have provided to break up the more unwieldy longer reigns (by which the material was originally organised)
+By browsing on regnal years (at present this feature is only available for the 1587 edition, but we hope to build it into the 1577 edition shortly)
+Readers can search the editions by typing phrases into the search box
+
+Readers can compare the two versions and view them side by side
+
+You can set either of the editions for viewing on the left hand of your screen by using the 'Place in left hand column' button.
+To find matching text click on the number appearing by the date button [1577 or 1587] alongside the particular passage you are viewing. The comparator tool will locate matching passages.
+In some cases more than one match will be available because of the way sections of the text were moved around between the editions.
+Readers can view annotations of the chapters 1-11 of William Harrison's Description of Britain. Clicking on highlighted text will open notes in a new window.
+
+Readers can view the facsimiles of the original pages from the EEBO-Text Creation Partnership, by clicking on the 'EEBO page.image' button
+
+You MUST be logged in to EEBO (for which a subscription is required) for this feature to work, though some users may find that their University networks helpfully recognise their access rights without the need for a manual log in.
+The page image buttons appear at the page break points in the text. That means that when you navigate to a particular section, you may have to scroll down the screen to the first page break.
+The images will open in a new window.
+Note the facility to magnify the page view for ease of reading in the bottom left of the EEBO screen.
+Some caveats: what you cannot do on this site
+As the underlying texts have been derived from the EEBO-Text Creation partnership, they share some of the limitations of that resource. Illegible passages are indicated by dots in square brackets thus [...]. In some cases it will be possible for readers to supply the illegible characters themselves by viewing the underlying page images. Alternatively a passage that is illegible in one edition is sometimes legible in another, so it is worthwhile launching the comparator tool.
+This is not an annotated edition, and while we hope to build in annotation in the future, for the time being it is a tool designed to make the texts more easily accessible, and more readily comparable.
+Although the texts have been matched at paragraph level, some of the sections are quite long, which means that a particular portion you are seeking for comparative purposes may be embedded in a longer passage.
+Acknowledgements
+This project was funded by the Oxford University Fell Fund.
+
+We are very grateful to the EEBO-TCP Text Creation Partnership for permission to use their keyed versions of the two editions, and to allow us to provide the links to the underlying images. Our partnership with EEBO-TCP has been assisted by the unstinting support of Shawn Martin and Paul Schaffner.
+
+Olivia Smith was recruited at a late stage to transcribe the illegible passages from the British Library copy.
+
+The comparator tool which provided the initial text matches, subsequently verified by our Researcher, Dr Henry Summerson, was developed by the Research Technology Services team of the Oxford University Computing Services. James Cummings and Sebastian Rahtz were tirelessly creative, and recruited a highly effective project assistant, Arno Mittelbach.
+
+In developing the web application we are very grateful to Richard Rowley and Tom Wrobel.
+
+We have received advice on the project from the participants at the Holinshed Workshop held in Oxford in January 2009.
+
+Administrative support was provided by Hayley Morris of the English Faculty.
+
+Project team
+Dr Ian W. Archer
+Dr Felicity Heal
+Dr Paulina Kewes
+Dr Henry Summerson

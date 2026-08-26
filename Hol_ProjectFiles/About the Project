@@ -1,0 +1,35 @@
+Creating a parallel text edition
+The Holinshed Project hopes, should funding be made available, to co-ordinate a new fifteen volume edition of the Chronicles to be published by Oxford University Press. In the meantime we have developed a parallel text edition of the two versions of the Chronicles published in 1577 and 1587. This enables all interested in the Chronicles to make comparisons between the two texts, and provide an essential tool for the later full edition. Although the differences between the two versions are generally acknowledged (both in terms of content and the ordering of material), there has been no systematic study of the variations.
+
+The Early English Books Online-Text Creation Partnership (EEBO-TCP) gave us permission to make use of their text of the 1587 edition, and they have undertaken the keying of the 1577 edition using some of our grant from the University of Oxford's Fell Fund.
+
+The texts have been broken down into their component parts, paragraph by paragraph, and linked to the matching element in the other edition. The two texts will be readable side-by-side.
+
+Back to top
+Developing the TEI Comparator Tool
+We have been fortunate in being able to draw on the help of Research Services at Oxford University Computing Services, and are very grateful to James Cummings, Sebastian Rahtz, and Arno Mittelbach for their help in developing the tool which has allowed the comparison of the editions. In theis section James Cummings explains the developmennt of the tool, and its possible application to other projects.
+
+Holinshed’s Chronicles of England, Scotland, and Ireland was the crowning achievement of Tudor historiography and an important historical source for contemporary playwrights and poets. Holinshed’s Chronicles was first printed in 1577 and a second revised and expanded edition followed in 1587. EEBO-TCP had already encoded a version of the 1587 edition, and the Holinshed Project specially commissioned them to create a 1577 edition using the same methodology. The resulting texts were converted to valid TEI P5 XML and used as a base to construct a comparison engine, known as the TEI-Comparator, to assist the editors in understanding the textual differences between the two editions.
+
+Using the TEI-Comparator has several stages. The first was to decide what elements in the two TEI XML files should be compared. In this case the appropriate granularity was at the paragraph (and paragraph-like) level. The project was primarily interested in how portions of text were re-used, replaced, expanded, deleted, and modified from one edition to another. This first stage ran a short preparatory script which added unique namespaced IDs to each relevant element in both the TEI files. It is the proper linking of these two IDs which the TEI-Comparator hoped to facilitate.
+
+The second stage was to prepare a database of initial comparisons between the two texts using a bespoke fuzzy text-comparison n-gram algorithm designed by Arno Mittelbach (the technical lead for the TEI-Comparator). This algorithm, called Shingle Cloud, transforms both input texts (needle and haystack) into sets of n-grams. It matches the haystack’s n-grams against the needle’s and constructs a huge binary string where they match. This binary string is then interpreted by the algorithm to determine whether the needle can be found in the haystack and if so where. The algorithm runs in linear time and, given the language of the originals, was found to work better if the strings of text were regularized (including removal of vowels).
+The third stage in using the comparator was for the research assistant on the project to confirm, remove, annotate, or create new links between one edition and the other using a custom interface to the TEI-Comparator constructed in Java using the Google Web Toolkit API. The final stage was to produce output from the work put in by the RA through generating two standalone HTML versions of the texts which were linked together based on the now-confirmed IDs.
+
+Shortly the TEI-Comparator will be publicly available on Sourceforge with documentation and examples to make it easy for others to re-purpose this software for other similar uses, and submit bugs and requests for future development.
+
+Although known as the ‘TEI-Comparator’, the program does not require TEI input, it works with XML files of any vocabulary as long as the elements being compared have sufficient unique text in them.
+
+For more information about the TEI-Comparator e-mail: tei@oucs.ox.ac.uk
+
+James Cummings
+
+Back to top
+Project Team
+Dr Paulina Kewes is a Tutorial Fellow in English literature at Jesus College, Oxford and a Fellow of the Royal Historical Society. The main focus of her research has been on drama in the Renaissance and the long eighteenth century. She has also written on early modern historiography and political thought; civic pageantry; royal iconography; Shakespeare; Dryden; translation; adaptation; plagiarism; and book history. She is now working on a study of the literary and historical contexts of the late Elizabethan Succession Crisis.
+
+Dr Ian Archer is an early modern historian and a Fellow of Keble College, Oxford. He is the author of The Pursuit of Stability: Social Relations in Elizabethan London, and a number of articles on various aspects of the history of the city, including studies of John Stow, one of the contributors to the Chronicles. He is a Literary Director of the Royal Historical Society, and General Editor of its AHRC funded Bibliography of British History based at the Institute of Historical Research, of which he is a Research Associate.
+
+Dr Felicity Heal is a lecturer in early modern history at the University of Oxford and a fellow of Jesus College. She has written extensively on the English gentry, on Tudor and Stuart society, and on the religious history of the sixteenth century. In recent years she has written on Protestant and Catholic views of the early church in England and on attempts to appropriate the national past by the competing confessions.
+
+Dr Henry Summerson (Research Assistant) was successively medieval and Tudor research editor with The Oxford Dictionary of National Biography from 1993 to 2006, and wrote over 150 articles for that project. In addition, he has worked extensively on medieval crime and law enforcement, and on the history of north-west England in the medieval and early modern periods – his two-volume Medieval Carlisle was published in 1993, his history of the Cumberland family of Aglionby in 2007. He has also written several guidebooks for English Heritage.

@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Holinshed's Chronicles and the men behind them</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Written by the original Holinshed Project team</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <note>the following note is from the original Holinshed Project site. All person entities are now accessible via their Wikidata identifiers: "N.B. The names of the contributors to the Chronicles in the following section link to
+               the appropriate entry in the Oxford Dictionary of National Biography. These links
+               will only work if you, or the computer you are using (such as those that are part of
+               an Athens network), have subscribed to the ODNB."</note>
+            <p>Although the Chronicles bear the name of Raphael Holinshed, they were in fact a
+               corporate achievement, produced by men of varying origins and upbringings. Eight men
+               were principally involved in the huge enterprise of writing them, in collaboration
+               with a number of printers and publishers. The idea for the Chronicles originated with
+               Reyner Wolfe (d. in or before 1574), who was born in the Low Countries but settled in
+               London, where he prospered under successive monarchs as a printer and bookseller.
+               Wolfe planned a massive universal history, but died before it came to fruition. His
+               assistant Raphael Holinshed (c. 1525-?1580), a native of Cheshire who was probably a
+               graduate of Cambridge, took over Wolfe's project as it applied to the British Isles
+               alone. The first edition of the Chronicles, published in 1577, was still highly
+               ambitious, its two volumes containing 2835 small folio pages. In the task of
+               producing them, Holinshed had two principal assistants. Richard Stanihurst
+               (1547-1618) was born into a wealthy Dublin family. Educated at Oxford, he became a
+               friend of the scholar and future Jesuit martyr Edmund Campion (1540-1581), who wrote
+               a history of Ireland with the help of Stanihurst. The latter subsequently reworked
+               it, in highly individual prose, for Holinshed's book, and added a 'Description of
+               Ireland'. Stanihurst later became a militant Catholic refugee. By contrast his
+               colleague in the 1577 edition, William Harrison (1535-1593), was a Londoner who after
+               going to Oxford became a clergyman closely linked to the radical wing of the Church
+               of England. His religious leanings did not, however, at first affect his principal
+               contribution to the Chronicles, a lengthy and fascinating 'Description of Britain' in
+               three books which prefaced the historical narrative. The first edition of the
+               Chronicles, which was illustrated with numerous woodcuts, was printed by Henry
+               Bynneman (b. in or before 1542, d. 1583), an experienced London printer who had
+               probably worked with Wolfe and had obtained a privilege for producing dictionaries
+               and 'all Chronicles and histories whatsoever'.</p>
+            <p>Bynneman's penchant for publishing very large books eventually ruined him, but the
+               first edition of the Chronicles nevertheless sold well, although its size inevitably
+               made it relatively expensive, costing 26s. bound and 20s. unbound. It attracted
+               attention, praise and criticism alike. Lord Burghley used it as a reference book.
+               Poets like Edmund Spenser found it a source of inspiration. In 1580 Philip Sidney
+               advised a friend to read 'the english Cronicle sett out by Hollinshead', while in the
+               same year the acerbic Gabriel Harvey described Holinshed and chroniclers like him as
+               'asses' by comparison with classical historians like Tacitus. Harvey was in a
+               minority, and it was soon decided to produce a second edition. </p>
+            <p>Bynneman's privilege for dictionaries and chronicles had passed to two more London
+               printers Henry Denham (fl. 1556-1590) and Ralph Newbery (b. in or before 1536, d.
+               1603/4). Each had been active in the capital since around 1560, though Newbery was
+               the more prosperous of the two, serving twice as master of the Stationers' Company
+               and acquiring property in his native county of Berkshire. Both men invested in the
+               new edition that appeared in 1587, Denham being named as printer on the title page.
+               Holinshed's name remained there, although he was dead by then, after apparently
+               retiring to Warwickshire. The work of revision and extension was instead directed by
+               Abraham Fleming (c. 1552-1602), a Cambridge-educated Londoner with wide experience in
+               the book trade. A committed protestant who eventually became a clergyman, Fleming
+               acted as general editor (he performed the massive task of reading the proofs) and
+               himself supplied the continuation of the history of England. Like Holinshed before
+               him, Fleming led a small team of contributors. William Harrison considerably extended
+               his own 'Description of Britain', markedly intensifying its religious tone. Work on
+               Ireland was entrusted to John Hooker (c. 1527-1601), an Exeter man who had studied at
+               both Oxford and continental universities. Hooker knew Ireland well, having spent much
+               time there between 1568 and 1575, and was a good scholar. As chamberlain of Exeter he
+               investigated and rearranged the city's archives, and for the 1587 Chronicles he
+               provided a new translation of the Expugnatio Hibernica of Giraldus Cambrensis, to
+               replace Stanihurst's paraphrase. Like Fleming he was evangelical in religion, and
+               much of his writing on Ireland is passionately anti-Catholic in tone. By contrast
+               John Stow (1524/5-1605) had a reverence for the past so intense that he was wrongly
+               suspected of Catholic sympathies. Another native of London, where he received all his
+               known education, Stow is famous for his Survey of London (1598). But the fact that he
+               was a life-long collector of manuscripts and researcher among public records and
+               civic archives also enabled him to assist in the production of the first edition of
+               Holinshed's Chronicles, and to make a substantial contribution to their revision,
+               where his writings and collections are repeatedly acknowledged in the margins. The
+               last of Fleming's regular assistants, Francis Thynne (1545?-1608), probably came from
+               Kent. Seemingly higher in social rank than his colleagues, he attended Lincoln's Inn
+               rather than a university. Like Stow he collected manuscripts, but also developed an
+               expensive interest in alchemy, precipitating a lifelong financial distress which his
+               becoming a herald did little to reduce. His work on the Chronicles concentrated on
+               augmenting and updating the history of Scotland, and he also supplied several
+               catalogues of office- and title-holders. Fleming and his staff placed their names or
+               initials in the margins to indicate their authorship of additions to the new edition,
+               and so, too, did their temporary colleague William Patten (d. in or after 1598), who
+               made a number of contributions to the history of England under Henry V and Henry VI,
+               and set his name beside the first of them. A Londoner by birth, Patten began his
+               career as an exchequer official, but lost his position for faulty account-keeping, or
+               worse, and thereafter earned a precarious living as a jobbing scholar. His disgrace
+               did not prevent his joining Stow and Thynne as a member of the first Society of
+               Antiquaries. </p>
+            <p>The publication of the second edition in 1587 was bedevilled with problems from
+               censorship, and a number of passages – mostly relating to contemporary politics –
+               were excised. Thynne's contributions were particularly hard hit. The task of filling
+               the resulting gaps was undertaken by Fleming. But despite such difficulties, the
+               revised edition of the Chronicles, published in three substantial folio volumes
+               gathered into two, constituted a decidedly superior exercise in Elizabethan
+               book-production. Like the first edition, the second was expensive, the more so
+               because it was larger; Andrew Perne in Cambridge owned a copy valued at 33s. 4d. in
+               1589. But again it appears to have circulated widely – no later than 1630 there was a
+               copy in the library of David Wedderburn of Dundee. It provided the basis for
+               Marlowe's Edward II and for such plays as the anonymous Tragedie of Arden of
+               Feversham, which dramatised material that appeared for the first time in the 1587
+               edition, while William Shakespeare's use of it, in history plays written in the 1590s
+               and later masterpieces like Macbeth and King Lear, is well known. Sir Edward Coke
+               possessed a copy, and it was also read by such authors as Samuel Daniel, Robert
+               Burton and John Milton. Though they went out of fashion as the seventeenth century
+               progressed, Holinshed's Chronicles had first expressed the historical understanding
+               of one generation and then done much to shape that of another. </p>
+            <div>
+               <head>The two editions of Holinshed, 1577 and 1587</head>
+               <p>The fact that the two Elizabethan editions of Holinshed's Chronicles together
+                  contain a total of around five and a half million words inevitably creates
+                  difficulties when making comparisons. Nevertheless, it is possible to see
+                  significant differences between the texts of 1577 and 1587, which may be defined
+                  as presentational and substantive. In physical appearance, as well as content,
+                  changes were made between the two editions. That of 1587 was printed in a larger
+                  folio format, using a greatly superior font, and without the woodcuts that had
+                  ornamented its predecessor, but using elegant ornamental initial letters. Perhaps
+                  the often lengthy résumés which preface each chapter of the pre-1066 history of
+                  England were also intended to compensate for the disappearance of the woodcuts. </p>
+               <p>A comparison of the two editions shows differences in spelling throughout; for
+                  instance 'parlement' replaced 'Parliament', 'suretie' became 'suertie', and
+                  'Northren' was altered to 'northerne'. Substitutions of individual words, which
+                  are very numerous, seem usually to have been made for stylistic rather than
+                  historiographical reasons, but can be interesting all the same; for instance, the
+                  appearance of the weird sisters who greeted Macbeth and Banquo, 'straunge &amp;
+                  ferly'in 1577, became 'strange and wild' ten years later. Suspension marks,
+                  numerous in the first edition, are very rare in the second. The length of
+                  paragraphs, sometimes inordinately long in 1577 (in extreme cases extending over
+                  several pages) but more often very short, frequently consisting of only one or two
+                  sentences, was regularised in 1587, particularly by the consolidation of short
+                  paragraphs into longer ones. The outcome is not in fact always happy, since
+                  editorial work seems on many occasions to have been influenced more by
+                  considerations of appearance than of meaning, with the result that the new
+                  paragraphs frequently break up hitherto coherent passages in a manner detrimental
+                  to their narrative content and flow. Fortunately, the retention of marginalia from
+                  1577 usually still makes it possible for the reader to find the matter of the
+                  original subdivisions. However, marginal notes from 1577 were also sometimes
+                  brought into the 1587 text to act as subheadings. </p>
+               <p>Of the substantive changes, by far the most important lies in the second edition's
+                  greater length, arising in the first place from the extension of the Chronicles in
+                  every section, to bring them up to, or close to, the date of publication.
+                  Large-scale additions and alterations were also made within the existing text,
+                  signalled with varying degrees of thoroughness. William Harrison provided almost
+                  no guidance to his substantial enlargement of the 'Description of Britain' which
+                  he had contributed to the 1577 edition, making significant additions to almost
+                  every existing chapter as well as writing several entirely new ones. Chapters in
+                  1587 on rivers and on the church were amplified with passages taken from
+                  equivalent chapters of his 1577 text, and then further enlarged with completely
+                  new material, in the process creating a substantial editorial problem for
+                  posterity. The original section dealing with the Anglo-Norman invasion of Ireland,
+                  which was loosely based on the Expugnatio Hibernica of Giraldus Cambrensis, was
+                  entirely replaced by John Hooker's footnoted translation of Giraldus's text, in
+                  itself a considerable achievement of scholarship. Hooker also appears to have set
+                  out to provide an amended version of the Irish History's account of the reign of
+                  Henry VIII, only to be thwarted by censorship – editorial scrutiny, here as at
+                  many other points, will doubtless shed more light on the fortunes of this passage
+                  of text. </p>
+               <p>Francis Thynne, who used marginal notes to alert his readers to almost every
+                  amendment he made, however trivial, made conscientious use of the writings of
+                  Mair, Lesley and Buchanan to revise the history of Scotland from the late
+                  thirteenth century onwards, though his amendments inevitably became more extensive
+                  as he approached his own time. For instance, his account of the downfall of Mary,
+                  Queen of Scots, was amplified through the use of Buchanan's history of Scotland
+                  (published in 1582), to contain such details as the improperly short skirt that
+                  Mary wore when she fell into the hands of her adversaries. Thynne also supplied
+                  thirteen annotated catalogues of office- and title-holders, while Harrison
+                  compiled a catalogue of the rulers of England from mythical times up to Queen
+                  Elizabeth; perhaps the provision of such lists is best seen as an extension of a
+                  feature of the 1577 edition, which already contained extended lists of past
+                  authors, rather than as a completely new development. </p>
+               <p>The history of England was also considerably augmented, mainly under the direction
+                  of Abraham Fleming. Thus the Chronicles' coverage of sixteenth-century domestic
+                  affairs was amplified in particular by reference to the writings of John Foxe and
+                  Edward Hall, the latter being heavily used, inter alia, to provide detailed
+                  accounts of festivities at Henry VIII's court. For continental history the recent
+                  translation (1579) of Guicciardini's history of Italy was similarly exploited. A
+                  more locally-focussed sort of addition was made by John Hooker when he provided a
+                  lengthy description of Exeter to accompany the account of the 1549 western rising. </p>
+               <p>Except in Harrison's Description, the reader's attention is usually drawn to the
+                  addition of new material by marginal notes and by sigla and brackets in the text.
+                  These make it possible to see both what new sources were used by the compilers of
+                  the 1587 edition, and how often the latter drew upon their own collections of
+                  manuscripts – those of John Stow and Francis Thynne are both cited – and also the
+                  collections of friends and well-wishers like the Canterbury antiquary John Twyne,
+                  who lent a copy of the 'pseudo-Elmham' life of Henry V. It seems clear that the
+                  already impressively wide range of sources used for the 1577 edition was further
+                  expanded during preparations for the publication of its successor. In all the
+                  extension of the Chronicles in 1587 added about a million words to their length, a
+                  total not significantly reduced either by cuts demanded by the censors or by
+                  excisions occasionally made by the compilers. Further investigation will certainly
+                  reveal many more examples of differences between the two editions, and of advances
+                  in depth and detail from the one to the other. </p>
+            </div>
+            <div>
+               <head>Holinshed's sources</head>
+               <p>Dr Summerson has been working on the sources underlying the Chronicles. One of the
+                  features of the preliminary matter in the 1577 edition is a list of 'The Names of
+                  the Authors from whome this Historie of England is collected'. In the first of
+                  what will be four treatments of the sources in this section of the website, we
+                  offer Dr Summerson's indentifications of these authors. A few have eluded
+                  identification, and we welcome suggestions. Please send relevant information to
+                  paulina.kewes@jesus.ox.ac.uk. </p>
+               <p> It is intended that the second list will cover named authors who are incidentally
+                  referred to, and that the third will contain, and as far as possible identify, the
+                  anonymous sources cited, while the fourth (and shortest) will provide references
+                  to information originating in personal contacts. </p>
+               <list>
+                  <item>Catalogue of principal sources used in the 1577 edition of Holinshed's
+                     Chronicles</item>
+                  <item>Catalogue of additional sources mentioned in passing in Holinshed's
+                     Chronicles</item>
+                  <item>Catalogue of anonymous sources mentioned in Holinshed's Chronicles</item>
+                  <item>List of personal sources used by the compilers of Holinshed's
+                     Chronicles</item>
+               </list>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
